@@ -34,7 +34,6 @@ const Offert = () => {
     },
   ]
 
-  
   return (
     <main>
       <div className="relative mt-[70px]">
@@ -55,7 +54,7 @@ const Offert = () => {
         />
       </div>
       <div className="mx-auto my-10 flex w-11/12 flex-col gap-10 md:flex-row">
-        <ImageTextBlock src="/mig.png" />
+        <ImageTextBlock src="/offert/mig.png" />
         <div className="flex w-full flex-col">
           <SectionTitle className="w-full">
             {t('Comprehensive MIG/MAG and TIG Welding Services')}
