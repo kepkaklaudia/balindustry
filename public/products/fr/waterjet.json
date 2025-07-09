@@ -1,0 +1,114 @@
+{
+  "basic_data": {
+    "pathID": "waterjet",
+    "name": "Primus Waterjet INTERMAC",
+    "additional_name": "Matériau à usiner : Acier, Acier inoxydable, Aluminium, Fonte, Métaux non ferreux, Plastique, Marbre, Verre",
+    "description": "Cette machine est utilisée dans l'industrie de la transformation de la pierre pour la production d'éléments décoratifs, de logos d'entreprise, de meubles et de décorations en pierre, en céramique et en d'autres matériaux tels que le bois, l'acier et le verre. C'est un outil rentable aussi bien pour la production unitaire que pour la production de masse.",
+    "with_data": true
+  },
+  "images": ["/products/images/waterjet/carousel1.svg"],
+  "floating_CTA": {
+    "title": "Primus Waterjet INTERMAC",
+    "image": "/products/images/waterjet/floatingCTA.svg",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Dimensions de la machine",
+      "value": "3900 x 6500 mm"
+    },
+    {
+      "name": "Puissance de la pompe",
+      "value": "22-100 kW"
+    },
+    {
+      "name": "Table de travail",
+      "value": "1860 x 4000 mm"
+    },
+    {
+      "name": "Pression",
+      "value": "420 MPa"
+    },
+    {
+      "name": "Dimension max. de la plaque",
+      "value": "1000 kg/m"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Centre d’usinage multifonction avec table de 4000x1860 mm",
+      "content": [
+        "Le Primus 322 offre une table de travail aux dimensions de 4000x1860 mm, permettant l’usinage de matériaux jusqu'à 250 mm d'épaisseur (3 axes) ou 200 mm (5 axes). La construction en acier inoxydable garantit stabilité et durabilité, tandis que l'utilisation efficace de l'abrasif permet une haute productivité avec une réduction des coûts d'exploitation. De plus, la machine est équipée d'un réservoir de 200 litres pour l’abrasif et l’eau, avec un système automatique de dosage et de nettoyage, garantissant un fonctionnement fluide et évitant les obstructions."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Primus avec système d'exploitation Windows",
+      "content": [
+        "Le Primus se distingue par son système de contrôle avancé, comprenant un PC avec système d'exploitation Windows. Cela permet non seulement d’exploiter la machine, mais aussi de préparer des projets dans une application CAD/CAM. En outre, la machine est équipée en standard d'un modem et d'une fonction de télémaintenance, permettant un accès à distance pour les mises à jour et les diagnostics. La sécurité est assurée par des barrières photoélectriques qui arrêtent la machine en cas de franchissement de la zone de travail."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Type de machine",
+      "param": ["Centre d’usinage 3 ou 5 axes pour la découpe hydro-abrasive"]
+    },
+    {
+      "name": "Pompe",
+      "param": ["Équipée d'une pompe BHDT"]
+    },
+    {
+      "name": "Matériau de construction",
+      "param": ["Structure porteuse et châssis en acier inoxydable"]
+    },
+    {
+      "name": "Contrôle",
+      "param": ["Contrôle via I-cam 3D"]
+    },
+    {
+      "name": "Système d’abrasif",
+      "param": ["Système de flux d’abrasif sous pression"]
+    },
+    {
+      "name": "Renforcement de pression",
+      "param": ["Amplificateur de jet sous pression"]
+    },
+    {
+      "name": "Pression nominale",
+      "param": ["420 MPa"]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "Installations de peinture humide et en poudre",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    }
+  ]
+}

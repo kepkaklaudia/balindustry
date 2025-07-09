@@ -1,0 +1,120 @@
+{
+  "basic_data": {
+    "pathID": "5-axis-cnc",
+    "name": "5-axis CNC",
+    "additional_name": "Material for machining: Steel, Stainless Steel, Aluminum, Cast Iron, Non-ferrous Metals, Plastic, Marble, Glass",
+    "description": "Thanks to our CNC machine, we have the ability to precisely grind, saw, drill, bevel, and polish profiles, allowing for the creation of complex shapes and high-standard engravings.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/5-axis-cnc/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "5-axis CNC",
+    "image": "/products/images/5-axis-cnc/floatingCTA.svg",
+    "content": "",
+    "button": "Request a quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. travel in X-axis",
+      "value": "3400 mm"
+    },
+    {
+      "name": "Storage capacity",
+      "value": "> 45"
+    },
+    {
+      "name": "Max. travel in Y-axis",
+      "value": "1650 mm"
+    },
+    {
+      "name": "Installed power",
+      "value": "22.5 kW"
+    },
+    {
+      "name": "Max. travel in Z-axis",
+      "value": "465 mm"
+    },
+    {
+      "name": "Spindle motor power",
+      "value": "15 kW (12,000 RPM)"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Provides execution of work in the scope of:",
+      "content": [
+        "Drilling",
+        "Milling",
+        "Internal and external edging",
+        "Profiling of straight and curved edges (half-round, quarter-round, chamfer)",
+        "Step profiling",
+        "Polishing of straight and curved edges",
+        "Creating surface channels",
+        "Beveling at a 45-degree angle",
+        "Deep milling of ceramic plate surfaces",
+        "Milling of anti-slip recesses on steps"
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Worktable",
+      "param": [
+        "3800x2000 mm",
+        "height 520 mm"
+      ]
+    },
+    {
+      "name": "Spindle motor",
+      "param": [
+        "15 kW"
+      ]
+    },
+    {
+      "name": "EasyStone DDX Software",
+      "param": [
+        "User-friendly, increased computing power"
+      ]
+    },
+    {
+      "name": "Holder for disc with max diameter",
+      "param": [
+        "350 mm",
+        "enabling linear cutting"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    },
+    {
+      "name": "TruLaser 3030 fiber | TRUMPF",
+      "image": "/products/images/trulaser-3030/carousel1.svg",
+      "link": "/product/trulaser-3030"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1161 1000" width="100%" height="100%">
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M672,434L672,427L671,420L670,413L667,406L665,400L661,394L658,388L653,382L648,377L643,372L638,367L632,364L625,360L619,358L612,355L605,354L598,353L591,353L584,353L577,354L570,355L563,358L556,360L550,364L544,367L538,372L533,377L528,382L524,388L520,394L517,400L514,406L512,413L510,420L509,427L509,434L509,442L510,449L512,456L514,462L517,469L520,475L524,481L528,487L533,492L538,497L544,501L550,505L556,508L563,511L570,513L577,515L584,516L591,516L598,516L605,515L612,513L619,511L625,508L632,505L638,501L643,497L648,492L653,487L658,481L661,475L665,469L667,462L670,456L671,449L672,442L672,434"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M0,788L161,828"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M161,828L142,905"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M178,74L0,788"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M142,905L509,997"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M509,997L518,999L526,1000L535,1000L543,999L552,998L560,996L568,994L576,990L583,986"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M987,744L583,986"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M987,744L994,739L1001,734L1007,728L1012,721L1017,714L1022,707L1026,700L1029,692L1031,684"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M1031,684L1160,166"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M1160,166L1021,166"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M1021,166L1021,0"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M1021,0L273,0"/>
+  <path fill="none" stroke="#000000" stroke-width="0.2%" d="M273,0L264,0L256,1L247,3L239,6L231,9L224,13L217,18L210,23L204,29L198,35L193,42L188,49L184,56L181,64L178,72L178,74"/>  </svg>

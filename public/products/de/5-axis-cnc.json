@@ -1,0 +1,120 @@
+{
+  "basic_data": {
+    "pathID": "5-axis-cnc",
+    "name": "5-Achsen CNC",
+    "additional_name": "Material zur Bearbeitung: Stahl, Edelstahl, Aluminium, Gusseisen, Buntmetalle, Kunststoffe, Marmor, Glas",
+    "description": "Dank unserer CNC-Maschine haben wir die Möglichkeit, Profile präzise zu schleifen, zu sägen, zu bohren, zu fasen und zu polieren. Dies ermöglicht die Herstellung komplexer Formen und die Durchführung von Gravuren mit einem hohen Maß an Veredelung.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/5-axis-cnc/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "5-Achsen CNC",
+    "image": "/products/images/5-axis-cnc/floatingCTA.svg",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. Verfahrwege in X-Achse",
+      "value": "3400 mm"
+    },
+    {
+      "name": "Magazinkapazität",
+      "value": "> 45"
+    },
+    {
+      "name": "Max. Verfahrwege in Y-Achse",
+      "value": "1650 mm"
+    },
+    {
+      "name": "Installierte Leistung",
+      "value": "22,5 kW"
+    },
+    {
+      "name": "Max. Verfahrwege in Z-Achse",
+      "value": "465 mm"
+    },
+    {
+      "name": "Leistung der Elektrowerkzeugspindel",
+      "value": "15 kW (12 000 U/min)"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Ermöglicht die Ausführung von Arbeiten in den Bereichen:",
+      "content": [
+        "Bohren",
+        "Fräsen",
+        "Innen- und Außenkantenbearbeitung",
+        "Profilierung von geraden und gebogenen Kanten (Halbrund, Viertelrund, Fase)",
+        "Stufenprofilierung",
+        "Polieren von geraden und gebogenen Kanten",
+        "Erstellung von Oberflächenkanälen",
+        "Fasen mit einem Winkel von 45 Grad",
+        "Tiefenfräsen von Keramikplatten",
+        "Fräsen von rutschhemmenden Vertiefungen auf Stufen"
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Arbeitstisch",
+      "param": [
+        "3800x2000 mm",
+        "Höhe 520 mm"
+      ]
+    },
+    {
+      "name": "Elektrowerkzeugspindel",
+      "param": [
+        "15 kW"
+      ]
+    },
+    {
+      "name": "Software EasyStone DDX",
+      "param": [
+        "Benutzerfreundlich, erhöhte Rechenleistung"
+      ]
+    },
+    {
+      "name": "Aufnahme für Sägeblatt mit maximalem Durchmesser",
+      "param": [
+        "350 mm",
+        "ermöglicht lineare Schnitte"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    },
+    {
+      "name": "TruLaser 3030 fiber | TRUMPF",
+      "image": "/products/images/trulaser-3030/carousel1.svg",
+      "link": "/product/trulaser-3030"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

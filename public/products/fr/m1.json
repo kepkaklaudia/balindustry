@@ -1,0 +1,151 @@
+{
+  "basic_data": {
+    "pathID": "m1",
+    "name": "M1",
+    "additional_name": "Matériau à usiner : Acier, Acier inoxydable, Aluminium, Fonte, Métaux non ferreux, Plastique",
+    "description": "Grâce à sa conception innovante et à ses technologies avancées, la série de machines M1 est appréciée pour sa qualité de fabrication et sa capacité à s’adapter de manière flexible à diverses tâches de production.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/m1/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "M1",
+    "image": "/products/images/m1/floatingCTA.svg",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Déplacement max. sur l’axe X",
+      "value": "550 mm"
+    },
+    {
+      "name": "Largeur max. de la pièce usinée",
+      "value": "650 mm"
+    },
+    {
+      "name": "Déplacement max. sur l’axe Y",
+      "value": "550 mm"
+    },
+    {
+      "name": "Hauteur max. de la pièce usinée",
+      "value": "615 mm"
+    },
+    {
+      "name": "Déplacement max. sur l’axe Z",
+      "value": "550 mm"
+    },
+    {
+      "name": "Poids max. de la pièce",
+      "value": "600 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Rigidité exceptionnelle assurant un usinage efficace et une haute qualité de surface",
+      "content": [
+        "Grâce à sa rigidité exceptionnelle, notre machine M1 permet non seulement un usinage efficace, mais garantit également une qualité de surface optimale. Cette caractéristique unique assure la stabilité du processus d’usinage, offrant ainsi des résultats de production excellents et des pièces précises sans compromis."
+      ],
+      "image": "/products/images/m1/mainCharacteristics1.svg"
+    },
+    {
+      "title": "Conception de broche en ligne avec une grande expérience mondiale",
+      "content": [
+        "Notre conception éprouvée de broche en ligne, avec plus de 3 000 unités installées dans le monde entier, garantit fiabilité et performance durable. Grâce à sa grande capacité thermique, notre machine assure une stabilité thermique essentielle pour maintenir la précision et la qualité pendant l’usinage."
+      ],
+      "image": "/products/images/m1/mainCharacteristics2.webp"
+    },
+    {
+      "title": "Espace de travail optimisé",
+      "content": [
+        "Notre machine offre un espace de travail optimisé associé à une conception compacte, permettant un usinage efficace même dans un espace réduit. La table, mesurant 850 x 650 mm et supportant jusqu'à 600 kg, se distingue par une rigidité élevée, garantissant stabilité et précision pendant le processus d’usinage."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Bâti massif et monolithique",
+      "param": [
+        "Assure une grande stabilité thermique",
+        "Poids : 2 400 kg"
+      ]
+    },
+    {
+      "name": "Table fixe avec rainures en T",
+      "param": [
+        "1 × 18H7",
+        "5 × 18H12"
+      ]
+    },
+    {
+      "name": "Large écartement des guidages",
+      "param": [
+        "580 mm sur l’axe X / déplacement 550 mm",
+        "560 mm sur l’axe Y / déplacement 550 mm",
+        "260 mm sur l’axe Z / déplacement 510 mm"
+      ]
+    },
+    {
+      "name": "Usinage de barres",
+      "param": [
+        "Diamètre jusqu’à : 32 (38) mm"
+      ]
+    },
+    {
+      "name": "Broche en ligne",
+      "param": [
+        "Vitesse de rotation : 10 000 tr/min ou 12 000 tr/min"
+      ]
+    },
+    {
+      "name": "Refroidissement interne (version PRO)",
+      "param": [
+        "20 bar"
+      ]
+    },
+    {
+      "name": "Magasin d’outils à 24 positions",
+      "param": [
+        "Avec préhenseur double"
+      ]
+    },
+    {
+      "name": "Nivellement facile",
+      "param": [
+        "Sur 3 pieds + 2 pieds supplémentaires pour améliorer la rigidité dynamique de la machine"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "CNC 5 axes",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

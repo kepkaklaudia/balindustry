@@ -1,0 +1,559 @@
+{
+  "metaData": {
+    "homepage": {
+      "title": "Solutions CNC Innovantes, Découpe, Usinage et Automatisation Industrielle | BAL Industry",
+      "description": "BAL Industry propose des services CNC, de découpe, d'usinage, de soudage, d'automatisation et de robotisation. Découvrez des solutions innovantes pour améliorer la productivité de votre production."
+    },
+    "about": {
+      "title": "Votre Partenaire en Automatisation Industrielle et Production | BAL Industry",
+      "description": "Découvrez BAL Industry - experts en CNC, découpe, soudage et automatisation. Notre entreprise garantit performance et qualité de production."
+    },
+    "automation": {
+      "title": "Automatisation des Machines et Équipements | Augmentez l'Efficacité de la Production | BAL Industry",
+      "description": "Découvrez nos services de modernisation des machines et équipements pour l'automatisation. Améliorez la productivité et la précision de votre production. Contactez-nous !"
+    },
+    "calculator": {
+      "title": "Calculez le Coût de la Découpe Laser | BAL Industry",
+      "description": "Utilisez notre calculateur pour estimer le coût de la découpe laser. Calculez le coût de découpe des matériaux en fonction des paramètres sélectionnés. Nous estimons précisément les coûts de production pour votre projet."
+    },
+    "contact": {
+      "title": "Contactez BAL Industry - Votre partenaire industriel",
+      "description": "Vous avez des questions ou besoin d'assistance ? Utilisez notre formulaire de contact. Nous sommes des experts en automatisation et industrie."
+    },
+    "forms": {
+      "title": "Commandez des Services de Pliage, Soudage, Assemblage et plus | BAL Industry",
+      "description": "Utilisez notre formulaire pour commander des services de pliage, soudage, assemblage, peinture, usinage CNC et bien plus. Remplissez le formulaire et recevez une estimation rapide !"
+    },
+    "product": {
+      "title": "Machines Industrielles Modernes | BAL Industry",
+      "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants.",
+      "single": {
+        "title": "Poste Single | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "dual": {
+        "title": "Poste Dual | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "twin-one-axis": {
+        "title": "Poste Twin One-axis | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "waterjet": {
+        "title": "Waterjet | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "trupunch-5000": {
+        "title": "TruPunch 5000 | TRUMPF | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "trulaser-7000": {
+        "title": "TruLaser Tube 7000 fiber | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "trulaser-3030": {
+        "title": "TruLaser 3030 fiber | TRUMPF | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "bending-station": {
+        "title": "Poste de Pliage | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "arc-d600": {
+        "title": "ARC D600 | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "arc-b250": {
+        "title": "ARC B250 | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "arc-trackmotion-2t": {
+        "title": "ARC Trackmotion 2t | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "clx-350": {
+        "title": "CLX 350 | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "dmu-75-monoblock": {
+        "title": "DMU 75 monoBLOCK | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "dmu-210-p": {
+        "title": "DMU 210 P | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "sprint-32I5": {
+        "title": "SPRINT 32I5 | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "m1": {
+        "title": "M1 | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "lh": {
+        "title": "LH | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "5-axis-cnc": {
+        "title": "CNC 5 axes | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "nlx-2500": {
+        "title": "NLX 2500 | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "surface-treatment": {
+        "title": "Traitement de surface | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "furnace": {
+        "title": "Fours à chambre | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "vertical-warehouse": {
+        "title": "Entrepôt vertical de tôles | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "paintshops-installation": {
+        "title": "Installation de Cabines de Peinture | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "alw-1200": {
+        "title": "ALW 1200 | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des soudeuses. Grâce à notre parc technologique, réalisez même les projets les plus exigeants."
+      },
+      "flex-esab": {
+        "title": "Flex Cobot Esab | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des postes à souder. Grâce à notre parc technologique de machines, vous pourrez réaliser même les projets les plus exigeants."
+      },
+      "flex-fronius": {
+        "title": "Flex Cobot Fronius | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des postes à souder. Grâce à notre parc technologique de machines, vous pourrez réaliser même les projets les plus exigeants."
+      },
+      "service-paintshop": {
+        "title": "Peinture en poudre et peinture humide | BAL Industry",
+        "description": "Nous proposons des outils industriels avancés, y compris des découpeuses laser et des postes à souder. Grâce à notre parc technologique de machines, vous pourrez réaliser même les projets les plus exigeants."
+      }
+    },
+    "ar": {
+      "title": "Aperçu en 3D | BAL Industry",
+      "description": "Visualisez notre produit en trois dimensions."
+    }
+  },
+  "about": {
+    "Our company": "Notre entreprise est présente sur le marché depuis 1998. Nous nous sommes rapidement développés en tant qu’usine de production fabriquant une large gamme de produits à différentes fins. Avec l’augmentation de la demande du marché pour nos produits, nous avons investi dans le développement de notre parc de machines afin d’améliorer l’efficacité et la qualité de nos produits.",
+    "About us": "À propos de nous"
+  },
+  "automation": {
+    "The modernization": "La modernisation des machines et des équipements en termes d'automatisation est un processus d'intégration de technologies et de solutions modernes dans des machines et équipements existants afin d'augmenter leur niveau d'automatisation et leur efficacité. Cela implique la modification, l'amélioration ou le remplacement de pièces, de composants ou de systèmes dans les équipements existants afin de leur permettre de fonctionner de manière totalement ou partiellement autonome.",
+    "Machine and equipment automation": "Automatisation des machines et équipements"
+  },
+  "calculator": {
+    "Do you want": "Vous souhaitez connaître le coût de nos services de découpe ? Veuillez remplir le formulaire ci-dessous et télécharger le fichier correspondant afin que nous puissions estimer le coût avec précision et adapter l'offre à vos besoins.",
+    "Acceptable file": "Extension de fichier acceptée : .dxf (max. 8MB)",
+    "Cutting quotation": "Devis de découpe"
+  },
+  "contact": {
+    "Thank you": "Merci de votre intérêt pour notre entreprise ! Veuillez remplir le formulaire ci-dessous pour nous contacter. Nous ferons de notre mieux pour vous répondre dans les plus brefs délais.",
+    "Contact form": "Formulaire de contact"
+  },
+  "forms": {
+    "Follow us": "Suivez-nous:",
+    "Dear Customer": "Cher client,",
+    "Please fill": "Veuillez remplir les détails de votre demande afin que nous puissions adapter l'offre à vos besoins. Laissez vos coordonnées, et nous vous rappellerons pour discuter de votre demande.",
+    "Offer Form": "Formulaire d'offre"
+  },
+  "product": {
+    "We cannot": "Nous ne pouvons pas récupérer les données",
+    "Check your internet": "Vérifiez votre connexion Internet",
+    "Data unavailable": "Données indisponibles",
+    "Open in": "Ouvrir en réalité augmentée (AR)",
+    "Error": "Erreur - échec du chargement du modèle"
+  },
+  "components": {
+    "about": {
+      "Why": "Pourquoi Balindustry?",
+      "We specialize": "Nous nous spécialisons dans l’adaptation de solutions d’automatisation personnalisées aux besoins de diverses industries. Notre entreprise enchaîne les succès dans la réalisation de projets et le développement de partenariats mondiaux. Ensemble, nous visons à améliorer l’efficacité et l’automatisation au sein de votre entreprise.",
+      "Excellence in production": "Excellence dans la\u00A0production",
+      "Thanks to": "Grâce à un parc de machines moderne, BAL\u00A0Industry peut produire efficacement divers composants tout en respectant les normes de qualité les plus élevées. Nous utilisons des technologies avancées et l’expertise de nos spécialistes pour répondre aux attentes de nos clients.",
+      "What do we do": "Que faisons-nous?",
+      "Thanks to our own experience": "Grâce à notre propre expérience, nous avons acquis une connaissance approfondie des processus, des défis et des besoins des usines de production ayant un profil similaire, et nous souhaitons partager ce savoir avec d'autres. Nous pouvons vous aider à accroître l’efficacité et à améliorer la qualité de la production.",
+      "Our machines": "Nos machines",
+      "Our offer": "Notre offre comprend des postes robotisés, des systèmes de transport et de stockage, des machines de soudage et bien d'autres équipements innovants. Grâce à cela, nous sommes en mesure de répondre de manière globale aux besoins variés de nos clients, en leur offrant un service de la plus haute qualité.",
+      "Modern applications": "Applications modernes",
+      "Creativity": "Créativité",
+      "Quality": "Qualité",
+      "Teamwork": "Travail d'équipe",
+      "Ingenuity": "Ingéniosité",
+      "Thanks to our continuous": "Grâce à notre recherche constante de nouvelles technologies et méthodes de travail, nous sommes en mesure de créer des solutions uniques et avancées qui apportent des avantages à nos clients.",
+      "Our company places": "Notre entreprise met un fort accent sur l'innovation et la créativité. Nous nous efforçons de développer en permanence des solutions novatrices qui apportent de la valeur à nos partenaires.",
+      "Quality is the foundation": "La qualité est le fondement de notre activité. Tous nos produits et services sont soigneusement conçus et rigoureusement contrôlés afin de garantir à nos clients le plus haut niveau de satisfaction.",
+      "Working together": "Le travail en équipe nous permet d’obtenir des résultats exceptionnels et d’atteindre efficacement les objectifs du projet.",
+      "We strive": "Nous aspirons à créer un environnement inspirant qui favorise le développement de concepts originaux et de solutions innovantes.",
+      "Years on the market": "Années sur le marché",
+      "Completed projects": "Projets réalisés",
+      "Positive reviews": "Avis positifs",
+      "Cups of coffee": "Tasses de café"
+    },
+    "automation": {
+      "Adding sensors and actuators": "Ajout de capteurs et d’actionneurs",
+      "Automation of control systems": "Automatisation du contrôle",
+      "Integration with IT systems": "Intégration avec les systèmes informatiques",
+      "Energy optimization": "Optimisation énergétique",
+      "Robotics and process automation": "Robotisation et automatisation des processus",
+      "Installation of additional sensors": "Installation de capteurs supplémentaires, tels que des capteurs optiques, des capteurs de force et des capteurs de position, permettant aux machines de collecter des données sur l’environnement, l’état de fonctionnement ou le produit.",
+      "Implementation of modern control": "Utilisation de systèmes de contrôle et d’automatisation modernes, tels que les automates programmables industriels (API/PLC) ou les systèmes SCADA (Supervisory Control and Data Acquisition), permettant la programmation, la surveillance et le contrôle du fonctionnement des machines et équipements.",
+      "Connecting machines": "Connexion des machines et équipements aux systèmes informatiques, tels que les systèmes de gestion de la production (MES) ou les systèmes de planification des ressources de l’entreprise (ERP), permettant l’échange de données et l’intégration des processus de production.",
+      "Implementation of solutions": "Mise en œuvre de solutions visant à réduire la consommation d’énergie, telles que des moteurs efficaces, la régulation de vitesse, l’utilisation de sources d’énergie renouvelables et la récupération de l’énergie cinétique.",
+      "Implementation of industrial robots": "Introduction de robots industriels ou de systèmes d’automatisation pour effectuer des opérations ou des tâches spécifiques dans le processus de production. Cela peut inclure l’assemblage, le soudage, l’emballage, le tri et bien d’autres activités."
+    },
+    "calculator": {
+      "Unfortunately": "Malheureusement, l’aperçu du fichier n’est pas disponible.",
+      "Error": "Erreur",
+      "Thank you": "Merci",
+      "Something went wrong": "Quelque chose s’est mal passé",
+      "Failed to": "Échec de l’envoi de la demande.",
+      "Please fill": "Veuillez remplir les coordonnées.",
+      "Your inquiry": "Votre demande a été envoyée avec succès.",
+      "No model": "Aucun modèle n’a été configuré. Veuillez fournir les données de configuration.",
+      "No value": "Aucune valeur",
+      "Values for a single unit": "Valeurs pour une seule unité",
+      "Data in millimeters": "Données en millimètres:",
+      "Laser cutting length": "Longueur de coupe au laser:",
+      "Surface area:": "Surface:",
+      "Mass:": "Masse:",
+      "Data in meters:": "Données en mètres:",
+      "Add to the inquiry": "Ajouter à la demande",
+      "File name:": "Nom du fichier: ",
+      "Material:": "Matériau: ",
+      "Thickness:": "Épaisseur: ",
+      "Quantity:": "Nombre de pièces: ",
+      "List of": "Liste des configurations sélectionnées",
+      "Provide us": "Fournissez-nous vos coordonnées afin que nous puissions vous contacter",
+      "Full name": "Nom et prénom *",
+      "Your email": "Votre e-mail *",
+      "Request a quote": "Demander un devi",
+      "Loading": "Chargement",
+      "Material": "Matériau",
+      "Select a material from the list": "Sélectionnez un matériau dans la liste",
+      "Quantity": "Nombre de pièces",
+      "Enter the target quantity of pieces": "Indiquez le nombre cible de pièces",
+      "Thickness": "Épaisseur",
+      "Enter the material thickness for cutting": "Indiquez l’épaisseur du matériau à découper",
+      "What does": "À quoi ressemble le fichier optimal?",
+      "An optimal file": "Un fichier optimal pour la découpe laser se compose d'une seule pièce. Tous les contours sont fermés et la couleur du contour de découpe est blanche.",
+      "What should be": "À quoi faut-il faire attention ?",
+      "The following points": "Les points suivants doivent être pris en compte :",
+      "the file should contain": "le fichier doit contenir uniquement le contour de découpe",
+      "there should be": "un seul élément doit être présent par fichie",
+      "lines should not overlap": "les lignes ne doivent pas se superposer",
+      "the file should not": "le fichier ne doit pas contenir de données ou d’informations supplémentaires",
+      "when exporting": "lors de l’exportation depuis un programme 3D, aucune autre vue ne doit être sélectionnée",
+      "the file should not contain": "le fichier ne doit pas contenir d’en-tête de dessin",
+      "lines should be": "les lignes doivent être blanches (les lignes rouges ne seront pas découpées)",
+      "contours should be closed": "les contours doivent être fermés",
+      "What mistakes": "Quels erreurs faut-il éviter ?",
+      "A file containing": "Un fichier contenant les erreurs suivantes ne doit pas être soumis :",
+      "colored lines": "lignes colorées",
+      "open contours": "contours ouverts",
+      "borders around the drawing edges": "encadrement par les bords du dessin",
+      "material information and text annotations": "informations sur le matériau et annotations textuelles",
+      "multiple parts in the same file": "plusieurs pièces dans le même fichier",
+      "or": "ou",
+      "drag": "faites-les glisser et déposez-les ici. Max. 8MB",
+      "Invalid file type": "Type de fichier invalide",
+      "Add files for quotation": "Ajouter des fichiers pour le devis",
+      "Select files": "Sélectionner des fichiers"
+    },
+    "common": { "Loading": "Chargement..." },
+    "contact": {
+      "Contact us": "Contactez-nous",
+      "Send us an email": "Envoyez-nous un e-mail ou commencez une conversation en remplissant le formulaire ci-dessous.",
+      "Contact us directly": "Contactez-nous directement !",
+      "Get in touch with Robert": "Contactez Robert Mrozik pour toute demande concernant",
+      "the robotics": "le service robotique ou soudage",
+      "Get in touch with Jakub": "Contactez Jakub Sobisz pour toute demande concernant",
+      "the installation": " l’installation de cabines de peinture, le stockage vertical des tôles, le traitement de surface ou les fours à chambre.",
+      "Phone": "Téléphone",
+      "Email": "E-mail"
+    },
+    "forms": {
+      "Add file": "Ajouter un fichier",
+      "File uploaded": "Fichier téléchargé",
+      "No file selected": "Aucun fichier sélectionné",
+      "Select the type": "Sélectionnez le type de traitement (sélection multiple\u00A0possible) :",
+      "Full name is required": "Le nom et le prénom sont requis",
+      "Full name *": "Nom et prénom *",
+      "Enter your full name": "Entrez votre nom et prénom",
+      "Message subject is required": "Le sujet du message est requis",
+
+      "Message subject *": "Sujet du message *",
+      "Enter the message subject": "Entrez le sujet du message",
+      "Email is required": "L’e-mail est requis",
+      "Enter your email address": "Entrez votre adresse e-mail",
+      "Email is invalid": "L’e-mail est invalide",
+      "Message is required": "Le message est requis",
+      "Your message *": "Votre message *",
+      "Send": "Envoyer",
+
+      "Please select": "Veuillez sélectionner au moins une option",
+      "The field accepts": "Le champ n’accepte que des chiffres",
+
+      "Phone number *": "Numéro de téléphone *",
+      "Enter your phone number": "Entrez votre numéro de téléphone",
+      "The field must": "Le champ doit contenir au moins 6 chiffres",
+      "The field can": "Le champ peut contenir au maximum 15 chiffres",
+      "Phone number is required": "Le numéro de téléphone est requis",
+
+      "Thank you": "Merci d’avoir soumis votre demande.",
+      "Oops": "Oups, quelque chose s’est mal passé ! Veuillez réessayer plus tard.",
+
+      "bending": "Pliage",
+      "welding": "Soudage",
+      "spot_welding": "Soudage par points",
+      "painting": "Peinture",
+      "cnc_processing": "Usinage CNC",
+      "rolling": "Laminage",
+      "mdf_processing_painting": "Traitement et peinture MDF",
+      "large_welding": "Soudage de grande taille",
+      "satinizing": "Satinage",
+      "blunting": "Arrondir les bords",
+      "grinding": "Meulage",
+      "tig": "TIG",
+      "mig": "MIG",
+      "laser": "Laser",
+      "other": "Autre",
+      "wet": "Humide",
+      "powder": "Poudre",
+      "select_processing_method": "Sélectionnez une méthode de traitement",
+      "select_welding_type": "Sélectionnez le type de soudage",
+      "select_welding_type_required": "Le type de soudage est requis",
+      "select_painting_technology": "Sélectionnez la technologie de peinture",
+      "select_painting_technology_required": "La technologie de peinture est requise",
+      "max_dimensions_required": "Les dimensions maximales sont requises",
+      "max_dimensions_label": "Dimensions maximales de la pièce *",
+      "max_dimensions_placeholder": "Entrez les dimensions maximales de la pièce",
+      "weight_required": "Le poids est requis",
+      "weight_label": "Poids de la pièce *",
+      "weight_placeholder": "Entrez le poids de la pièce",
+      "temperature_required": "La température de fonctionnement est requise",
+      "temperature_label": "Température de fonctionnement continue requise *",
+      "temperature_placeholder": "Entrez la température requise",
+      "window_dimensions_required": "Les dimensions de la fenêtre du four sont requises",
+      "window_dimensions_label": "Dimensions de la fenêtre du four attendues *",
+      "window_dimensions_placeholder": "Entrez les dimensions attendues de la fenêtre du four"
+    },
+    "homePage": {
+      "Browse": "Parcourez notre catalogue",
+      "Learn more about": "En savoir plus sur nos machines grâce au catalogue.",
+      "Learn more about workshop": "En savoir plus sur l'équipement de l'atelier",
+      "We use": "Nous utilisons les outils suivants :",
+      "Learn more": "En savoir plus",
+      "Download catalog": "Télécharger le catalogue",
+      "OUR PARTNERS": "NOS PARTENAIRES",
+
+      "Product portfolio": "Portfolio de produits",
+      "in the field": "dans le domaine de la robotique et de\u00A0l'automatisation",
+
+      "Robotics and automation": "Robotique et\u00A0automatisation",
+      "Machine park": "Parc de machines",
+      "Products": "Produits",
+      "Services": "Services",
+      "Form": "Formulaire",
+      "Are you curious": "Vous vous demandez pourquoi nos clients nous font autant confiance ? Découvrez les solutions que nous\u00A0utilisons.",
+      "Check out": "Découvrez les équipements sur lesquels nous travaillons et voyez pourquoi nous sommes les meilleurs ! La qualité n'est pas un simple\u00A0mot pour nous.",
+      "Discover": "Découvrez notre offre de produits destinée aux entreprises de toutes tailles ! Augmentez la productivité dans\u00A0votre\u00A0entreprise.",
+      "Want to": "Vous souhaitez collaborer ou en savoir plus sur notre offre ? Utilisez notre calculateur ou remplissez le formulaire\u00A0de\u00A0contact.",
+      "Solutions": "Solutions",
+      "Check our services": "Découvrez nos services.",
+      "Fill out the offer form on our website": "Remplissez le formulaire d'offre sur notre site Web.",
+      "Discover modern solutions": "Découvrez des solutions modernes",
+      "for industry": "pour l'industrie",
+      "We provide": "Nous fournissons des solutions d'automatisation personnalisées et adaptées à chaque secteur. Nous réalisons avec succès des projets et développons des partenariats mondiaux. Ensemble, nous améliorerons l'efficacité et l'automatisation de votre entreprise.",
+      "Introducing": "Introduction de robots industriels ou de systèmes d’automatisation pour effectuer des opérations ou des tâches spécifiques dans le processus de production. Cela peut inclure l’assemblage, le soudage, l’emballage, le tri et bien d’autres\u00A0activités.",
+      "A well-equipped": "Un parc de machines bien équipé permet une production efficace, augmente la flexibilité opérationnelle et permet la réalisation de divers projets avec des outils et\u00A0technologies adaptés.",
+      "We offer machines": "Nous proposons des machines pour le traitement des surfaces planes. Nous concevons et livrons des systèmes de stockage de tôles, tels que des solutions de stockage de paquets de tôles et des solutions de stockage pour éléments avec palettes de transport. Nous proposons également des fours à haute température utilisés dans divers processus\u00A0technologiques.",
+      "Based on knowledge": "En nous appuyant sur les connaissances et\u00A0l’expérience de nos spécialistes, nous adaptons nos services aux besoins et\u00A0exigences individuels de nos clients, leur garantissant un service professionnel et\u00A0une satisfaction quant aux résultats\u00A0obtenus."
+    },
+    "layout": {
+      "About us": "À propos de nous",
+      "Robotic workstations": "Postes robotisés",
+      "Single workstation": "Poste de travail unique",
+      "Robotic workstation": "Poste de travail robotisé",
+      "Twin One-axis workstation": "Poste Twin One-axe",
+      "Welding automation": "Automatisation du soudage",
+      "Dual workstation": "Poste de travail double",
+      "Machine and equipment automation": "Automatisation des machines et équipements",
+      "Products Machines": "Produits Machines",
+      "Surface treatment": "Traitement de surface",
+      "Vertical sheet metal storage": "Stockage vertical de tôles",
+      "Chamber furnaces": "Fours à chambre",
+      "Wet and powder coating booths": "Cabines de peinture humide et en poudre",
+      "Our machine park": "Notre parc machines",
+      "Metal processing department": "Département de traitement des métaux",
+      "CNC processing department": "Département d'usinage CNC",
+      "Services": "Services",
+      "Offer form": "Formulaire d'offre",
+      "Cutting quotation": "Devis de découpe",
+      "Powder and wet painting": "Peinture en poudre et humide",
+      "Contact": "Contact",
+
+      "Single Workstation": "Poste unique",
+      "Dual Workstation": "Poste de travail double",
+      "Twin One-axis Workstation": "Poste Twin One-axe",
+      "Waterjet": "Waterjet",
+      "TruPunch 5000 | TRUMPF": "TruPunch 5000 | TRUMPF",
+      "TruLaser Tube 7000 fiber": "TruLaser Tube 7000 fibre",
+      "TruLaser 3030 fiber | TRUMPF": "TruLaser 3030 fibre | TRUMPF",
+      "Bending workstation": "Poste de pliage",
+      "ARC D600": "ARC D600",
+      "ARC B250": "ARC B250",
+      "ARC Trackmotion 2t": "ARC Trackmotion 2t",
+      "CLX 350": "CLX 350",
+      "DMU 75 monoBLOCK": "DMU 75 monoBLOCK",
+      "DMU 210 P": "DMU 210 P",
+      "SPRINT 32I5": "SPRINT 32I5",
+      "M1": "M1",
+      "LH": "LH",
+      "5-axis CNC": "CNC 5 axes",
+      "NLX 2500": "NLX 2500",
+      "ALW-1200": "ALW-1200",
+      "Flex Cobot Esab": "Flex Cobot Esab",
+      "Flex Cobot Fronius": "Flex Cobot Fronius",
+
+      "Chamber furnace": "Four à chambre",
+      "Satin finishing machine": "Machine de satinage",
+
+      "MIG, MAG, TIG offert": "Offre MIG, MAG, TIG",
+      "Laser Services Offer": "Offre de services laser"
+    },
+    "product": {
+      "Other customers also checked": "D'autres clients ont également consulté",
+      "Main features": "Caractéristiques principales",
+      "Parameters": "Paramètres",
+      "Similar products": "Produits similaires",
+
+      "Paint shop 1": "Atelier de peinture 1",
+      "Max detail weight": "Poids max. du détail",
+      "Paint shop 2": "Atelier de peinture 2",
+      "See in augmented reality AR": "Voir en réalité augmentée AR",
+      "Feature": "Caractéristique",
+      "Description": "Description",
+
+      "Sheet metal storage": "Stockage de tôles",
+      "Max sheet size": "Dimensions maximales de la tôle",
+      "Own weight": "Poids propre",
+      "Number of drawers": "Nombre de tiroirs",
+      "Storage for elements with pallets": "Stockage des éléments avec palettes",
+
+      "See in 3D": "Voir en\u00A03D"
+    }
+  },
+
+  "offert": {
+    "Comprehensive Welding Services": "Services de soudage complets - MIG/MAG et TIG",
+    "BAL Industry is a modern company": "BAL Industry est une entreprise moderne spécialisée, entre autres, dans la prestation de services de soudage par procédés MIG/MAG et TIG, aussi bien en technologie manuelle que robotisée. Notre expérience, notre personnel qualifié et notre parc machine développé nous permettent de réaliser même les projets les plus exigeants, quelle que soit leur envergure. BAL Industry propose des services à partir de pièces fournies par le client ou une réalisation complète à partir de la documentation technique.",
+    "Comprehensive MIG/MAG and TIG Welding Services": "Services de soudage MIG/MAG et TIG - manuels et robotisés",
+    "Manual Welding:": "Soudage manuel:",
+    "Experienced welders": "Soudeurs expérimentés et certifiés",
+    "Unit, repair, and small-batch production": "Travaux unitaires, de réparation ou en petites séries",
+    "Ability to work with various materials": "Possibilité de travailler sur différents matériaux : acier noir, inox, aluminium",
+    "Robotic Welding:": "Soudage robotisé:",
+    "Robotic welding cells": "Cellules de soudage robotisées garantissant répétabilité et efficacité",
+    "Ideal for serial and mass production": "Solution idéale pour la production en série et grande série",
+    "Methods: MIG/MAG and TIG": "Procédés MIG/MAG et TIG",
+    "For Complete Product Execution, We Offer:": "Pour la réalisation complète d'un produit, nous proposons:",
+    "Cutting and burning parts": "Découpe et usinage de pièces",
+    "Precise cutting": "découpe précise d'aciers, d'inox et d'aluminium",
+    "CNC machining": "Usinage CNC",
+    "Milling, turning, drilling with high dimensional accuracy": "Fraisage, tournage, perçage avec haute précision dimensionnelle",
+    "Bending components": "Pliage d'éléments",
+    "Modern press brakes": "Presses plieuses modernes permettant le pliage de formes complexes",
+    "Welding": "Soudage",
+    "Manual or robotic": "Manuel ou robotisé, adapté aux exigences du projet",
+    "Painting": "Peinture",
+    "In-house painting": "Dans nos propres ateliers : peinture en poudre et peinture liquide",
+    "Production of Welding Workstations": "Fabrication de postes de soudage - manuels et robotisés",
+    "As a manufacturer": "En tant que fabricant, BAL Industry propose également la conception, la réalisation et l'intégration de postes de soudage personnalisés qui augmentent la productivité et l'ergonomie dans les ateliers de nos clients.",
+    "Manual Welding Workstations:": "Postes de soudage manuels:",
+    "Custom-designed to client requirements": "Conception sur mesure, selon les besoins du client",
+    "Option for integration": "Intégration possible avec systèmes d'extraction et de ventilation",
+    "Equipped with": "Équipés de sources d'alimentation et d'accessoires adaptés - prêts à l'emploi pour la production unitaire ou les interventions de maintenance",
+    "Robotic Welding Workstations:": "Postes de soudage robotisés:",
+    "Complete cells": "Cellules et lignes complètes avec robots industriels ou collaboratifs",
+    "Options with": "Options avec positionneurs, rails de guidage, etc.",
+    "Programming, commissioning": "Programmation, mise en service et formation des opérateurs incluses",
+    "*Each workstation": "*Chaque poste est conçu individuellement, sur la base d'une analyse détaillée des besoins du client, en respectant les normes de sécurité, ainsi que les exigences ergonomiques et de production.",
+    "BAL Industry - Technology That Unites Your Production": "BAL Industry - La technologie qui soude votre production",
+    "Whether you need": "Que vous ayez besoin d'un travail de soudage ponctuel, d'une modernisation de votre ligne de production ou d'équiper votre atelier de postes MIG/MAG ou TIG modernes - BAL Industry vous apporte une solution sur mesure.",
+    "Why Choose BAL Industry?": "Pourquoi choisir BAL Industry?",
+    "Comprehensive services": "Service complet",
+    "from design": "de la conception à la peinture finale",
+    "Modern technologies": "Technologies modernes",
+    "robotic welding systems, CNC, paint shops": "systèmes de soudage robotisés, CNC, cabines de peinture",
+    "Flexible execution": "Flexibilité de production",
+    "customer-supplied": "à partir de matériaux clients ou production complète",
+
+    "High quality": "Haute qualité",
+
+    "experience, quality control": "expérience, contrôle qualité",
+
+    "Individual approach": "Approche personnalisée",
+    "solutions tailored": "des solutions adaptées à votre production",
+
+    "Our projects": "Nos projets",
+
+    "hashtags": "#Soudage, #MIGMAG, #TIG, #CNC, #Industrie40, #ServicesDeSoudage, #Automatisation, #Production, #Métal, #BalIndustry, #Fabrication, #TravailDuMétal, #SoudageManuel, #SoudageRobotisé, #TechnologieDeSoudage, #PostesDeSoudage, #ProductionIndustrielle, #UsinageCNC, #DécoupeLaser, #PliageDeTôle, #PeintureEnPoudre, #PeintureLiquide, #AutomatisationDeLaProduction, #FabricationSurMesure, #IngénierieDeProduction, #ProduitsMétalliques, #SoudureIndustrielle, #Usine, #Qualité, #IndustrieMétallurgique, #ProductionModerne, #Technologie, #Innovation, #Robots, #Cobots, #Précision",
+
+    "Laser Services Offer": "Offre de Services Laser",
+
+    "In the era of Industry": "À l'ère de l'industrie 4.0, la fiabilité, la précision et l'efficacité des processus de production sont plus cruciales que jamais. BAL Industry répond à ces exigences en proposant des solutions complètes et des équipements pour le soudage, la découpe et le nettoyage laser.",
+
+    "We are a modern company": "Nous sommes une entreprise moderne spécialisée notamment dans les services laser manuels et robotisés. Grâce à notre infrastructure technologique avancée, nous assurons une réalisation complète des projets - allant du traitement de pièces fournies par le client jusqu'à la production d'éléments à partir de plans techniques.",
+    "Scope of Laser Services": "Gamme de Services Laser",
+    "Laser Welding:": "Soudage Laser:",
+    "Precise and durable": "Assemblage précis et durable d'éléments métalliques, qu'ils soient à paroi mince ou plus épaisse.",
+    "High-quality, aesthetic welds": "Cordons de soudure esthétiques et nets, sans nécessité de finition supplémentaire.",
+    "Available as manual welding": "Réalisation manuelle (pour pièces uniques ou atypiques) ou robotisée (pour les séries plus importantes).",
+    "Processing possible": "ravail possible aussi bien sur des pièces fournies que fabriquées par BAL Industry.",
+
+    "Laser Cutting:": "Découpe laser:",
+    "Fast, clean": "Découpe rapide, propre et reproductible de tôles en acier et en acier inoxydable",
+    "Execution based": "Réalisation sur la base d'un dessin technique ou d'un modèle fourni par le client",
+    "High precision": "Haute précision permettant de minimiser les pertes de matériau",
+
+    "Laser Cleaning:": "Nettoyage laser:",
+    "Removal of rust": "Élimination de la rouille, des revêtements de peinture et des impuretés des surfaces métalliques sans endommager la structure du matériau",
+    "An excellent alternative": "Excellente alternative aux méthodes chimiques et mécaniques agressives",
+
+    "BAL Industry is not just": "BAL Industry n'est pas seulement un prestataire de services, mais aussi un fournisseur de solutions complètes en automatisation et robotisation. Nous concevons et mettons en œuvre des cellules de production robotisées, adaptées aux besoins spécifiques de chaque client, notamment:",
+
+    "robotic welding stations": "postes de soudage robotisé",
+
+    "machining cells": "cellules d'usinages",
+    "automated cutting and bending lines": "lignes automatiques de découpe et de pliages",
+
+    "Our solutions": "Nos solutions s'appuient sur des technologies éprouvées et des contrôleurs industriels fiables.",
+
+    "Flexibility and Comprehensive Execution": "Souplesse et Réalisation Complète",
+
+    "Thanks to a modern": "Grâce à notre parc de machines moderne et à une équipe de spécialistes expérimentés, BAL Industry réalise:",
+
+    "Processing of": "Des projets à partir de pièces fournies par le client",
+
+    "Complete in-house": "L'ensemble du processus de production : découpe de matériaux appropriés (acier noir, inox), usinage CNC, pliage, soudage",
+
+    "Option to finish": "Finitions possibles dans nos propres ateliers de peinture (poudrage et peinture liquide)",
+
+    "We work based on:": "Nous collaborons sur la base de:",
+
+    "Ready-made components": "Pièces prêtes à l'emploi",
+
+    "Technical drawings": "Plans techniques",
+
+    "Preliminary concepts": "Concepts initiaux développés par notre bureau d'études",
+
+    "hashtags-laser": "#SoudageLaser, #DécoupeLaser, #NettoyageLaser, #ServicesLaser, #UsinageMétal, #TechnologieLaser, #LaserDansLIndustrie, #RobotisationDesProcessus, #ProductionModerne, #BALIndustry, #ParcMachines, #ProductionSurMesure, #SoudageRobotisé, #DécoupeAuLaser, #PliageDeTôles, #UsinageDeTôles, #PiècesMétalliques, #RéalisationDeProjet, #ProductionComplète, #PrécisionLaser, #PuissanceLaser, #HauteQualité, #Industrie4_0, #UsineModerne, #Laser, #Qualité, #Précision, #Production, #Technologie, #Innovations, #Industrie, #Robotique"
+  }
+}

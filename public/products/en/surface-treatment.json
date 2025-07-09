@@ -1,0 +1,109 @@
+{
+  "basic_data": {
+    "pathID": "surface-treatment",
+    "name": "Surface Treatment",
+    "additional_name": "",
+    "description": "A device used for surface finishing by removing irregularities and creating a smooth, matte finish using a rotating brush or disc.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/surface-treatment/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "Satin Finishing Machine",
+    "image": "/products/images/surface-treatment/carousel1.svg",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/forms/satin",
+    "qp": "",
+    "ar": true,
+    "arLink": "/product/surface-treatment/SATYNIARKA"
+  },
+  "parameters": [
+    {
+      "name": "Dimensions",
+      "value": "480 mm"
+    },
+    {
+      "name": "Motors",
+      "value": "5.5 kW"
+    },
+    {
+      "name": "Max. Workpiece Height",
+      "value": "300 mm"
+    },
+    {
+      "name": "Max. Workpiece Length",
+      "value": "1200 mm"
+    }
+  ],
+  "specification": [
+    {
+      "name": "Dimensions",
+      "param": [
+        "480 mm"
+      ]
+    },
+    {
+      "name": "Motors",
+      "param": [
+        "5.5 kW"
+      ]
+    },
+    {
+      "name": "Max. Workpiece Height",
+      "param": [
+        "300 mm"
+      ]
+    },
+    {
+      "name": "Max. Workpiece Length",
+      "param": [
+        "1200 mm"
+      ]
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Satin Finishing, Deburring, and Edge Rounding",
+      "content": [
+        "Thanks to innovative technologies and precise craftsmanship, our machines ensure efficiency and professionalism in every application. Take advantage of our solutions to achieve perfectly prepared surfaces for further processing or finishing, meeting the highest industry standards."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Satin Finishing Machine with Three Modules for Different Processing Types",
+      "content": [
+        "A 480 mm wide abrasive belt, cup grinding wheels, and a shaft for surface satin finishing. This device enables fast and efficient surface preparation for painting or coating, ensuring a professional and aesthetically pleasing final result."
+      ],
+      "image": ""
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    },
+    {
+      "name": "Twin One-axis Workstation",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "Surface Treatment",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "5-Axis CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    }
+  ]
+}

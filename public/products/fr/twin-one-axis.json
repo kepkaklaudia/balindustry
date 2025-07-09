@@ -1,0 +1,171 @@
+{
+  "basic_data": {
+    "pathID": "twin-one-axis",
+    "name": "Poste de travail Twin One-axis",
+    "additional_name": "Robot Gofa 15000, UR5/UR 12",
+    "description": "Ce poste de soudage moderne offre une double efficacité et flexibilité dans le processus de soudage. Équipé de deux postes de travail, il permet de travailler sur deux stations simultanément, augmentant ainsi l’efficacité de la production.",
+    "with_data": true
+  },
+  "floating_CTA": {
+    "title": "Twin One-axis",
+    "image": "/products/images/twin-one-axis/floatingCTA.png",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "images": [
+    "/products/images/twin-one-axis/carousel1.png",
+    "/products/images/twin-one-axis/carousel2.png",
+    "/products/images/twin-one-axis/carousel3.png",
+    "/products/images/twin-one-axis/carousel4.png"
+  ],
+  "parameters": [
+    {
+      "name": "Zone de travail",
+      "value": "800x1200mm"
+    },
+    {
+      "name": "Source lumineuse",
+      "value": "LED"
+    },
+    {
+      "name": "Source de soudage",
+      "value": "Fronius / ESAB"
+    },
+    {
+      "name": "Positionneur",
+      "value": "Monaxial 300 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Commande avancée",
+      "content": [
+        "L’ensemble du système de commande est basé sur le dernier automate programmable S7-1500, qui constitue le cerveau opérationnel du poste de travail. Ce contrôleur, qui est non seulement un contrôleur logique mais aussi technologique, est capable d’effectuer des calculs complexes pour optimiser le processus de soudage. Associé à l’îlot ET200 SP, le contrôleur assure un contrôle total sur tous les aspects du poste, permettant une utilisation optimale des ressources et garantissant une haute qualité et efficacité du processus de soudage."
+      ],
+      "image": "/products/images/twin-one-axis/main-characteristics1.png"
+    },
+    {
+      "title": "Positionneurs monaxiaux",
+      "content": [
+        "Les positionneurs permettent une rotation précise de la pièce soudée à un angle donné pendant le processus de soudage. Grâce à l’utilisation des servomoteurs Siemens de la série S210, l’automate S7-1500 peut contrôler avec précision le mouvement et la position des positionneurs, permettant un ajustement efficace de la pièce à la position optimale pendant le soudage. Cette intégration garantit non seulement une grande précision et qualité de soudage, mais aussi une flexibilité d’adaptation aux différents types de pièces et aux exigences de production."
+      ],
+      "image": "/products/images/twin-one-axis/main-characteristics2.png"
+    },
+    {
+      "title": "Protection frontale à commande électrique",
+      "content": [
+        "La protection frontale à commande électrique offre non seulement un accès facile à l’intérieur de la station, mais assure également une protection supplémentaire pour le personnel. Grâce à son contrôle électrique, elle peut être ouverte et fermée rapidement et précisément, améliorant ainsi le confort d’utilisation."
+      ],
+      "image": "/products/images/twin-one-axis/main-characteristics3.png"
+    },
+    {
+      "title": "Visualisation du processus",
+      "content": [
+        "Le panneau HMI Siemens Unified de 5 pouces fournit à l’opérateur une visualisation intuitive du processus de soudage. Cela permet une identification rapide des éventuels problèmes et un suivi en temps réel des paramètres de fonctionnement."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Station de nettoyage de la torche et calibration du point TCP du robot",
+      "content": [
+        "La cellule est équipée d’une station de nettoyage de la torche spécialement conçue ainsi que d’un système de calibration du point TCP du robot, garantissant des conditions de travail optimales et un soudage précis."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Système de sécurité",
+      "content": [
+        "Le système de sécurité basé sur un contrôleur Siemens Fail-Safe assure une protection complète du personnel travaillant sur le poste de travail."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Rail de déplacement avec robot mobile",
+      "param": [
+        "2,5m"
+      ]
+    },
+    {
+      "name": "Sources de soudage",
+      "param": [
+        "Mig/Mag ; Laser"
+      ]
+    },
+    {
+      "name": "Rail de déplacement avec robot mobile",
+      "param": [
+        [
+          "2,5m"
+        ]
+      ]
+    },
+    {
+      "name": "Système de contrôle",
+      "param": [
+        "Automate Siemens"
+      ]
+    },
+    {
+      "name": "Tables rotatives de soudage",
+      "param": [
+        "Capacité de charge jusqu’à 300 kg"
+      ]
+    },
+    {
+      "name": "Deux zones de travail aux dimensions",
+      "param": [
+        "1250x1000 mm"
+      ]
+    },
+    {
+      "name": "Équipement supplémentaire",
+      "param": [
+        "Possibilité de déplacement du poste"
+      ]
+    },
+    {
+      "name": "Commande des positionneurs",
+      "param": [
+        "Intégrée au contrôleur du robot"
+      ]
+    },
+    {
+      "name": "Système de sécurité",
+      "param": [
+        "Conforme aux normes de sécurité"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Poste de travail Dual",
+      "image": "/products/images/dual/carousel1.svg",
+      "link": "/product/dual"
+    },
+    {
+      "name": "ALW 1200 - Soudeuse linéaire automatique",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    },
+    {
+      "name": "Fours à chambre",
+      "image": "/products/images/furnace/carousel1.svg",
+      "link": "/product/furnace"
+    },
+    {
+      "name": "Poste de travail Single",
+      "image": "/products/images/single/carousel1.svg",
+      "link": "/product/single"
+    }
+  ]
+}

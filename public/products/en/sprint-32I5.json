@@ -1,0 +1,168 @@
+{
+  "basic_data": {
+    "pathID": "sprint-32I5",
+    "name": "SPRINT 32I5",
+    "additional_name": "Processing material: Steel, Stainless Steel, Aluminum, Cast Iron, Non-ferrous Metals, Plastic",
+    "description": "An advanced turning machine ensuring precise machining of workpieces with various shapes and dimensions, utilizing a maximum material diameter of 32 mm and five controlled tool axes.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/sprint-32I5/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "SPRINT 32I5",
+    "image": "/products/images/sprint-32I5/floatingCTA.svg",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. X-axis travel",
+      "value": "70 mm"
+    },
+    {
+      "name": "Max. workpiece length",
+      "value": "240 mm"
+    },
+    {
+      "name": "Max. Y-axis travel",
+      "value": "405 mm"
+    },
+    {
+      "name": "Max. collet internal diameter",
+      "value": "8000 kg"
+    },
+    {
+      "name": "Max. Z-axis travel",
+      "value": "100 mm"
+    },
+    {
+      "name": "Max. workpiece diameter",
+      "value": "32 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Efficiency and Versatility",
+      "content": [
+        "We offer advanced automatic machining capabilities with 5 linear axes and a C-axis. Equipped with a main spindle featuring impressive parameters such as a rotational speed of 8500 RPM, a torque of 40.4 Nm, and a power of 5.5 kW, along with an additional sub-spindle with a rotational speed of 8500 RPM, a torque of 14 Nm, and a power of 2.2 kW, ensuring high efficiency and machining precision. Additionally, the optional SWISSTYPEkit enables machining of both short and long parts on a single machine, and the ability to process bars up to 32 (38) mm in diameter makes our machine a versatile tool for producing precise components."
+      ],
+      "image": "/products/images/sprint-32I5/main-characteristics1.svg"
+    },
+    {
+      "title": "Modular Platform Design with 22 Tool Stations",
+      "content": [
+        "Our platform features a modular design, providing flexibility for various production processes. A set of 22 tool stations, with 4 driven tools as standard, allows optimal machine utilization. Additionally, driven tool spindles reach speeds of up to 6000 RPM, a torque of 3 Nm, and a power of 1 kW, ensuring high efficiency and machining precision."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Advanced Control Panel with FANUC 32i-B Plus",
+      "content": [
+        "Our machine is equipped with an advanced control panel featuring a 10.4-inch color display, enabling intuitive operation via the FANUC 32i-B Plus system. With 2 control channels, 5 linear axes, and a C-axis, we provide flexibility and precision for various production processes. Additionally, an optional tool monitoring system with a graphical tool load indicator allows optimal process management. Our machine supports up to 2 tools working simultaneously, ensuring maximum productivity and efficiency in manufacturing."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Breakthrough in Digital Precision: Platform with Maximum Rigidity and Accuracy",
+      "content": [
+        "Our platform represents a revolutionary step in digital industrial precision. With constant rigidity ensured by large, balanced linear guides, along with vertical covers and an unobstructed chip flow, we guarantee unparalleled machining quality. Additionally, integrated motor spindles for the main and sub-spindle with a direct measuring system ensure the highest level of precision. Our thermosymmetrical machine bed construction guarantees maximum accuracy for every task."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Main Spindle",
+      "param": [
+        "Rotational Speed: 8500 RPM",
+        "Torque: 40.4 Nm",
+        "Power: 5.5 kW"
+      ]
+    },
+    {
+      "name": "Sub-Spindle",
+      "param": [
+        "Rotational Speed: 8500 RPM",
+        "Torque: 14 Nm",
+        "Power: 2.2 kW"
+      ]
+    },
+    {
+      "name": "SWISSTYPEkit",
+      "param": [
+        "For machining short and long parts on one machine"
+      ]
+    },
+    {
+      "name": "Bar Machining",
+      "param": [
+        "Diameter up to 32 (38) mm"
+      ]
+    },
+    {
+      "name": "Tool Stations",
+      "param": [
+        "Total: 22",
+        "Driven tool stations as standard: 4"
+      ]
+    },
+    {
+      "name": "Driven Tool Spindles",
+      "param": [
+        "Rotational Speed: 6000 RPM",
+        "Torque: 3 Nm",
+        "Power: 1 kW"
+      ]
+    },
+    {
+      "name": "Control System",
+      "param": [
+        "2 control channels",
+        "5 linear axes and a C-axis"
+      ]
+    },
+    {
+      "name": "Tool Monitoring System",
+      "param": [
+        "With graphical tool load indicator (optional)"
+      ]
+    },
+    {
+      "name": "Simultaneous Operation",
+      "param": [
+        "Up to 2 tools working simultaneously"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "5-Axis CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "basic_data": {
+    "pathID": "furnace",
+    "name": "Kammeröfen",
+    "additional_name": "",
+    "description": "Der Ofen dient verschiedenen Arten der Wärmebehandlung von Chargen bei Temperaturen von 900°C bis 1260°C. In Öfen mit ausfahrbarem Herd kann zudem eine gleichmäßige Temperaturverteilung eingestellt werden.",
+    "with_data": false
+  },
+  "images": [
+    "/products/images/furnace/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "Kammeröfen",
+    "image": "/products/images/furnace/carousel1.svg",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/forms/furnaces",
+    "ar": true,
+    "arLink": "/product/furnace/PIEC"
+  },
+  "parameters": [
+    {
+      "name": "Fahrbare Herde",
+      "value": "2"
+    },
+    {
+      "name": "Leistung",
+      "value": "140kW"
+    },
+    {
+      "name": "Innenmaße (mm)",
+      "value": "1850 x 900 x 3600"
+    },
+    {
+      "name": "Außenmaße (mm)",
+      "value": "3100 x 3400 x 14000"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "",
+      "content": [
+        ""
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "5-Achsen CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "Twin One-axis Arbeitsplatz",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    },
+    {
+      "name": "Nass- und Pulverbeschichtungsanlagen",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

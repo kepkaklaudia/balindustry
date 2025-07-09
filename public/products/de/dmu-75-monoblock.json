@@ -1,0 +1,159 @@
+{
+  "basic_data": {
+    "pathID": "dmu-75-monoblock",
+    "name": "DMU 75 monoBLOCK",
+    "additional_name": "Werkstoff zur Bearbeitung: Stahl, Edelstahl, Aluminium, Gusseisen, Buntmetalle, Kunststoffe",
+    "description": "Die DMU 75 monoBLOCK ist ein leistungsstarkes Bearbeitungszentrum, das hauptsächlich in der Metallindustrie eingesetzt wird. Sie ermöglicht sowohl Fräs- als auch Drehbearbeitung. Dank ihrer kompakten Bauweise und fortschrittlichen Automatisierungsfunktionen ist die DMU 75 monoBLOCK eine beliebte Wahl in der Ingenieurbranche.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/dmu-75-monoblock/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "DMU 75 monoBLOCK",
+    "image": "/products/images/dmu-75-monoblock/floatingCTA.svg",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. Verfahrweg in X-Achse",
+      "value": "750 mm"
+    },
+    {
+      "name": "Max. Werkstücklänge",
+      "value": "500 mm"
+    },
+    {
+      "name": "Max. Verfahrweg in Y-Achse",
+      "value": "650 mm"
+    },
+    {
+      "name": "Max. Werkstückgewicht",
+      "value": "600 kg"
+    },
+    {
+      "name": "Max. Verfahrweg in Z-Achse",
+      "value": "560 mm"
+    },
+    {
+      "name": "Max. Werkstückdurchmesser",
+      "value": "840 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Ergonomisches Design für optimale Leistung",
+      "content": [
+        "Dank der großen Türöffnung und der kompakten Bauweise nimmt sie nur 8 m² Fläche ein und ermöglicht einen einfachen Zugang zum Arbeitsbereich. Zudem erlaubt die uneingeschränkte Kranbeladung bis 600 kg sowie der schnelle Zugang durch die 3-Punkt-Auflage eine effiziente Nutzung in anspruchsvollen Produktionsaufgaben."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Präzise Lösungen für perfekte Details",
+      "content": [
+        "Sie zeichnet sich durch höchste Präzision dank umfassender Kühlung, leistungsstarkem Kühlmittel und standardmäßiger Mehrsensor-Kompensation aus. Mit einer Positioniergenauigkeit von 4 µm in der Standardausführung ermöglicht sie die Herstellung von Werkstücken höchster Qualität. Zudem gewährleisten direkt angetriebene Kugelumlaufspindeln in den X- und Y-Achsen zuverlässige und effiziente Bearbeitungsprozesse."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Zuverlässigkeit und Stabilität in einem",
+      "content": [
+        "Dank der steifen monoBLOCK-Konstruktion bietet die DMU 75 maximale Stabilität, die durch eine massive Gussstruktur erreicht wird. Die einteilige Säule mit großen, stabilen Gleit- und Rollenführungen mit einem Durchmesser von 45 mm in allen Achsen sorgt für hohe Zuverlässigkeit während der Bearbeitung. Zusätzlich garantieren große Kugelumlaufspindeln in allen Achsen mit ø 40 / 50 / 40 mm sowie die FEM-optimierte Bauweise höchste Stabilität. Die Klemmen des Drehtisches ergänzen die Konstruktion und sichern eine solide und präzise Fixierung der Werkstücke während der Bearbeitung."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Große Türöffnung",
+      "param": [
+        "1310 mm"
+      ]
+    },
+    {
+      "name": "Einzigartiger Zugang zum Arbeitsbereich",
+      "param": [
+        "Maximal kompakte Maschine mit nur 8 m² Stellfläche"
+      ]
+    },
+    {
+      "name": "Uneingeschränkte Kranbeladung",
+      "param": [
+        "Beladung mit Kran bis 600 kg"
+      ]
+    },
+    {
+      "name": "Schneller und einfacher Zugang",
+      "param": [
+        "3-Punkt-Auflage"
+      ]
+    },
+    {
+      "name": "Umfassende Kühlung",
+      "param": [
+        "Leistungsstarkes Kühlmittel und standardmäßige Mehrsensor-Kompensation"
+      ]
+    },
+    {
+      "name": "Positioniergenauigkeit",
+      "param": [
+        "4 µm in der Standardausführung"
+      ]
+    },
+    {
+      "name": "Direktantrieb in X- und Y-Achse",
+      "param": [
+        "Direkt angetriebene Kugelumlaufspindeln in den X- und Y-Achsen"
+      ]
+    },
+    {
+      "name": "Einteilige Säule",
+      "param": [
+        "Große, stabile Gleitführungen und Rollenführungen mit 45 mm Durchmesser in allen Achsen"
+      ]
+    },
+    {
+      "name": "Maximale Stabilität",
+      "param": [
+        "Große Kugelumlaufspindeln in allen Achsen ø 40 / 50 / 40 mm"
+      ]
+    },
+    {
+      "name": "FEM-Optimierung",
+      "param": [
+        "Aller Bauteile"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "Oberflächenbearbeitung",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "CLX 350",
+      "image": "/products/images/clx-350/carousel1.svg",
+      "link": "/product/clx-350"
+    }
+  ]
+}

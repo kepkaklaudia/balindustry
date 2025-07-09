@@ -1,0 +1,116 @@
+{
+  "basic_data": {
+    "pathID": "waterjet",
+    "name": "Primus Waterjet INTERMAC",
+    "additional_name": "Material zur Bearbeitung: Stahl, Edelstahl, Aluminium, Gusseisen, Buntmetalle, Kunststoffe, Marmor, Glas",
+    "description": "Diese Maschine findet Anwendung in der Steinverarbeitungsbranche zur Herstellung von Musterelementen, Firmenlogos, Möbeln und Dekorationen aus Stein, Keramik sowie anderen Materialien wie Holz, Stahl und Glas. Sie ist ein kosteneffizientes Werkzeug sowohl für die Einzel- als auch für die Massenproduktion.",
+    "with_data": true
+  },
+  "images": ["/products/images/waterjet/carousel1.svg"],
+  "floating_CTA": {
+    "title": "Primus Waterjet INTERMAC",
+    "image": "/products/images/waterjet/floatingCTA.svg",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Maschinenabmessungen",
+      "value": "3900 x 6500 mm"
+    },
+    {
+      "name": "Pumpenleistung",
+      "value": "22-100 kW"
+    },
+    {
+      "name": "Arbeitstisch",
+      "value": "1860 x 4000 mm"
+    },
+    {
+      "name": "Druck",
+      "value": "420 MPa"
+    },
+    {
+      "name": "Maximale Plattengröße",
+      "value": "1000 kg/m"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Multifunktionales Bearbeitungszentrum mit Tisch 4000x1860 mm",
+      "content": [
+        "Der Primus 322 bietet einen Arbeitstisch mit den Maßen 4000x1860 mm und ermöglicht die Bearbeitung von Materialien mit einer Dicke von bis zu 250 mm (3 Achsen) oder 200 mm (5 Achsen). Die Edelstahlkonstruktion sorgt für Stabilität und Langlebigkeit, während die effiziente Nutzung des Schleifmittels eine hohe Leistung bei reduzierten Arbeitskosten ermöglicht. Darüber hinaus ist die Maschine mit einem 200-Liter-Behälter für Schleifmittel und Wasser ausgestattet, der über ein automatisches Dosier- und Reinigungssystem verfügt, um einen reibungslosen Betrieb zu gewährleisten und Verstopfungen zu vermeiden."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Primus mit Windows-Betriebssystem",
+      "content": [
+        "Der Primus zeichnet sich durch ein fortschrittliches Steuerungssystem aus, das einen PC mit Windows-Betriebssystem umfasst. Dadurch kann die Maschine nicht nur bedient, sondern auch Projekte in einer CAD/CAM-Anwendung vorbereitet werden. Zudem ist die Maschine standardmäßig mit einem Modem und einer Teleservice-Funktion ausgestattet, die den Fernzugriff auf das Gerät für Updates und Diagnosen ermöglicht. Die Sicherheit während des Betriebs wird durch Lichtschranken gewährleistet, die die Maschine ausschalten, wenn die Barriere um das Arbeitsfeld überschritten wird."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Maschinentyp",
+      "param": [
+        "3- oder 5-Achsen-Bearbeitungszentrum für Wasserstrahlschneiden"
+      ]
+    },
+    {
+      "name": "Pumpe",
+      "param": ["Ausgestattet mit einer BHDT-Pumpe"]
+    },
+    {
+      "name": "Konstruktionsmaterial",
+      "param": ["Tragstruktur und Gehäuse aus Edelstahl"]
+    },
+    {
+      "name": "Steuerung",
+      "param": ["Steuerung mit I-cam 3D"]
+    },
+    {
+      "name": "Schleifmittelsystem",
+      "param": ["Druckfluss-Schleifmittelsystem"]
+    },
+    {
+      "name": "Druckverstärkung",
+      "param": ["Druckstrahlverstärker"]
+    },
+    {
+      "name": "Nennarbeitsdruck",
+      "param": ["420 MPa"]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "Nass- und Pulverbeschichtungsanlagen",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    }
+  ]
+}

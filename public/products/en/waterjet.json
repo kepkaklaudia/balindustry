@@ -1,0 +1,130 @@
+{
+  "basic_data": {
+    "pathID": "waterjet",
+    "name": "Primus Waterjet INTERMAC",
+    "additional_name": "Material for processing: Steel, Stainless steel, Aluminum, Cast iron, Non-ferrous metals, Plastic, Marble, Glass",
+    "description": "This machine is used in the stone processing industry for producing pattern elements, company logos, furniture, and decorations from stone, ceramics, and other materials such as wood, steel, and glass. It is a cost-effective tool for both single and mass production.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/waterjet/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "Primus Waterjet INTERMAC",
+    "image": "/products/images/waterjet/floatingCTA.svg",
+    "content": "",
+    "button": "Request a quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Machine dimensions",
+      "value": "3900 x 6500 mm"
+    },
+    {
+      "name": "Pump power",
+      "value": "22-100 kW"
+    },
+    {
+      "name": "Worktable",
+      "value": "1860 x 4000 mm"
+    },
+    {
+      "name": "Pressure",
+      "value": "420 MPa"
+    },
+    {
+      "name": "Max plate size",
+      "value": "1000 kg/m"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Multifunctional Processing Center with 4000x1860 mm Table",
+      "content": [
+        "The Primus 322 offers a worktable with dimensions of 4000x1860 mm, allowing material processing up to 250 mm thick (3 axes) or 200 mm (5 axes). The stainless steel construction ensures stability and durability, while efficient abrasive usage allows for high productivity with reduced operating costs. Additionally, the machine is equipped with a 200-liter tank for abrasives and water, featuring an automatic dosing and cleaning system to ensure smooth operation and prevent blockages."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Primus with Windows Operating System",
+      "content": [
+        "The Primus stands out with its advanced control system, which includes a PC with a Windows operating system. This allows not only machine operation but also project preparation in a CAD/CAM application. Additionally, the machine comes standard with a modem and a teleservice function, enabling remote access for updates and diagnostics. Safety during operation is ensured by photocells that shut down the machine if the barrier around the work area is crossed."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Machine type",
+      "param": [
+        "3- or 5-axis processing center for water-abrasive cutting"
+      ]
+    },
+    {
+      "name": "Pump",
+      "param": [
+        "Equipped with a BHDT pump"
+      ]
+    },
+    {
+      "name": "Construction material",
+      "param": [
+        "Load-bearing structure and housing made of stainless steel"
+      ]
+    },
+    {
+      "name": "Control",
+      "param": [
+        "Controlled via I-cam 3D"
+      ]
+    },
+    {
+      "name": "Abrasive system",
+      "param": [
+        "Pressure-flow abrasive system"
+      ]
+    },
+    {
+      "name": "Pressure intensification",
+      "param": [
+        "Pressure jet intensifier"
+      ]
+    },
+    {
+      "name": "Nominal pressure",
+      "param": [
+        "420 MPa"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "Wet and Powder Coating Installations",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    }
+  ]
+}

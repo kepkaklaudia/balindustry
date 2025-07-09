@@ -1,0 +1,110 @@
+{
+  "basic_data": {
+    "pathID": "flex-fronius",
+    "name": "Flex Cobot Fronius",
+    "additional_name": "",
+    "description": "Un ensemble de soudage universel pour les applications robotiques utilisant des robots collaboratifs, prêt à travailler avec des pièces de différentes tailles.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/flex-fronius/carousel1.png",
+    "/products/images/flex-fronius/carousel2.png",
+    "/products/images/flex-fronius/carousel3.png",
+    "/products/images/flex-fronius/carousel4.png",
+    "/products/images/flex-fronius/carousel5.png"
+  ],
+  "floating_CTA": {
+    "title": "Flex Cobot Fronius",
+    "image": "/products/images/flex-fronius/carousel1.png",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Facilité d'utilisation",
+      "content": [
+        "Le logiciel convivial basé sur une application permet un accès instantané à la programmation des pièces, à l’analyse pour une meilleure répétabilité et disponibilité, ainsi qu'au suivi des performances."
+      ],
+      "image": "/products/images/flex-fronius/carousel5.png"
+    },
+    {
+      "title": "Fonctionnalité innovante",
+      "content": [
+        "La fonctionnalité avancée par impulsions réduit l’apport de chaleur dans le matériau et minimise les projections, améliorant ainsi l’efficacité en réduisant les reprises, ce qui permet d’économiser du temps et des coûts."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Table de travail",
+      "param": [
+        "800x1000 mm",
+        "1000x1000 mm",
+        "1200x1200 mm"
+      ]
+    },
+    {
+      "name": "Méthode de soudage",
+      "param": [
+        "MIG/MAG"
+      ]
+    },
+    {
+      "name": "Portée du robot collaboratif",
+      "param": [
+        "0,9 m"
+      ]
+    },
+    {
+      "name": "Possibilité de changement d'outil pour les tâches suivantes",
+      "param": [
+        "Manutention",
+        "Assemblage",
+        "Meulage"
+      ]
+    },
+    {
+      "name": "Adaptateurs de fixation pour robots",
+      "param": [
+        "ABB et UR"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Flex Cobot Esab",
+      "image": "/products/images/flex-esab/carousel1.png",
+      "link": "/product/flex-esab"
+    },
+    {
+      "name": "ALW 1200 - Soudeur linéaire automatique",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    }
+  ]
+}

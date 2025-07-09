@@ -1,0 +1,74 @@
+{
+  "basic_data": {
+    "pathID": "paintshops-installation",
+    "name": "Wet and Powder Coating Paint Shops",
+    "additional_name": "",
+    "description": "We design paint shops according to the requirements of each customer. We adjust the dimensions of the paint shop to meet the customer's needs in terms of every working parameter of the designed paint shop.",
+    "with_data": false
+  },
+  "images": [
+    "/products/images/paintshops-installation/carousel1.png",
+    "/products/images/paintshops-installation/carousel2.png",
+    "/products/images/paintshops-installation/carousel3.png",
+    "/products/images/paintshops-installation/floatingCTA.png"
+  ],
+  "floating_CTA": {
+    "title": "Paint Shop",
+    "image": "/products/images/paintshops-installation/floatingCTA.png",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/forms/paintshops",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Customized solutions using the latest technologies",
+      "content": [
+        "Our company specializes in the design and comprehensive execution of powder and wet coating paint shops. We provide turnkey projects tailored to the available space and the size of the parts to be coated. We collaborate with renowned global manufacturers of painting booths and components for paint shops. Our design team consists of highly qualified engineers and designers. We also have a well-equipped machine park for production and extensive technical facilities used in the manufacturing and assembly process. We offer projects utilizing state-of-the-art technologies, including scanners for analyzing painted elements and adjusting the movements of powder spray guns to match the shape of the parts."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    },
+    {
+      "name": "Wet and Powder Coating Paint Shops",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "Surface Treatment",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "5-Axis CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    }
+  ]
+}

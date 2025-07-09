@@ -1,0 +1,91 @@
+{
+  "basic_data": {
+    "pathID": "arc-d600",
+    "name": "ARC D600",
+    "additional_name": "",
+    "description": "",
+    "with_data": false
+  },
+  "images": [
+    "/products/images/arc-d600/carousel1.png"
+  ],
+  "floating_CTA": {
+    "title": "ARC D600",
+    "image": "/products/images/arc-d600/floatingCTA.png",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Positionneur",
+      "value": "IRBP D-600"
+    },
+    {
+      "name": "Source de soudage",
+      "value": "Fronius"
+    },
+    {
+      "name": "Capacité de charge",
+      "value": "600 kg"
+    },
+    {
+      "name": "Longueur max.",
+      "value": "2000 mm"
+    },
+    {
+      "name": "Avec tube Loadmaster 9,2 m",
+      "value": "9200 mm"
+    },
+    {
+      "name": "Matériau soudable",
+      "value": "Acier noir et inoxydable"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "",
+      "content": [
+        ""
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "CNC 5 axes",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "Traitement de surface",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    }
+  ]
+}

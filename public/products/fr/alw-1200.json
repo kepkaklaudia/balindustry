@@ -1,0 +1,156 @@
+{
+  "basic_data": {
+    "pathID": "alw-1200",
+    "name": "ALW 1200 - Soudeur Linéaire Automatique",
+    "additional_name": "",
+    "description": "La machine ALW-1200 est conçue pour le soudage longitudinal automatique des composants roulés avec des diamètres adaptés aux besoins du client. En fonction des exigences du processus de soudage et du matériau des composants roulés, notre appareil peut être adapté au soudage par méthode TIG et/ou MIG/MAG.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/alw-1200/carousel1.png",
+    "/products/images/alw-1200/carousel2.png",
+    "/products/images/alw-1200/carousel3.png",
+    "/products/images/alw-1200/carousel4.png",
+    "/products/images/alw-1200/carousel5.png",
+    "/products/images/alw-1200/carousel6.png"
+  ],
+  "floating_CTA": {
+    "title": "ALW 1200",
+    "image": "/products/images/alw-1200/carousel1.png",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Moteur",
+      "value": "HIWIN EM1"
+    },
+    {
+      "name": "Contrôle",
+      "value": "Siemens S7 - 1200"
+    },
+    {
+      "name": "Longueur de soudage",
+      "value": "max. 2100 mm"
+    },
+    {
+      "name": "Panneau opérateur",
+      "value": "HMI"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Possibilité de souder des pièces de différentes longueurs grâce à l'utilisation de sections de serrage divisées pour l'élément soudé",
+      "content": [
+        ""
+      ],
+      "image": "/products/images/alw-1200/mainCharacteristics1.png"
+    },
+    {
+      "title": "Système de guidage linéaire fiable et servomoteur",
+      "content": [
+        "L'entraînement du chalumeau et du faisceau de câbles repose sur un système de guidage linéaire fiable et un servomoteur Hiwin.",
+        "Le support de soudage peut être ajusté selon les axes Y et Z."
+      ],
+      "image": "/products/images/alw-1200/mainCharacteristics2.png"
+    }
+  ],
+  "specification": [
+    {
+      "name": "Diamètre de l'élément soudé",
+      "param": [
+        "min. 190, max. 1200 mm"
+      ]
+    },
+    {
+      "name": "Longueur de soudage",
+      "param": [
+        "max. 2100 mm"
+      ]
+    },
+    {
+      "name": "Épaisseur des matériaux assemblés",
+      "param": [
+        "0,5 - 8 mm"
+      ]
+    },
+    {
+      "name": "Source de soudage",
+      "param": [
+        "Fronius/Esab"
+      ]
+    },
+    {
+      "name": "Méthode de soudage",
+      "param": [
+        "MIG/MAG & TIG"
+      ]
+    },
+    {
+      "name": "Longueur d'arc",
+      "param": [
+        "constante sur toute la longueur"
+      ]
+    },
+    {
+      "name": "Refroidissement",
+      "param": [
+        "plaque de support (mandrin), chalumeau"
+      ]
+    },
+    {
+      "name": "Contrôle",
+      "param": [
+        "Siemens S7 - 1200"
+      ]
+    },
+    {
+      "name": "Moteur",
+      "param": [
+        "Servomoteur HIWIN EM1"
+      ]
+    },
+    {
+      "name": "Panneau opérateur",
+      "param": [
+        "HMI"
+      ]
+    },
+    {
+      "name": "Barre d'appui",
+      "param": [
+        "Cuivre résistant à l'usure"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Flex Cobot Esab",
+      "image": "/products/images/flex-esab/carousel1.png",
+      "link": "/product/flex-esab"
+    },
+    {
+      "name": "Traitement de surface",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "Flex Cobot Fronius",
+      "image": "/products/images/flex-fronius/carousel1.png",
+      "link": "/product/flex-fronius"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    }
+  ]
+}

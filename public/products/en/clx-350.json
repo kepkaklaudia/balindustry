@@ -1,0 +1,182 @@
+{
+  "basic_data": {
+    "pathID": "clx-350",
+    "name": "CLX 350",
+    "additional_name": "Processing material: Steel, Stainless Steel, Aluminum, Cast Iron, Non-ferrous Metals, Plastic",
+    "description": "CLX 350 is an advanced turn-mill machine redefining the standards of universal turning machining. It provides unparalleled adaptability to individual user needs, ensuring versatility, precision, and efficiency regardless of the material or project complexity.",
+    "with_data": true
+  },
+  "floating_CTA": {
+    "title": "CNC CLX 350",
+    "image": "/products/images/clx-350/carousel1.svg",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "images": [
+    "/products/images/clx-350/carousel1.svg"
+  ],
+  "parameters": [
+    {
+      "name": "Max. travel in X-axis",
+      "value": "185 mm"
+    },
+    {
+      "name": "Max. workpiece length",
+      "value": "530 mm"
+    },
+    {
+      "name": "Max. travel in Y-axis",
+      "value": "80 mm"
+    },
+    {
+      "name": "Max. internal diameter of the collet",
+      "value": "65 mm"
+    },
+    {
+      "name": "Max. travel in Z-axis",
+      "value": "540 mm"
+    },
+    {
+      "name": "Max. workpiece diameter",
+      "value": "320 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Advanced component machining with a sub-spindle and Y-axis",
+      "content": [
+        "Dynamic spindle drive and high-power integrated motor spindle for maximum machining efficiency. Additionally, rear-side machining capability with the ISM 36 synchronous spindle. The Y-axis allows for ± 40 mm movement for precise milling operations and comprehensive side surface processing."
+      ],
+      "image": "/products/images/clx-350/main-characteristics1.webp"
+    },
+    {
+      "title": "Increased productivity with an automatic bar feeder",
+      "content": [
+        "Standard bar passage diameter of 51 mm (optional up to 65 mm). Available gripper for handling elements measuring 65 mm x 200 mm and weighing 3 kg on request. Optional robot interface compliant with the DMG MORI standard, compatible with most bar feeders."
+      ],
+      "image": "/products/images/clx-350/main-characteristics2.webp"
+    },
+    {
+      "title": "Higher efficiency in machining with a bar feeder",
+      "content": [
+        "Standard bar passage diameter of 51 mm (optional up to 65 mm). Available gripper for handling elements measuring 65 mm x 200 mm and weighing 3 kg on request. Optional robot interface compliant with the DMG MORI standard, allowing compatibility with most bar feeders."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Robust construction with a spacious work area, ideal for machining custom parts.",
+      "content": [
+        "Machining of elements with a maximum diameter of 320 mm, with the ability to shift along the Z-axis up to 540 mm. Compact design ensuring a minimal footprint of 5.0 m²."
+      ],
+      "image": ""
+    },
+    {
+      "title": "3D control systems with an exceptional 19-inch SLIMline SIEMENS touchscreen panel or a 19-inch FANUC touchscreen panel",
+      "content": [
+        "SIEMENS 19-inch control panel with a color multi-touch screen in DMG MORI SLIMline, providing intuitive programming and easy operation.",
+        "FANUC 19-inch control panel with a color touchscreen in DMG MORI SLIMline, enabling 3D simulation and easy contour verification.",
+        "DMG MORI SMARTkey: Customization with additional 8 GB memory, providing user-tailored functions."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Spindle Drive",
+      "param": [
+        "Power: 16.5 kW (40% DC)",
+        "Torque: 168 Nm (40% DC)",
+        "Max. speed: 5000 rpm"
+      ]
+    },
+    {
+      "name": "ISM 36 Synchronous Spindle",
+      "param": [
+        "Power: 16.2 kW (40% DC)",
+        "Torque: 62 Nm (40% DC)",
+        "Max. speed: 5000 rpm",
+        "Rear-side machining capability"
+      ]
+    },
+    {
+      "name": "Y-Axis",
+      "param": [
+        "Travel range: ±40 mm"
+      ]
+    },
+    {
+      "name": "Bar Feeder",
+      "param": [
+        "Standard: ø51 mm",
+        "Optional: ø65 mm"
+      ]
+    },
+    {
+      "name": "Optional Part Catcher",
+      "param": [
+        "For elements measuring: ø65 x 200 mm, weight: 3 kg"
+      ]
+    },
+    {
+      "name": "Optional Robot Interface",
+      "param": [
+        "Compliant with DMG MORI standard, compatible with most bar feeders"
+      ]
+    },
+    {
+      "name": "Construction",
+      "param": [
+        "Compact with a large work area for machining custom parts"
+      ]
+    },
+    {
+      "name": "Workpiece Machining",
+      "param": [
+        "Diameter up to 320 mm",
+        "Z-axis travel: 540 mm"
+      ]
+    },
+    {
+      "name": "Footprint",
+      "param": [
+        "5.0 m²"
+      ]
+    },
+    {
+      "name": "3D Control",
+      "param": [
+        "DMG MORI SLIMline 19-inch color multi-touch SIEMENS control panel for intuitive programming and easy operation"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "basic_data": {
+    "pathID": "dmu-210-p",
+    "name": "DMU 210 P",
+    "additional_name": "Material for machining: Steel, Stainless Steel, Aluminum, Cast Iron, Non-ferrous Metals, Plastic",
+    "description": "The DMU 210 P (FD) is an advanced multifunctional machine tool primarily used for precision milling and machining of metal parts. This high-end model ensures precision and efficiency in manufacturing processes.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/dmu-210-p/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "DMU 210 P",
+    "image": "/products/images/dmu-210-p/floatingCTA.svg",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. X-Axis Travel",
+      "value": "2100 mm"
+    },
+    {
+      "name": "Max. Workpiece Height",
+      "value": "1460 mm"
+    },
+    {
+      "name": "Max. Y-Axis Travel",
+      "value": "2100 mm"
+    },
+    {
+      "name": "Max. Workpiece Weight",
+      "value": "8000 kg"
+    },
+    {
+      "name": "Max. Z-Axis Travel",
+      "value": "1250 mm"
+    },
+    {
+      "name": "Max. Workpiece Diameter",
+      "value": "2500 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Integrated Machining: Milling, Turning, and Grinding in One Setup",
+      "content": [
+        "Our new technology enables complete machining in a single setup, combining milling and turning with integrated grinding technology. The DirectDrive table with a torque of up to 6800 Nm ensures not only efficiency but also the highest surface quality of the workpieces."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Integrated Solutions for Maximum Accuracy",
+      "content": [
+        "Our new machine tool provides maximum accuracy in machining thanks to its outstanding features. A water-cooled feed drive and a belt filter system with a standard capacity of 980 liters ensure not only excellent precision but also optimal working conditions. Additionally, the machine is equipped with cooled linear guides and an active spindle expansion control system, guaranteeing long-term machining accuracy."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Performance, Dynamics, and Innovative Solutions",
+      "content": [
+        "The machine tool delivers unparalleled efficiency with high dynamics, achieving feed speeds of up to 60,000 mm/min and cutting feed forces of up to 40 kN. Available in both milling and turning versions, it offers the largest spindle selection on the market, including the powerMASTER motor spindle with a torque of up to 1000 Nm and the torqueMASTER gear spindle with a power of 1800 Nm. Additionally, it ensures energy efficiency through intelligent power modules and an innovative circular magazine with up to 303 tools while maintaining a minimal setup footprint. The gantry design with a vertically movable crossbeam and hydraulic weight compensation ensures stability and precision during operation."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Machine Tool Built on an Innovative Thermosymmetric Structure",
+      "content": [
+        "Our machine offers maximum rigidity and dynamics, reaching acceleration of up to 6 m/s². Thanks to its thermosymmetric structure and three-point support with a rigid machine bed, no foundation is required, providing both time and cost savings in installation. We guarantee high thermal stability with positioning accuracy up to 10 μm as standard. Optionally, we offer a precision package that enables even higher accuracy—up to 8 μm. Furthermore, our unique high-precision variant offers unmatched positioning accuracy of up to 4 μm, making our machine tool globally exceptional."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Belt Filter System",
+      "param": [
+        "Capacity of 980 liters as standard"
+      ]
+    },
+    {
+      "name": "Highest Long-Term Accuracy",
+      "param": [
+        "Cooled linear guides and active spindle expansion control"
+      ]
+    },
+    {
+      "name": "Dynamics",
+      "param": [
+        "up to 60,000 mm/min"
+      ]
+    },
+    {
+      "name": "Cutting Feed Force",
+      "param": [
+        "up to 40 kN"
+      ]
+    },
+    {
+      "name": "powerMASTER Motor Spindle Torque",
+      "param": [
+        "up to 1000 Nm"
+      ]
+    },
+    {
+      "name": "torqueMASTER Gear Spindle Power",
+      "param": [
+        "1800 Nm"
+      ]
+    },
+    {
+      "name": "Circular Magazine",
+      "param": [
+        "With up to 303 tools while maintaining a minimal setup footprint"
+      ]
+    },
+    {
+      "name": "Thermal Stability",
+      "param": [
+        "up to 10 μm"
+      ]
+    },
+    {
+      "name": "Positioning Accuracy",
+      "param": [
+        "up to 8 μm"
+      ]
+    },
+    {
+      "name": "Precision",
+      "param": [
+        "With positioning accuracy of up to 4 μm"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "CLX 350",
+      "image": "/products/images/clx-350/carousel1.svg",
+      "link": "/product/clx-350"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    },
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    }
+  ]
+}

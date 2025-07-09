@@ -1,0 +1,97 @@
+{
+  "basic_data": {
+    "pathID": "service-paintshop",
+    "name": "Pulverbeschichtung und Nasslackierung",
+    "additional_name": "",
+    "description": "Wir bieten präzise und professionelle Pulverbeschichtungsdienste für verschiedene Metalloberflächen an. Unser Unternehmen ist auf Pulverbeschichtung und Nasslackierung spezialisiert und bedient sowohl große, sperrige Objekte als auch kleine Details. Unabhängig von Größe oder Komplexität garantieren wir eine hohe Ausführungsqualität und eine perfekte Oberflächenveredelung jedes Projekts. Vertrauen Sie auf unsere Erfahrung und Präzision, damit Ihre Produkte eine langlebige und ästhetische Lackierung erhalten.",
+    "with_data": false
+  },
+  "images": [
+    ""
+  ],
+  "floating_CTA": {
+    "title": "Pulverbeschichtung und Nasslackierung",
+    "image": "/products/images/paintshops-installation/floatingCTA.png",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Warum Pulverbeschichtung wählen?",
+      "content": [
+        "Die Pulverbeschichtung ist eine der beliebtesten Methoden zur Farbauftragung auf Metallkonstruktionen, da sie effizient und wirtschaftlich ist."
+      ],
+      "image": "/products/images/service-paintshop/mainCharacteristics1.svg"
+    },
+    {
+      "title": "Eigenschaften der Pulverbeschichtung:",
+      "content": [
+        "Umweltfreundlichkeit: Der Pulverbeschichtungsprozess erfordert keine umweltschädlichen Lösungsmittel oder Verdünner.",
+        "Korrosionsschutz: Pulverbeschichtete Oberflächen bieten einen effektiven Schutz vor Korrosion.",
+        "Minimierung von Materialverlusten: Das Pulver wird präzise aufgetragen, wodurch Abfälle minimiert und Produktionskosten gesenkt werden.",
+        "Dicke und gleichmäßige Beschichtung: Die dichte Farbschicht gleicht Materialunregelmäßigkeiten aus und sorgt für ein ästhetisches und langlebiges Endergebnis."
+      ],
+      "image": "/products/images/service-paintshop/mainCharacteristics2.svg"
+    },
+    {
+      "title": "Warum Nasslackierung wählen?",
+      "content": [
+        "Die Nasslackierung sorgt für eine besonders glatte und gleichmäßige Oberfläche, was zu einem ästhetischen und professionellen Erscheinungsbild der Produkte führt. Zudem ermöglicht diese Methode eine präzise Farbanpassung, was für Projekte mit spezifischen Farbanforderungen entscheidend ist. Darüber hinaus trocknet die Farbe bei der Nasslackierung schneller als bei der Pulverbeschichtung, was die Produktionszeit verkürzt und die Effizienz steigert."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Eigenschaften der Nasslackierung:",
+      "content": [
+        "Glatte Oberfläche: Die Nasslackierung ermöglicht eine besonders glatte Oberfläche, die mit Pulverbeschichtung schwerer zu erzielen ist.",
+        "Höhere Witterungsbeständigkeit: Durch den Einsatz spezieller Lacke bietet die Nasslackierung eine höhere Beständigkeit gegenüber UV-Strahlung, Feuchtigkeit und Temperaturschwankungen.",
+        "Erhöhte Haltbarkeit: Nasslackierungen bieten eine langlebigere Beschichtung im Vergleich zu einigen anderen Lackiermethoden, was die Produkte widerstandsfähiger gegen Kratzer und mechanische Beschädigungen macht."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Nass- und Pulverbeschichtungsanlagen",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    },
+    {
+      "name": "Oberflächenbearbeitung",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "Dual-Station",
+      "image": "/products/images/dual/carousel1.svg",
+      "link": "/product/dual"
+    },
+    {
+      "name": "TruLaser Tube 7000 fiber",
+      "image": "/products/images/trulaser-7000/carousel1.png",
+      "link": "/product/trulaser-7000"
+    }
+  ]
+}

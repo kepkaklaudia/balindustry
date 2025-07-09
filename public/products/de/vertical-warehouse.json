@@ -1,0 +1,106 @@
+{
+  "basic_data": {
+    "pathID": "vertical-warehouse",
+    "name": "Vertikales Blechlager",
+    "additional_name": "",
+    "description": "Wir entwerfen und liefern Lagersysteme für Bleche, wie z. B. Pakete mit Blechtafeln sowie Lösungen für die Lagerung von Bauteilen zusammen mit Transportpaletten.",
+    "with_data": false
+  },
+  "images": [
+    "/products/images/vertical-warehouse/carousel1.png"
+  ],
+  "floating_CTA": {
+    "title": "Vertikales Blechlager",
+    "image": "/products/images/vertical-warehouse/carousel1.png",
+    "content": "",
+    "button": "Angebot anfordern",
+    "form": "/forms/warehouses",
+    "qp": "",
+    "ar": true,
+    "arLink": "/product/vertical-warehouse/MAGAZYN"
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Lösungen für ein effizientes Materialmanagement",
+      "content": [
+        "Unsere Lösungen sind auf die vielfältigen Bedürfnisse unserer Kunden zugeschnitten und bieten Flexibilität und Skalierbarkeit für verschiedene Produktionsarten und Lagergrößen."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Twin One-Axis Station",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    },
+    {
+      "name": "Oberflächenbehandlung",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "Nass- und Pulverbeschichtung",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "Kammeröfen",
+      "image": "/products/images/furnace/carousel1.svg",
+      "link": "/product/furnace"
+    },
+    {
+      "name": "Biegestation",
+      "image": "/products/images/bending-station/carousel1.png",
+      "link": "/product/bending-station"
+    }
+  ],
+  "metal_sheets": [
+    {
+      "size": "1000 x 2000 mm",
+      "mass": "> 2500 kg",
+      "drawers": "-"
+    },
+    {
+      "size": "1250 x 2500 mm",
+      "mass": "> 2500 kg",
+      "drawers": "-"
+    },
+    {
+      "size": "1500 x 3000 mm",
+      "mass": "> 2500 kg",
+      "drawers": "12"
+    }
+  ],
+  "pallets_elements": [
+    {
+      "size": "1000 x 2000 mm",
+      "mass": "> 2500 kg",
+      "drawers": "-"
+    },
+    {
+      "size": "1250 x 2500 mm",
+      "mass": "> 2500 kg",
+      "drawers": "-"
+    },
+    {
+      "size": "1500 x 3000 mm",
+      "mass": "> 2500 kg",
+      "drawers": "12"
+    }
+  ]
+}

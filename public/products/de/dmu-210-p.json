@@ -1,0 +1,166 @@
+{
+  "basic_data": {
+    "pathID": "dmu-210-p",
+    "name": "DMU 210 P",
+    "additional_name": "Bearbeitungsmaterial: Stahl, Edelstahl, Aluminium, Gusseisen, Buntmetalle, Kunststoffe",
+    "description": "Die DMU 210 P (FD) ist eine hochmoderne Multifunktionsmaschine, die hauptsächlich für präzises Fräsen und die Bearbeitung von Metallteilen verwendet wird. Dieses High-End-Modell gewährleistet Präzision und Effizienz in Produktionsprozessen.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/dmu-210-p/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "DMU 210 P",
+    "image": "/products/images/dmu-210-p/floatingCTA.svg",
+    "content": "",
+    "button": "Preisanfrage",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. Verfahrwege in X-Achse",
+      "value": "2100 mm"
+    },
+    {
+      "name": "Max. Werkstückhöhe",
+      "value": "1460 mm"
+    },
+    {
+      "name": "Max. Verfahrwege in Y-Achse",
+      "value": "2100 mm"
+    },
+    {
+      "name": "Max. Werkstückgewicht",
+      "value": "8000 kg"
+    },
+    {
+      "name": "Max. Verfahrwege in Z-Achse",
+      "value": "1250 mm"
+    },
+    {
+      "name": "Max. Werkstückdurchmesser",
+      "value": "2500 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Integrierte Zerspanung: Fräsen, Drehen und Schleifen in einer Aufspannung",
+      "content": [
+        "Unsere neue Technologie ermöglicht die vollständige Zerspanung in einer einzigen Aufspannung – Fräsen und Drehen mit integrierter Schleiftechnologie. Der DirectDrive-Tisch mit einem Drehmoment von bis zu 6800 Nm gewährleistet nicht nur Effizienz, sondern auch höchste Oberflächenqualität der Werkstücke."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Integrierte Lösungen für maximale Präzision",
+      "content": [
+        "Unsere neue Werkzeugmaschine bietet höchste Präzision bei der Zerspanung. Dank eines wassergekühlten Vorschubantriebs und eines Bandfilter-Systems mit einer Standardkapazität von 980 Litern gewährleisten wir nicht nur exzellente Präzision, sondern auch optimale Arbeitsbedingungen. Zusätzlich ist die Maschine mit gekühlten Linearlagern und einer aktiven Spindelausdehnungskontrolle ausgestattet, um langfristig höchste Bearbeitungsgenauigkeit zu sichern."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Leistung, Dynamik und innovative Lösungen",
+      "content": [
+        "Die Werkzeugmaschine bietet unübertroffene Effizienz durch hohe Dynamik mit einer Vorschubgeschwindigkeit von bis zu 60.000 mm/min und einer Vorschubkraft von bis zu 40 kN. Erhältlich sowohl in einer Fräs- als auch in einer Drehvariante, bietet sie die größte Auswahl an Spindeln auf dem Markt, einschließlich der powerMASTER Elektrospindel mit einem Drehmoment von bis zu 1000 Nm sowie der torqueMASTER Getriebespindel mit einer Leistung von 1800 Nm. Darüber hinaus sorgt sie für Energieeinsparung durch intelligente Energieversorgungsmodule sowie ein innovatives Kettenmagazin mit bis zu 303 Werkzeugplätzen bei minimalem Platzbedarf. Die Gantry-Konstruktion mit vertikal beweglichem Querbalken und hydraulischer Gewichtskompensation gewährleistet Stabilität und Präzision bei der Bearbeitung."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Werkzeugmaschine mit innovativer thermosymmetrischer Konstruktion",
+      "content": [
+        "Unsere Maschine bietet höchste Steifigkeit und Dynamik mit einer Beschleunigung von bis zu 6 m/s². Dank der thermosymmetrischen Konstruktion und der 3-Punkt-Auflage mit einem starren Maschinenbett sind keine Fundamente erforderlich, was Zeit- und Kosteneinsparungen beim Aufbau ermöglicht. Standardmäßig garantieren wir eine hohe Temperaturstabilität mit einer Positioniergenauigkeit von bis zu 10 μm. Optional bieten wir ein Präzisionspaket für noch höhere Genauigkeit – bis zu 8 μm. Zudem ermöglicht unsere spezielle High-Precision-Variante eine unvergleichliche Positioniergenauigkeit von bis zu 4 μm, was unsere Werkzeugmaschine weltweit einzigartig macht."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Bandfiltersystem",
+      "param": [
+        "Kapazität von 980 l in der Standardausführung"
+      ]
+    },
+    {
+      "name": "Höchste langfristige Genauigkeit",
+      "param": [
+        "Gekühlte Linearlager und aktive Spindelausdehnungskontrolle"
+      ]
+    },
+    {
+      "name": "Dynamik",
+      "param": [
+        "bis zu 60.000 mm/min"
+      ]
+    },
+    {
+      "name": "Vorschubkraft",
+      "param": [
+        "bis zu 40 kN"
+      ]
+    },
+    {
+      "name": "powerMASTER Elektrospindel mit einem Drehmoment",
+      "param": [
+        "bis zu 1000 Nm"
+      ]
+    },
+    {
+      "name": "torqueMASTER Getriebespindel mit einer Leistung",
+      "param": [
+        "1800 Nm"
+      ]
+    },
+    {
+      "name": "Kettenmagazin",
+      "param": [
+        "Mit bis zu 303 Werkzeugplätzen bei minimalem Platzbedarf"
+      ]
+    },
+    {
+      "name": "Temperaturstabilität",
+      "param": [
+        "bis zu 10 μm"
+      ]
+    },
+    {
+      "name": "Positioniergenauigkeit",
+      "param": [
+        "bis zu 8 μm"
+      ]
+    },
+    {
+      "name": "Präzision",
+      "param": [
+        "Mit einer Positioniergenauigkeit von bis zu 4 μm"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "CLX 350",
+      "image": "/products/images/clx-350/carousel1.svg",
+      "link": "/product/clx-350"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    },
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+@import '@/app/styles/colors';
+@import '@/app/styles/mixins';
+
+.partners {
+  .header {
+    text-align: center;
+    letter-spacing: 11px;
+    color: $text-dark-color;
+    margin: 50px;
+    margin-top: 100px;
+  }
+
+  div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  img {
+    height: 45px;
+  }
+
+  @include laptop {
+  }
+}

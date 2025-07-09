@@ -1,0 +1,83 @@
+{
+  "basic_data": {
+    "pathID": "furnace",
+    "name": "Fours à chambre",
+    "additional_name": "",
+    "description": "Le four est utilisé pour différents types de traitement thermique de la charge à des températures allant de 900°C à 1260°C. Dans les fours avec sole rétractable, une répartition uniforme de la température peut également être réglée.",
+    "with_data": false
+  },
+  "images": [
+    "/products/images/furnace/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "Fours à chambre",
+    "image": "/products/images/furnace/carousel1.svg",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/forms/furnaces",
+    "ar": true,
+    "arLink": "/product/furnace/PIEC"
+  },
+  "parameters": [
+    {
+      "name": "Soles mobiles",
+      "value": "2"
+    },
+    {
+      "name": "Puissance",
+      "value": "140kW"
+    },
+    {
+      "name": "Dimensions internes (mm)",
+      "value": "1850 x 900 x 3600"
+    },
+    {
+      "name": "Dimensions externes (mm)",
+      "value": "3100 x 3400 x 14000"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "",
+      "content": [
+        ""
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "CNC 5 axes",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "Poste de travail Twin One-axis",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    },
+    {
+      "name": "Installations de peinture humide et poudre",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

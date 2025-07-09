@@ -1,0 +1,151 @@
+{
+  "basic_data": {
+    "pathID": "m1",
+    "name": "M1",
+    "additional_name": "Material for machining: Steel, Stainless steel, Aluminum, Cast iron, Non-ferrous metals, Plastic",
+    "description": "Thanks to its innovative design and advanced technologies, the M1 series machines are valued for their high-quality workmanship and ability to flexibly adapt to various production tasks.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/m1/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "M1",
+    "image": "/products/images/m1/floatingCTA.svg",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. travel in X-axis",
+      "value": "550 mm"
+    },
+    {
+      "name": "Max. width of the machined workpiece",
+      "value": "650 mm"
+    },
+    {
+      "name": "Max. travel in Y-axis",
+      "value": "550 mm"
+    },
+    {
+      "name": "Max. height of the machined workpiece",
+      "value": "615 mm"
+    },
+    {
+      "name": "Max. travel in Z-axis",
+      "value": "550 mm"
+    },
+    {
+      "name": "Max. workpiece weight",
+      "value": "600 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Exceptional rigidity ensuring efficient machining and high surface quality",
+      "content": [
+        "Thanks to its exceptional rigidity, our M1 machine enables not only efficient machining but also ensures high surface quality. This unique feature guarantees the stability of the machining process, resulting in excellent production outcomes and precise details without compromises."
+      ],
+      "image": "/products/images/m1/mainCharacteristics1.svg"
+    },
+    {
+      "title": "Inline spindle design with extensive global experience",
+      "content": [
+        "Our proven inline spindle design, with over 3,000 units installed worldwide, stands for reliability and long-term efficiency. Thanks to the high thermal capacity of the components, our machine guarantees thermal stability, which is crucial for maintaining precision and quality during the machining process."
+      ],
+      "image": "/products/images/m1/mainCharacteristics2.webp"
+    },
+    {
+      "title": "Optimized working space",
+      "content": [
+        "Our machine offers an optimized working space combined with a compact design, enabling efficient machining even in limited installation areas. The table, measuring 850 x 650 mm with a maximum load capacity of 600 kg, features high rigidity, ensuring stability and precision during the machining process."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Massive, monolithic machine bed",
+      "param": [
+        "Ensures high thermal stability",
+        "Weight: 2,400 kg"
+      ]
+    },
+    {
+      "name": "Fixed table with T-slots",
+      "param": [
+        "1 × 18H7",
+        "5 × 18H12"
+      ]
+    },
+    {
+      "name": "Wide guideway spacing",
+      "param": [
+        "580 mm in X-axis / travel 550 mm",
+        "560 mm in Y-axis / travel 550 mm",
+        "260 mm in Z-axis / travel 510 mm"
+      ]
+    },
+    {
+      "name": "Bar machining",
+      "param": [
+        "Diameter up to: 32 (38) mm"
+      ]
+    },
+    {
+      "name": "Inline spindle",
+      "param": [
+        "Rotational speed: 10,000 rpm or 12,000 rpm"
+      ]
+    },
+    {
+      "name": "Internal coolant supply (PRO version)",
+      "param": [
+        "20 bar"
+      ]
+    },
+    {
+      "name": "24-position tool magazine",
+      "param": [
+        "With dual gripper"
+      ]
+    },
+    {
+      "name": "Easy leveling",
+      "param": [
+        "On 3 feet + 2 additional feet to increase the machine's dynamic rigidity"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "5-axis CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

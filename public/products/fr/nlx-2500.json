@@ -1,0 +1,141 @@
+{
+  "basic_data": {
+    "pathID": "nlx-2500",
+    "name": "NLX 2500",
+    "additional_name": "Matériau d’usinage : Acier, Acier inoxydable, Aluminium, Fonte, Métaux non ferreux, Plastique",
+    "description": "Un tour avancé conçu pour atteindre la plus haute efficacité dans l’usinage des pièces. La machine permet une exécution rapide et efficace de diverses opérations de tournage, garantissant des résultats de production optimaux.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/nlx-2500/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "NLX 2500",
+    "image": "/products/images/nlx-2500/floatingCTA.svg",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Course max. sur l’axe X",
+      "value": "260 mm"
+    },
+    {
+      "name": "Diamètre intérieur max. du tube de serrage",
+      "value": "90 mm"
+    },
+    {
+      "name": "Course max. sur l’axe Y",
+      "value": "100 mm"
+    },
+    {
+      "name": "Longueur max. de la pièce usinée",
+      "value": "1255 mm"
+    },
+    {
+      "name": "Course max. sur l’axe Z",
+      "value": "1345 mm"
+    },
+    {
+      "name": "Diamètre max. de la pièce",
+      "value": "366 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Tourelle avec BMT",
+      "content": [
+        "Notre dernière fraiseuse est équipée d’une tourelle innovante avec BMT (Built-in Motor Turret), permettant des machines-outils à grande vitesse atteignant jusqu’à 10 000 tr/min. Cela garantit un usinage précis et efficace des pièces, conforme aux dernières normes industrielles."
+      ],
+      "image": "/products/images/nlx-2500/main-characteristics1.svg"
+    },
+    {
+      "title": "Tour innovant avec changement rapide de tourelle",
+      "content": [
+        "Notre tour moderne offre une haute précision grâce à une gestion thermique contrôlée avec précision, garantissant des conditions de travail optimales. De plus, la fonction optionnelle de changement rapide de tourelle permet une production encore plus efficace, offrant flexibilité et performance dans l’usinage des pièces."
+      ],
+      "image": "/products/images/nlx-2500/main-characteristics2.svg"
+    },
+    {
+      "title": "Réglages et visualisation des économies d’énergie",
+      "content": [
+        "Notre plateforme se concentre sur l’économie d’énergie efficace grâce à des réglages précis et une visualisation, permettant aux utilisateurs de surveiller et d’optimiser la consommation d’énergie. Cela garantit des solutions respectueuses de l’environnement et une réduction des coûts d’exploitation tout en maintenant des performances et une fonctionnalité élevées."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Tourelle",
+      "param": [
+        "Tourelle avec BMT"
+      ]
+    },
+    {
+      "name": "Broche à grande vitesse",
+      "param": [
+        "Vitesse de rotation : 10 000 tr/min"
+      ]
+    },
+    {
+      "name": "SWISSTYPEkit",
+      "param": [
+        "Pour le tournage de pièces courtes et longues sur une seule machine"
+      ]
+    },
+    {
+      "name": "Gestion thermique contrôlée avec précision",
+      "param": [
+        "Assure un contrôle précis de la répartition thermique"
+      ]
+    },
+    {
+      "name": "Changement rapide de tourelle",
+      "param": [
+        "Fonction optionnelle permettant un changement rapide et précis de la tourelle"
+      ]
+    },
+    {
+      "name": "Réglage de l’économie d’énergie",
+      "param": [
+        "Système permettant un réglage efficace de l’économie d’énergie"
+      ]
+    },
+    {
+      "name": "Visualisation des effets d’économie d’énergie",
+      "param": [
+        "Outil visuel permettant la surveillance et la visualisation des économies d’énergie"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "CNC 5 axes",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

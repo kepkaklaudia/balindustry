@@ -1,0 +1,97 @@
+{
+  "basic_data": {
+    "pathID": "service-paintshop",
+    "name": "Peinture en poudre et peinture liquide",
+    "additional_name": "",
+    "description": "Nous offrons des services de peinture en poudre précis et professionnels pour diverses surfaces métalliques. Notre entreprise est spécialisée dans la peinture en poudre et la peinture liquide, prenant en charge aussi bien les objets volumineux que les petits détails. Quelle que soit la taille ou la complexité du projet, nous garantissons une exécution de haute qualité et une finition parfaite. Faites confiance à notre expertise et à notre précision pour donner à vos produits un revêtement durable et esthétique.",
+    "with_data": false
+  },
+  "images": [
+    ""
+  ],
+  "floating_CTA": {
+    "title": "Peinture en poudre et peinture liquide",
+    "image": "/products/images/paintshops-installation/floatingCTA.png",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Pourquoi choisir la peinture en poudre ?",
+      "content": [
+        "La peinture en poudre est l’une des méthodes les plus populaires pour appliquer de la peinture sur des structures métalliques, en raison de son efficacité et de sa rentabilité."
+      ],
+      "image": "/products/images/service-paintshop/mainCharacteristics1.svg"
+    },
+    {
+      "title": "Caractéristiques de la peinture en poudre :",
+      "content": [
+        "Respect de l'environnement : Le processus de peinture en poudre ne nécessite pas de solvants toxiques ou de diluants nocifs pour l’environnement.",
+        "Protection contre la corrosion : Les revêtements de peinture en poudre protègent efficacement les surfaces métalliques contre la corrosion.",
+        "Réduction des pertes de matériau : La peinture en poudre est appliquée avec précision, minimisant ainsi les déchets et réduisant les coûts de production.",
+        "Revêtement épais et uniforme : La couche de peinture dense masque les imperfections du matériau, garantissant un résultat esthétique et durable."
+      ],
+      "image": "/products/images/service-paintshop/mainCharacteristics2.svg"
+    },
+    {
+      "title": "Pourquoi choisir la peinture liquide ?",
+      "content": [
+        "La peinture liquide offre une finition exceptionnellement lisse et uniforme, garantissant un aspect esthétique et professionnel aux produits. De plus, cette méthode permet un ajustement précis de la couleur, ce qui est essentiel pour les projets nécessitant une correspondance exacte des teintes. En outre, la peinture liquide sèche plus rapidement que la peinture en poudre, réduisant ainsi le temps de production et augmentant l'efficacité du processus de peinture."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Caractéristiques de la peinture liquide :",
+      "content": [
+        "Finition lisse : La technique de peinture liquide permet d'obtenir une surface très lisse, ce qui est souvent plus difficile à réaliser avec la peinture en poudre.",
+        "Meilleure résistance aux conditions météorologiques : Grâce à l'utilisation de vernis adaptés, la peinture liquide offre une résistance accrue aux conditions météorologiques, y compris les rayons UV, l'humidité et les variations de température.",
+        "Durabilité accrue : La peinture liquide peut offrir un revêtement plus durable que certaines autres méthodes de peinture, rendant les produits plus résistants aux rayures et aux dommages mécaniques."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Cabines de peinture liquide et en poudre",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    },
+    {
+      "name": "Traitement de surface",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "Poste de travail Dual",
+      "image": "/products/images/dual/carousel1.svg",
+      "link": "/product/dual"
+    },
+    {
+      "name": "TruLaser Tube 7000 fiber",
+      "image": "/products/images/trulaser-7000/carousel1.png",
+      "link": "/product/trulaser-7000"
+    }
+  ]
+}

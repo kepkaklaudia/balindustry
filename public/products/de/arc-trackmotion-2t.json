@@ -1,0 +1,87 @@
+{
+  "basic_data": {
+    "pathID": "arc-trackmotion-2t",
+    "name": "ARC Trackmotion 2t",
+    "additional_name": "",
+    "description": "ABB bietet eine umfassende Palette an Werkstückpositionierern, die vollständig synchronisierte Roboterbewegungen sowohl während der Programmierung als auch während des Betriebs ermöglichen.",
+    "with_data": false
+  },
+  "images": [
+    "/products/images/arc-trackmotion-2t/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "ARC Trackmotion 2t",
+    "image": "/products/images/arc-trackmotion-2t/floatingCTA.svg",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Positionierer",
+      "value": "IRBP L-2000"
+    },
+    {
+      "name": "Fahrweg",
+      "value": "10 m"
+    },
+    {
+      "name": "Tragfähigkeit",
+      "value": "2000 kg"
+    },
+    {
+      "name": "Max. Länge",
+      "value": "4000 mm"
+    },
+    {
+      "name": "Max. Durchmesser des Arbeitsraums",
+      "value": "1500 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "",
+      "content": [
+        ""
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "ARC D600",
+      "image": "/products/images/arc-d600/carousel1.png",
+      "link": "/product/arc-d600"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "TruLaser Tube 7000 fiber",
+      "image": "/products/images/trulaser-7000/carousel1.png",
+      "link": "/product/trulaser-7000"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    }
+  ]
+}

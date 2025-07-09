@@ -1,0 +1,127 @@
+{
+  "basic_data": {
+    "pathID": "trulaser-7000",
+    "name": "TruLaser Tube 7000 fiber",
+    "additional_name": "Matériau à usiner : Acier, Acier inoxydable, Aluminium, Fonte, Métaux non ferreux",
+    "description": "Un laser polyvalent qui permet un usinage rapide et flexible, assurant ainsi une productivité élevée. Son concept ouvert garantit une accessibilité et une efficacité optimales, même pour l’usinage de pièces uniques, soutenu par l’interface Central Link pour l’Industrie 4.0.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/trulaser-7000/carousel1.png"
+  ],
+  "floating_CTA": {
+    "title": "TruLaser Tube 7000 fiber",
+    "image": "/products/images/trulaser-7000/floatingCTA.png",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Puissance laser max.",
+      "value": "4000 W"
+    },
+    {
+      "name": "Longueur max. du côté de la pièce",
+      "value": "220 mm"
+    },
+    {
+      "name": "Diamètre max. du cercle circonscrit",
+      "value": "254 mm"
+    },
+    {
+      "name": "Poids max. de la pièce",
+      "value": "40 kg/m"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Sécurité et accessibilité optimales",
+      "content": [
+        "Le concept innovant de la machine avec un couvercle de protection intelligent du faisceau offre la combinaison idéale entre sécurité maximale et accessibilité optimale pour l'opérateur. Il permet un chargement efficace des tubes individuels et un retrait des pièces à une hauteur de travail ergonomique."
+      ],
+      "image": "/products/images/trulaser-7000/mainCharacteristics1.png"
+    },
+    {
+      "title": "Efficacité de coupe avec RapidCut",
+      "content": [
+        "RapidCut augmente les performances de coupe du laser à solide, permettant des avances rapides même pour les contours fins. Cela se traduit par une productivité accrue, en particulier pour les matériaux fins."
+      ],
+      "image": "/products/images/trulaser-7000/mainCharacteristics2.png"
+    },
+    {
+      "title": "Technologie avancée pour un usinage précis des filetages",
+      "content": [
+        "Grâce à un ensemble technologique complet incluant non seulement le taraudage, mais aussi d'autres méthodes d'usinage comme le perçage thermique ou le perçage hélicoïdal, ces processus peuvent être intégrés dans une seule machine. L'automatisation réduit l'effort de travail et le risque d'erreurs, ce qui améliore la précision et l'efficacité de la production."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Diamètre extérieur max.",
+      "param": [
+        "254 mm"
+      ]
+    },
+    {
+      "name": "Force de poinçonnage max.",
+      "param": [
+        "220 kN"
+      ]
+    },
+    {
+      "name": "Longueur max. du matériau brut pour le chargement automatique",
+      "param": [
+        "LOADMASTER TUBE 6,5 M - 6500 mm",
+        "LOADMASTER TUBE 9,2 M - 9200 mm",
+        "LOADMASTER TUBE 12,5 M - 12500 mm"
+      ]
+    },
+    {
+      "name": "Poids max. de la section",
+      "param": [
+        "40 kg/m"
+      ]
+    },
+    {
+      "name": "Épaisseur max. du matériau",
+      "param": [
+        "Acier de construction - 10 mm",
+        "Acier inoxydable - 6 mm",
+        "Aluminium - 6 mm",
+        "Cuivre - 5 mm",
+        "Laiton - 5 mm"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "TruLaser 3030 fiber | TRUMPF",
+      "image": "/products/images/trulaser-3030/carousel1.svg",
+      "link": "/product/trulaser-3030"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    },
+    {
+      "name": "Poste de pliage",
+      "image": "/products/images/bending-station/carousel1.png",
+      "link": "/product/bending-station"
+    }
+  ]
+}

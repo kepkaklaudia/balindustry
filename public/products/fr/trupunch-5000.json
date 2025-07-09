@@ -1,0 +1,138 @@
+{
+  "basic_data": {
+    "pathID": "trupunch-5000",
+    "name": "TruPunch 5000 | TRUMPF",
+    "additional_name": "Matériau de traitement : Acier, Acier inoxydable, Aluminium, Fonte, Métaux non ferreux",
+    "description": "Productivité exceptionnelle et sécurité des processus grâce à un entraînement sans jeu, permettant un usinage extrêmement rapide des contours et un filetage à grande vitesse de rotation de l'axe C. Le poinçonnage et le marquage rapides favorisent la flexibilité et l'efficacité du processus.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/trupunch-5000/carousel1.png"
+  ],
+  "floating_CTA": {
+    "title": "TruPunch 5000 | TRUMPF",
+    "image": "/products/images/trupunch-5000/floatingCTA.png",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Largeur",
+      "value": "6540 mm"
+    },
+    {
+      "name": "Hauteur",
+      "value": "2072 mm"
+    },
+    {
+      "name": "Déplacement max. en axe Y",
+      "value": "1250 mm"
+    },
+    {
+      "name": "Déplacement max. en axe X",
+      "value": "2500 mm"
+    },
+    {
+      "name": "Épaisseur max. de la tôle",
+      "value": "3 mm"
+    },
+    {
+      "name": "Poids max. de l'objet détectable",
+      "value": "250 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Usinage flexible avec des outils de taille 5 pour la matrice active",
+      "content": [
+        "Les outils de taille 5 pour la matrice active permettent un travail flexible, que ce soit pour le bordage des trous ou la création de fentes. Parmi les outils utilisés à cet effet, on trouve le poinçon de bordage par le bas, l'outil de fente, l'outil de guidage de carte et l'outil d'emboutissage à rouleaux."
+      ],
+      "image": "/products/images/trupunch-5000/mainCharacteristics1.png"
+    },
+    {
+      "title": "Lissage efficace pendant le processus",
+      "content": [
+        "Grâce à la fonction de redressement intégrée et à l'outil approprié, les irrégularités peuvent être corrigées pendant le processus de poinçonnage, éliminant ainsi le besoin de finitions supplémentaires."
+      ],
+      "image": "/products/images/trupunch-5000/mainCharacteristics2.png"
+    },
+    {
+      "title": "Production efficace avec TruTops Boost",
+      "content": [
+        "TruTops Boost, un logiciel 3D complet, permet la conception et la programmation des lasers, poinçonneuses et machines combinées laser-poinçonnage. Grâce à de nombreuses automatisations, il est possible de réduire le temps consacré aux tâches de routine et d'économiser du matériau grâce à une gestion optimisée des commandes. De plus, le programme offre un contrôle total sur toutes les commandes de production et une gestion optimisée des processus basés sur les commandes."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Solutions intelligentes Industrie 4.0 de TRUMPF",
+      "content": [
+        "Les solutions logicielles TRUMPF optimisent le processus de production, de la première demande du client à la livraison de la pièce finie. L’association intelligente entre logiciel, machines et services fournit des solutions complètes et personnalisées pour l’usine intelligente à l’ère de l’Industrie 4.0."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Force de poinçonnage max.",
+      "param": [
+        "220 kN"
+      ]
+    },
+    {
+      "name": "Grand écartement des guides",
+      "param": [
+        "580 mm en axe X / déplacement 550 mm",
+        "560 mm en axe Y / déplacement 550 mm",
+        "260 mm en axe Z / déplacement 510 mm"
+      ]
+    },
+    {
+      "name": "Temps de changement d'outil multitool",
+      "param": [
+        "0,3 s"
+      ]
+    },
+    {
+      "name": "Épaisseur max. de la tôle",
+      "param": [
+        "3 mm"
+      ]
+    },
+    {
+      "name": "Poids max. de l'objet détectable",
+      "param": [
+        "250 kg"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "ARC D600",
+      "image": "/products/images/arc-d600/carousel1.png",
+      "link": "/product/arc-d600"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    },
+    {
+      "name": "CNC 5 axes",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "Poste Twin One-axis",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    }
+  ]
+}

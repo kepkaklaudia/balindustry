@@ -1,0 +1,115 @@
+{
+  "basic_data": {
+    "pathID": "flex-esab",
+    "name": "Flex Cobot Esab",
+    "additional_name": "",
+    "description": "Les cobots sont conçus pour les soudeurs, et non pour les programmeurs, grâce à un logiciel basé sur une application qui est simple et intuitif. En combinant le meilleur bras UR du marché, la source d'alimentation pulsée robuste Aristo 500ix pour le soudage industriel et l’alimentateur de fil RobustFeed U82, le cobot ESAB est la solution idéale garantissant une excellente alimentation du matériau et des performances optimales de l'arc.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/flex-esab/carousel1.png",
+    "/products/images/flex-esab/carousel2.png",
+    "/products/images/flex-esab/carousel3.png",
+    "/products/images/flex-esab/carousel4.png"
+  ],
+  "floating_CTA": {
+    "title": "Flex Cobot Esab",
+    "image": "/products/images/flex-esab/carousel1.png",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Facilité d'utilisation",
+      "content": [
+        "Un logiciel basé sur une application facile à utiliser permet un accès immédiat à la programmation des pièces, à l’analyse pour une répétabilité accrue et un meilleur temps de fonctionnement, ainsi qu’au suivi des performances."
+      ],
+      "image": "/products/images/flex-esab/carousel4.png"
+    },
+    {
+      "title": "Fonctionnalité innovante",
+      "content": [
+        "Une fonctionnalité avancée de soudage pulsé réduit la chaleur introduite dans le matériau et minimise les projections, améliorant ainsi l'efficacité en réduisant les reprises, ce qui permet de gagner du temps et de réduire les coûts."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Source de soudage",
+      "param": [
+        "ESAB Aristo 500ix"
+      ]
+    },
+    {
+      "name": "Table de travail",
+      "param": [
+        "800x1000 mm",
+        "1000x1000 mm",
+        "1200x1200 mm"
+      ]
+    },
+    {
+      "name": "Méthode de soudage",
+      "param": [
+        "MIG/MAG"
+      ]
+    },
+    {
+      "name": "Portée du robot",
+      "param": [
+        "0,9m"
+      ]
+    },
+    {
+      "name": "Système",
+      "param": [
+        "16/28"
+      ]
+    },
+    {
+      "name": "Applications alternatives",
+      "param": [
+        "manutention",
+        "assemblage",
+        "meulage"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Flex Cobot Fronius",
+      "image": "/products/images/flex-fronius/carousel1.png",
+      "link": "/product/flex-fronius"
+    },
+    {
+      "name": "ALW 1200 - Soudeuse linéaire automatique",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "CNC 5 axes",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "metaData": {
+    "homepage": {
+      "title": "Innovative CNC Solutions, Cutting, Machining, and Industrial Automation | BAL Industry",
+      "description": "BAL Industry offers CNC services, cutting, machining, welding, automation, and robotics. Explore innovative solutions to enhance production efficiency."
+    },
+    "about": {
+      "title": "Your Partner in Industrial Automation and Production | BAL Industry",
+      "description": "Discover BAL Industry - experts in CNC, cutting, welding, and automation. Our company guarantees production efficiency and quality."
+    },
+    "automation": {
+      "title": "Machine and Equipment Automation | Enhance Production Efficiency | BAL Industry",
+      "description": "Learn about our machine and equipment automation services. Increase production efficiency and precision. Contact us today!"
+    },
+    "calculator": {
+      "title": "Calculate Laser Cutting Costs | BAL Industry",
+      "description": "Use our laser cutting cost calculator. Estimate the cost of cutting materials based on selected parameters. We provide precise production cost assessments for your project."
+    },
+    "contact": {
+      "title": "Contact BAL Industry - Your Partner in Industry",
+      "description": "Have questions or need support? Use our contact form. We are experts in automation and industry."
+    },
+    "forms": {
+      "title": "Order Bending, Welding, Cutting, and More | BAL Industry",
+      "description": "Use our form to order bending, welding, cutting, painting, CNC machining, and more. Fill out the form and receive a quick quote!"
+    },
+    "product": {
+      "title": "Advanced Industrial Machines | BAL Industry",
+      "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects.",
+      "single": {
+        "title": "Single Station | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "dual": {
+        "title": "Dual Station | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "twin-one-axis": {
+        "title": "Twin One-axis Station | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "waterjet": {
+        "title": "Waterjet | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "trupunch-5000": {
+        "title": "TruPunch 5000 | TRUMPH | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "trulaser-7000": {
+        "title": "TruLaser Tube 7000 fiber | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "trulaser-3030": {
+        "title": "TruLaser 3030 fiber | TRUMPH | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "bending-station": {
+        "title": "Bending Station | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "arc-d600": {
+        "title": "ARC D600 | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "arc-b250": {
+        "title": "ARC B250 | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "arc-trackmotion-2t": {
+        "title": "ARC Trackmotion 2t | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "clx-350": {
+        "title": "CLX 350 | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "dmu-75-monoblock": {
+        "title": "DMU 75 monoBLOCK | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "dmu-210-p": {
+        "title": "DMU 210 P | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "sprint-32I5": {
+        "title": "SPRINT 32I5 | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "m1": {
+        "title": "M1 | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "lh": {
+        "title": "LH | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "5-axis-cnc": {
+        "title": "5-Axis CNC | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "nlx-2500": {
+        "title": "NLX 2500 | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "surface-treatment": {
+        "title": "Surface Treatment | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "furnace": {
+        "title": "Chamber Furnaces | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "vertical-warehouse": {
+        "title": "Vertical Sheet Metal Warehouse | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "paintshops-installation": {
+        "title": "Paintshop Installation | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "alw-1200": {
+        "title": "ALW 1200 | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "flex-esab": {
+        "title": "Flex Cobot Esab | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "flex-fronius": {
+        "title": "Flex Cobot Fronius | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      },
+      "service-paintshop": {
+        "title": "Powder and Wet Painting | BAL Industry",
+        "description": "We offer advanced industrial tools, including laser cutters and welders. Our technological machine park enables you to handle even the most demanding projects."
+      }
+    },
+    "ar": {
+      "title": "3D Preview | BAL Industry",
+      "description": "View our product in 3D"
+    }
+  },
+  "about": {
+    "Our company": "Our company has been operating in the market since 1998. We quickly developed as a manufacturing plant producing a variety of products for different purposes. With the growing market demand for our products, we invested in the development of our machinery park to increase efficiency and improve the quality of our products.",
+    "About us": "About us"
+  },
+  "automation": {
+    "The modernization": "The modernization of machines and equipment in terms of automation is a process of introducing modern technologies and solutions into existing machines and equipment to increase their level of automation and efficiency. It involves modifying, improving, or replacing parts, components, or systems in existing devices to enable them to operate fully or partially autonomously.",
+    "Machine and equipment automation": "Machine and equipment automation"
+  },
+  "calculator": {
+    "Do you want": "Do you want to know the cost of our cutting services? Please fill out the form below and upload the appropriate file so that we can accurately estimate the cost and tailor the offer to your needs.",
+    "Acceptable file": "Acceptable file extension: .dxf (max. 8MB)",
+    "Cutting quotation": "Cutting quotation"
+  },
+  "contact": {
+    "Thank you": "Thank you for your interest in our company! Please fill out the form below to get in touch with us. We will do our best to respond as soon as possible.",
+    "Contact form": "Contact form"
+  },
+  "forms": {
+    "Follow us": "Follow us:",
+    "Dear Customer": "Dear Customer,",
+    "Please fill": "Please fill in the inquiry details so we can tailor the offer to your needs. Leave your contact details, and we will call you back to discuss your inquiry.",
+    "Offer Form": "Offer Form"
+  },
+  "product": {
+    "We cannot": "We cannot retrieve the data",
+    "Check your internet": "Check your internet connection",
+    "Data unavailable": "Data unavailable",
+    "Open in": "Open in Augmented Reality (AR)",
+    "Error": "Error - failed to load the model"
+  },
+  "components": {
+    "about": {
+      "Why": "Why Balindustry?",
+      "We specialize": "We specialize in tailoring customized automation solutions to the needs of various industries. Our company continues to achieve successive triumphs in project execution and building global partnerships. Together, we strive to enhance efficiency and automation in your company.",
+      "Excellence in production": "Excellence in\u00A0production",
+      "Thanks to": "Thanks to a modern machine park, BAL\u00A0Industry can efficiently manufacture various components while meeting the highest quality standards. We utilize advanced technologies and the expertise of specialists to meet our clients' expectations.",
+      "What do we do": "What do we do?",
+      "Thanks to our own experience": "Thanks to our own experience, we have gained a deep understanding of the processes, challenges, and needs of manufacturing plants with a similar production profile, and we want to share this knowledge with others. We can help you increase efficiency and improve production quality.",
+      "Our machines": "Our machines",
+      "Our offer": "Our offer includes robotic workstations, transportation and storage systems, welding machines, and many other innovative machines. Thanks to this, we can comprehensively meet the diverse needs of our clients, providing them with top-level service.",
+      "Modern applications": "Modern applications",
+      "Creativity": "Creativity",
+      "Quality": "Quality",
+      "Teamwork": "Teamwork",
+      "Ingenuity": "Ingenuity",
+      "Thanks to our continuous": "Thanks to our continuous search for new technologies and working methods, we are able to create unique and advanced solutions that bring benefits to our clients.",
+      "Our company places": "Our company places great emphasis on innovation and creativity. We strive to continuously develop pioneering solutions that bring value to our partners.",
+      "Quality is the foundation": "Quality is the foundation of our business. All our products and services are carefully developed and thoroughly tested to ensure the highest level of satisfaction for our clients.",
+      "Working together": "Working together enables us to achieve outstanding results and efficiently accomplish project goals.",
+      "We strive": "We strive to create an inspiring environment that fosters the development of original concepts and innovative solutions.",
+      "Years on the market": "Years on the market",
+      "Completed projects": "Completed projects",
+      "Positive reviews": "Positive reviews",
+      "Cups of coffee": "Cups of coffee"
+    },
+    "automation": {
+      "Adding sensors and actuators": "Adding sensors and actuators",
+      "Automation of control systems": "Automation of control systems",
+      "Integration with IT systems": "Integration with IT systems",
+      "Energy optimization": "Energy optimization",
+      "Robotics and process automation": "Robotics and process automation",
+      "Installation of additional sensors": "Installation of additional sensors, such as optical sensors, force sensors, and position sensors, which enable machines to collect data about the environment, operating conditions, or the product.",
+      "Implementation of modern control": "Implementation of modern control and automation systems, such as Programmable Logic Controllers (PLC) or SCADA (Supervisory Control and Data Acquisition) systems, which enable programming, monitoring, and controlling the operation of machines and devices.",
+      "Connecting machines": "Connecting machines and devices with IT systems, such as Manufacturing Execution Systems (MES) or Enterprise Resource Planning (ERP) systems, enabling data exchange and integration of production processes.",
+      "Implementation of solutions": "Implementation of solutions aimed at reducing energy consumption, such as efficient motors, speed regulation, the use of renewable energy sources, and kinetic energy recovery.",
+      "Implementation of industrial robots": "Implementation of industrial robots or automation systems to perform specific operations or tasks within the production process. This may include assembly, welding, packaging, sorting, and many other activities."
+    },
+    "calculator": {
+      "Unfortunately": "Unfortunately, the file preview is not available.",
+      "Error": "Error",
+      "Thank you": "Thank you",
+      "Something went wrong": "Something went wrong",
+      "Failed to": "Failed to send the inquiry.",
+      "Please fill": "Please fill in the contact details.",
+      "Your inquiry": "Your inquiry has been successfully sent.",
+      "No model": "No model has been configured. Please provide configuration data.",
+      "No value": "No value",
+      "Values for a single unit": "Values for a single unit",
+      "Data in millimeters": "Data in millimeters:",
+      "Laser cutting length": "Laser cutting length:",
+      "Surface area:": "Surface area:",
+      "Mass:": "Mass:",
+      "Data in meters:": "Data in meters:",
+      "Add to the inquiry": "Add to the inquiry",
+      "File name:": "File name: ",
+      "Material:": "Material: ",
+      "Thickness:": "Thickness: ",
+      "Quantity:": "Quantity: ",
+      "List of": "List of selected configurations",
+      "Provide us": "Provide us with your details so we can contact you",
+      "Full name": "Full name *",
+      "Your email": "Your email *",
+      "Request a quote": "Request a quote",
+      "Loading": "Loading",
+      "Material": "Material",
+      "Select a material from the list": "Select a material from the list",
+      "Quantity": "Quantity",
+      "Enter the target quantity of pieces": "Enter the target quantity of pieces",
+      "Thickness": "Thickness",
+      "Enter the material thickness for cutting": "Enter the material thickness for cutting",
+      "What does": "What does the optimal file look like?",
+      "An optimal file": "An optimal file for laser cutting consists of a single part. All contours are closed, and the cutting contour color is white.",
+      "What should be": "What should be taken into account?",
+      "The following points": "The following points should be taken into account:",
+      "the file should contain": "the file should contain only the cutting contour",
+      "there should be": "there should be only one part per file",
+      "lines should not overlap": "lines should not overlap",
+      "the file should not": "the file should not contain additional data or information",
+      "when exporting": "when exporting from a 3D program, other views should not be selected",
+      "the file should not contain": "the file should not contain a drawing header",
+      "lines should be": "lines should be white (red lines will not be cut)",
+      "contours should be closed": "contours should be closed",
+      "What mistakes": "What mistakes should be avoided?",
+      "A file containing": "A file containing the following errors should not be submitted:",
+      "colored lines": "colored lines",
+      "open contours": "open contours",
+      "borders around the drawing edges": "borders around the drawing edges",
+      "material information and text annotations": "material information and text annotations",
+      "multiple parts in the same file": "multiple parts in the same file",
+      "or": "or",
+      "drag": "drag and drop them here. Max. 8MB",
+      "Invalid file type": "Invalid file type",
+      "Add files for quotation": "Add files for quotation",
+      "Select files": "Select files"
+    },
+    "common": { "Loading": "Loading..." },
+    "contact": {
+      "Contact us": "Contact us",
+      "Send us an email": "Send us an email or start a conversation by filling out the form below.",
+      "Contact us directly": "Contact us directly!",
+      "Get in touch with Robert": "Get in touch with Robert Mrozik for inquiries regarding",
+      "the robotics": "the robotics or welding department.",
+      "Get in touch with Jakub": "Get in touch with Jakub Sobisz for inquiries regarding",
+      "the installation": "the installation of paint shops, vertical sheet metal storage, surface treatment, or chamber furnaces.",
+      "Phone": "Phone",
+      "Email": "Email"
+    },
+    "forms": {
+      "Add file": "Add file",
+      "File uploaded": "File uploaded",
+      "No file selected": "No file selected",
+      "Select the type": "Select the type of processing (multiple selections\u00A0possible):",
+
+      "Full name is required": "Full name is required",
+      "Full name *": "Full name *",
+      "Enter your full name": "Enter your full name",
+      "Message subject is required": "Message subject is required",
+
+      "Message subject *": "Message subjecprzygotuj to t *",
+      "Enter the message subject": "Enter the message subject",
+      "Email is required": "Email is required",
+      "Enter your email address": "Enter your email address",
+      "Email is invalid": "Email is invalid",
+      "Message is required": "Message is required",
+      "Your message *": "Your message *",
+      "Send": "Send",
+
+      "Please select": "Please select at least one option",
+      "The field accepts": "The field accepts only numbers",
+
+      "Phone number *": "Phone number *",
+      "Enter your phone number": "Enter your phone number",
+      "The field must": "The field must contain at least 6 digits",
+      "The field can": "The field can contain a maximum of 15 digits",
+      "Phone number is required": "Phone number is required",
+
+      "Thank you": "Thank you for submitting your request.",
+      "Oops": "Oops, something went wrong! Please try again later.",
+
+      "bending": "Bending",
+      "welding": "Welding",
+      "spot_welding": "Spot Welding",
+      "painting": "Painting",
+      "cnc_processing": "CNC Processing",
+      "rolling": "Rolling",
+      "mdf_processing_painting": "MDF Processing & Painting",
+      "large_welding": "Large Welding",
+      "satinizing": "Satinizing",
+      "blunting": "Blunting Edges",
+      "grinding": "Grinding",
+      "tig": "TIG",
+      "mig": "MIG",
+      "laser": "Laser",
+      "other": "Other",
+      "wet": "Wet",
+      "powder": "Powder",
+      "select_processing_method": "Select processing method",
+      "select_welding_type": "Select welding type",
+      "select_welding_type_required": "Welding type is required",
+      "select_painting_technology": "Select painting technology",
+      "select_painting_technology_required": "Painting technology is required",
+      "max_dimensions_required": "Maximum dimensions are required",
+      "max_dimensions_label": "Maximum part dimensions *",
+      "max_dimensions_placeholder": "Enter maximum part dimensions",
+      "weight_required": "Weight is required",
+      "weight_label": "Part weight *",
+      "weight_placeholder": "Enter part weight",
+      "temperature_required": "Operating temperature is required",
+      "temperature_label": "Required continuous operating temperature *",
+      "temperature_placeholder": "Enter required temperature",
+      "window_dimensions_required": "Expected window dimensions are required",
+      "window_dimensions_label": "Expected furnace window dimensions *",
+      "window_dimensions_placeholder": "Enter expected window dimensions"
+    },
+    "homePage": {
+      "Browse": "Browse our catalog",
+      "Learn more about": "Learn more about our machines with the catalog.",
+      "Learn more about workshop equipment": "Learn more about workshop equipment",
+      "We use": "We use the following tools:",
+      "Learn more": "Learn more",
+      "Download catalog": "Download catalog",
+      "OUR PARTNERS": "OUR PARTNERS",
+      "Product portfolio": "",
+      "in the field": "product portfolio in the field of robotics and\u00A0automation",
+      "Robotics and automation": "Robotics and automation",
+      "Machine park": "Machine park",
+      "Products": "Products",
+      "Services": "Services",
+      "Form": "Form",
+      "Are you curious": "Are you curious about what makes our clients trust us so much? Take a look at the solutions we\u00A0use.",
+      "Check out": "Check out the equipment we work on and find out why we are the best! Quality is not just an empty\u00A0phrase for us.",
+      "Discover": "Discover our product offering designed for businesses of all sizes! Increase productivity in\u00A0your\u00A0company.",
+      "Want to": "Want to start a collaboration or learn about our offerings? Use our calculator or fill out the contact\u00A0form.",
+
+      "Solutions": "Solutions",
+      "Check our services": "Check our services.",
+      "Fill out the offer form on our website": "Fill out the offer form on our website.",
+
+      "Discover modern solutions": "Discover modern solutions",
+      "for industry": "for industry",
+      "We provide": "We provide customized, industry-specific automation solutions. We successfully execute projects and build global partnerships. Together, we will improve efficiency and automation in your company.",
+      "Introducing": "Introducing industrial robots or automation systems to perform specific operations or tasks within the production process. This may include assembly, welding, packaging, sorting, and many other\u00A0activities.",
+      "A well-equipped": "A well-equipped machine park enables efficient production, increases operational flexibility, and allows for the execution of various projects using appropriate tools and\u00A0technologies.",
+      "We offer machines": "We offer machines for processing flat surfaces. We design and deliver sheet metal storage systems, such as sheet bundle storage solutions, and storage solutions for elements along with transport pallets. We also offer high-temperature furnaces used in various technological\u00A0processes.",
+      "Based on knowledge": "Based on the knowledge and\u00A0experience of our specialists, we tailor our services to the individual needs and\u00A0requirements of our customers, providing them with professional service and\u00A0satisfaction with the achieved\u00A0results."
+    },
+    "layout": {
+      "About us": "About us",
+      "Robotic workstations": "Robotic workstations",
+      "Single workstation": "Single workstation",
+      "Robotic workstation": "Robotic workstation",
+      "Twin One-axis workstation": "Twin One-axis workstation",
+      "Welding automation": "Welding automation",
+      "Dual workstation": "Dual workstation",
+      "Machine and equipment automation": "Machine and equipment automation",
+      "Products Machines": "Products Machines",
+      "Surface treatment": "Surface treatment",
+      "Vertical sheet metal storage": "Vertical sheet metal storage",
+      "Chamber furnaces": "Chamber furnaces",
+      "Wet and powder coating booths": "Wet and powder coating booths",
+      "Our machine park": "Our machine park",
+      "Metal processing department": "Metal processing department",
+      "CNC processing department": "CNC processing department",
+      "Services": "Services",
+      "Offer form": "Offer form",
+      "Cutting quotation": "Cutting quotation",
+      "Powder and wet painting": "Powder and wet painting",
+      "Contact": "Contact",
+
+      "Single Workstation": "Single Workstation",
+      "Dual Workstation": "Dual Workstation",
+      "Twin One-axis Workstation": "Twin One-axis Workstation",
+      "Waterjet": "Waterjet",
+      "TruPunch 5000 | TRUMPF": "TruPunch 5000 | TRUMPF",
+      "TruLaser Tube 7000 fiber": "TruLaser Tube 7000 fiber",
+      "TruLaser 3030 fiber | TRUMPF": "TruLaser 3030 fiber | TRUMPF",
+      "Bending workstation": "Bending workstation",
+      "ARC D600": "ARC D600",
+      "ARC B250": "ARC B250",
+      "ARC Trackmotion 2t": "ARC Trackmotion 2t",
+      "CLX 350": "CLX 350",
+      "DMU 75 monoBLOCK": "DMU 75 monoBLOCK",
+      "DMU 210 P": "DMU 210 P",
+      "SPRINT 32I5": "SPRINT 32I5",
+      "M1": "M1",
+      "LH": "LH",
+      "5-axis CNC": "5-axis CNC",
+      "NLX 2500": "NLX 2500",
+      "ALW-1200": "ALW-1200",
+      "Flex Cobot Esab": "Flex Cobot Esab",
+      "Flex Cobot Fronius": "Flex Cobot Fronius",
+
+      "Chamber furnace": "Chamber furnace",
+      "Satin finishing machine": "Satin finishing machine",
+      "MIG, MAG, TIG offert": "MIG, MAG, TIG offert",
+      "Laser Services Offer" : "Laser Services Offer"
+    },
+    "product": {
+      "Other customers also checked": "Other customers also checked",
+      "Main features": "Main features",
+      "Parameters": "Parameters",
+      "Similar products": "Similar products",
+
+      "Paint shop 1": "Paint shop 1",
+      "Max detail weight": "Max. detail weight",
+      "Paint shop 2": "Paint shop 2",
+      "See in augmented reality AR": "See in augmented reality AR",
+
+      "Feature": "Feature",
+      "Description": "Description",
+
+      "Sheet metal storage": "Sheet metal storage",
+      "Max sheet size": "Max sheet size",
+      "Own weight": "Own weight",
+      "Number of drawers": "Number of drawers",
+      "Storage for elements with pallets": "Storage for elements with pallets",
+
+      "See in 3D": "See in\u00A03D"
+    }
+  },
+  "offert": {
+    "Comprehensive Welding Services": "Comprehensive Welding Services - MIG/MAG and TIG",
+    "BAL Industry is a modern company": "BAL Industry is a modern company specializing, among other things, in providing welding services using MIG/MAG and TIG methods, both manually and robotically. Our experience, skilled workforce, and extensive machine facilities enable us to handle even the most demanding projects, regardless of the scale. BAL Industry offers services based on customer-supplied parts or complete project execution based on technical documentation.",
+    "Comprehensive MIG/MAG and TIG Welding Services": "Comprehensive MIG/MAG and TIG Welding Services - Manual and Robotic",
+    "Manual Welding:": "Manual Welding:",
+    "Experienced welders": "Experienced welders with proper qualifications",
+    "Unit, repair, and small-batch production": "Unit, repair, and small-batch production",
+    "Ability to work with various materials": "Ability to work with various materials: carbon steel, stainless steel, aluminum",
+    "Robotic Welding:": "Robotic Welding:",
+    "Robotic welding cells": "Robotic welding cells ensuring repeatability and efficiency",
+    "Ideal for serial and mass production": "Ideal for serial and mass production",
+    "Methods: MIG/MAG and TIG": "Methods: MIG/MAG and TIG",
+    "For Complete Product Execution, We Offer:": "For Complete Product Execution, We Offer:",
+    "Cutting and burning parts": "Cutting and burning parts",
+    "Precise cutting": "Precise cutting of steel, stainless steel, and aluminum sheets",
+    "CNC machining": "CNC machining",
+    "Milling, turning, drilling with high dimensional accuracy": "Milling, turning, drilling with high dimensional accuracy",
+    "Bending components": "Bending components",
+    "Modern press brakes": "Modern press brakes allow precise bending of even complex shapes",
+    "Welding": "Welding",
+    "Manual or robotic": "Manual or robotic, tailored to project requirements",
+    "Painting": "Painting",
+    "In-house painting": "In-house painting facilities: powder coating and wet paint shops",
+    "Production of Welding Workstations": "Production of Welding Workstations - Manual and Robotic",
+    "As a manufacturer": "As a manufacturer, BAL Industry also offers the design, fabrication, and integration of custom welding workstations that improve efficiency and ergonomics in our clients' facilities.",
+    "Manual Welding Workstations:": "Manual Welding Workstations:",
+    "Custom-designed to client requirements": "Custom-designed to client requirements",
+    "Option for integration": "Option for integration with exhaust and ventilation systems",
+    "Equipped with": "Equipped with appropriate power sources and accessories - ready for unit or maintenance production",
+    "Robotic Welding Workstations:": "Robotic Welding Workstations:",
+    "Complete cells": "Complete cells and welding lines with industrial and collaborative robots",
+    "Options with": "Options with positioners, tracks, etc.",
+    "Programming, commissioning": "Programming, commissioning, and operator training included",
+    "*Each workstation": "*Each workstation is individually designed based on a detailed analysis of the client's requirements, considering safety standards as well as ergonomic and production needs.",
+    "BAL Industry - Technology That Unites Your Production": "BAL Industry - Technology That Unites Your Production",
+    "Whether you need": "Whether you need a one-off welding task, want to modernize your production line, or are looking to equip your facility with advanced MIG/MAG or TIG workstations - BAL Industry delivers tailor-made solutions.",
+    "Why Choose BAL Industry?": "Why Choose BAL Industry?",
+    "Comprehensive services": "Comprehensive services",
+    "from design": "from design through production to final painting",
+    "Modern technologies": "Modern technologies",
+    "robotic welding systems, CNC, paint shops": "robotic welding systems, CNC, paint shops",
+    "Flexible execution": "Flexible execution",
+    "customer-supplied": "customer-supplied materials or complete in-house production",
+
+    "High quality": "High quality",
+
+    "experience, quality control": "experience, quality control",
+
+    "Individual approach": "Individual approach",
+    "solutions tailored": "solutions tailored to your production needs",
+
+    "Our projects": "Our projects",
+
+    "hashtags": "#Welding, #MIGMAG, #TIG, #CNC, #Industry40, #WeldingServices, #Automation, #Production, #Metal, #BalIndustry, #Manufacturing, #Metalwork, #ManualWelding, #RoboticWelding, #WeldingTechnology, #WeldingStations, #IndustrialProduction, #CNCMachining, #LaserCutting, #SheetBending, #PowderCoating, #WetPainting, #ProductionAutomation, #CustomManufacturing, #ProductionEngineering, #MetalProducts, #WeldingIndustry, #Factory, #Quality, #MetalIndustry, #ModernProduction, #Technology, #Innovation, #Robots, #Cobots, #Precision",
+
+    "Laser Services Offer": "Laser Services Offer",
+
+    "In the era of Industry": "In the era of Industry 4.0, the reliability, precision, and efficiency of production processes are more important than ever before. BAL Industry responds to these needs by offering comprehensive solutions and equipment for laser welding, cutting, and surface cleaning.",
+
+    "We are a modern company": "We are a modern company specializing in both manual and robotic laser services. Thanks to our advanced technological infrastructure, we provide end-to-end project execution—from working with parts supplied by the client to manufacturing components from scratch based on technical drawings.",
+    "Scope of Laser Services": "Scope of Laser Services",
+    "Laser Welding:": "Laser Welding:",
+    "Precise and durable": "Precise and durable joining of metal elements, from thin-walled to thicker components",
+    "High-quality, aesthetic welds": "High-quality, aesthetic welds with no need for additional finishing",
+    "Available as manual welding": "Available as manual welding (for single or non-standard items) and robotic welding (for larger series)",
+    "Processing possible": "Processing possible on both customer-supplied elements and parts manufactured by BAL Industry",
+
+    "Laser Cutting:": "Laser Cutting:",
+    "Fast, clean": "Fast, clean, and repeatable cutting of steel and stainless steel sheets",
+    "Execution based": "Execution based on a technical drawing or a pattern provided by the client",
+    "High precision": "High precision that minimizes material waste",
+
+    "Laser Cleaning:": "Laser Cleaning:",
+    "Removal of rust": "Removal of rust, paint coatings, and contaminants from metal surfaces without damaging the material structure",
+    "An excellent alternative": "An excellent alternative to aggressive chemical and mechanical method",
+
+    "BAL Industry is not just": "BAL Industry is not just a service provider but a full-scope solutions partner for automation and robotics. We design and implement robotic production cells tailored to each client's specific needs, including:",
+
+    "robotic welding stations": "robotic welding stations",
+
+    "machining cells": "machining cells",
+    "automated cutting and bending lines": "automated cutting and bending lines",
+
+    "Our solutions": "Our solutions are based on proven technologies and industrial controllers.",
+
+    "Flexibility and Comprehensive Execution": "Flexibility and Comprehensive Execution",
+
+    "Thanks to a modern": "Thanks to a modern machine park and a team of experienced specialists, BAL Industry offers:",
+
+    "Processing of": "Processing of components provided by the client",
+
+    "Complete in-house": "Complete in-house production: from cutting parts from suitable materials (carbon steel, stainless steel), CNC machining, and bending, to welding",
+
+    "Option to finish": "Option to finish parts in our own powder and wet paint shops",
+
+    "We work based on:": "We work based on:",
+
+    "Ready-made components": "Ready-made components",
+
+    "Technical drawings": "Technical drawings",
+
+    "Preliminary concepts": "Preliminary concepts, further developed by our design team",
+
+    "hashtags-laser":"#LaserWelding, #LaserCutting, #LaserCleaning, #LaserServices, #MetalProcessing, #LaserTechnology, #LaserInIndustry, #ProcessRobotization, #ModernProduction, #BALIndustry, #MachinePark, #CustomProduction, #RobotWelding, #LaserEngraving, #SheetMetalBending, #SheetMetalProcessing, #MetalParts, #ProjectExecution, #ComprehensiveProduction, #LaserPrecision, #LaserPower, #HighQuality, #Industry4_0, #ModernFactory, #Laser, #Quality, #Precision, #Production, #Technology, #Innovation, #Industry, #Robotics"
+  }
+}

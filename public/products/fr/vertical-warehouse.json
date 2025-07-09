@@ -1,0 +1,106 @@
+{
+  "basic_data": {
+    "pathID": "vertical-warehouse",
+    "name": "Entrepôt Vertical pour Tôles",
+    "additional_name": "",
+    "description": "Nous concevons et livrons des systèmes de stockage pour tôles, tels que des paquets de feuilles de tôle ainsi que des solutions pour le stockage des composants avec des palettes de transport.",
+    "with_data": false
+  },
+  "images": [
+    "/products/images/vertical-warehouse/carousel1.png"
+  ],
+  "floating_CTA": {
+    "title": "Entrepôt Vertical pour Tôles",
+    "image": "/products/images/vertical-warehouse/carousel1.png",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/forms/warehouses",
+    "qp": "",
+    "ar": true,
+    "arLink": "/product/vertical-warehouse/MAGAZYN"
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Solutions pour une Gestion Efficace des Matériaux",
+      "content": [
+        "Nos solutions sont conçues pour répondre aux besoins variés des clients, garantissant flexibilité et évolutivité pour s’adapter à différents types de production et tailles d’entrepôts."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Poste Twin One-Axis",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    },
+    {
+      "name": "Traitement de Surface",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "Peinture Liquide et Poudre",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "Fours à Chambre",
+      "image": "/products/images/furnace/carousel1.svg",
+      "link": "/product/furnace"
+    },
+    {
+      "name": "Poste de Pliage",
+      "image": "/products/images/bending-station/carousel1.png",
+      "link": "/product/bending-station"
+    }
+  ],
+  "metal_sheets": [
+    {
+      "size": "1000 x 2000 mm",
+      "mass": "> 2500 kg",
+      "drawers": "-"
+    },
+    {
+      "size": "1250 x 2500 mm",
+      "mass": "> 2500 kg",
+      "drawers": "-"
+    },
+    {
+      "size": "1500 x 3000 mm",
+      "mass": "> 2500 kg",
+      "drawers": "12"
+    }
+  ],
+  "pallets_elements": [
+    {
+      "size": "1000 x 2000 mm",
+      "mass": "> 2500 kg",
+      "drawers": "-"
+    },
+    {
+      "size": "1250 x 2500 mm",
+      "mass": "> 2500 kg",
+      "drawers": "-"
+    },
+    {
+      "size": "1500 x 3000 mm",
+      "mass": "> 2500 kg",
+      "drawers": "12"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "basic_data": {
+    "pathID": "trupunch-5000",
+    "name": "TruPunch 5000 | TRUMPF",
+    "additional_name": "Processing Material: Steel, Stainless Steel, Aluminum, Cast Iron, Non-ferrous Metals",
+    "description": "Exceptional productivity and process security thanks to a backlash-free drive, enabling extremely fast contour processing and thread forming at high C-axis rotation speeds. Fast punching and marking support process flexibility and efficiency.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/trupunch-5000/carousel1.png"
+  ],
+  "floating_CTA": {
+    "title": "TruPunch 5000 | TRUMPF",
+    "image": "/products/images/trupunch-5000/floatingCTA.png",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Width",
+      "value": "6540 mm"
+    },
+    {
+      "name": "Height",
+      "value": "2072 mm"
+    },
+    {
+      "name": "Max. Y-axis Travel",
+      "value": "1250 mm"
+    },
+    {
+      "name": "Max. X-axis Travel",
+      "value": "2500 mm"
+    },
+    {
+      "name": "Max. Sheet Thickness",
+      "value": "3 mm"
+    },
+    {
+      "name": "Max. Detectable Object Weight",
+      "value": "250 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Flexible Processing with Size 5 Tools for Active Die",
+      "content": [
+        "Size 5 tools for the active die enable flexible work, both for flanging hole edges and for creating slots. The tools used for this purpose include the bottom-up flanging punch, the slot tool, the card guide tool, and the roller embossing tool."
+      ],
+      "image": "/products/images/trupunch-5000/mainCharacteristics1.png"
+    },
+    {
+      "title": "Efficient Smoothing During the Process",
+      "content": [
+        "Thanks to the integrated straightening function and the appropriate tool, unevenness can be corrected during the punching process, eliminating the need for additional finishing."
+      ],
+      "image": "/products/images/trupunch-5000/mainCharacteristics2.png"
+    },
+    {
+      "title": "Efficient Production with TruTops Boost",
+      "content": [
+        "TruTops Boost, a comprehensive 3D software, enables the design and programming of lasers, punch presses, and laser punching machines. Thanks to numerous automations, routine tasks can be accelerated, and material can be saved through shared job pools. Additionally, the program provides full control over all production orders and optimized workflow management."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Smart Industry 4.0 Solutions from TRUMPF",
+      "content": [
+        "TRUMPF software solutions optimize the production process from the first customer inquiry to the delivery of the finished part. The intelligent combination of software, machines, and services provides comprehensive and customized solutions for the Smart Factory in the Industry 4.0 era."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Max. Punching Force",
+      "param": [
+        "220 kN"
+      ]
+    },
+    {
+      "name": "Wide Guide Spacing",
+      "param": [
+        "580 mm in X-axis / travel 550 mm",
+        "560 mm in Y-axis / travel 550 mm",
+        "260 mm in Z-axis / travel 510 mm"
+      ]
+    },
+    {
+      "name": "Multitool Tool Change Time",
+      "param": [
+        "0.3 s"
+      ]
+    },
+    {
+      "name": "Max. Sheet Thickness",
+      "param": [
+        "3 mm"
+      ]
+    },
+    {
+      "name": "Max. Detectable Object Weight",
+      "param": [
+        "250 kg"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "ARC D600",
+      "image": "/products/images/arc-d600/carousel1.png",
+      "link": "/product/arc-d600"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    },
+    {
+      "name": "5-Axis CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "Twin One-Axis Station",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    }
+  ]
+}

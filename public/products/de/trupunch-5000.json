@@ -1,0 +1,138 @@
+{
+  "basic_data": {
+    "pathID": "trupunch-5000",
+    "name": "TruPunch 5000 | TRUMPF",
+    "additional_name": "Bearbeitungsmaterial: Stahl, Edelstahl, Aluminium, Gusseisen, Buntmetalle",
+    "description": "Außergewöhnliche Produktivität und Prozesssicherheit dank spielfreiem Antrieb, der eine extrem schnelle Konturbearbeitung und Gewindeformung bei hohen C-Achsen-Drehzahlen ermöglicht. Schnelles Stanzen und Markieren unterstützen die Flexibilität und Effizienz des Prozesses.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/trupunch-5000/carousel1.png"
+  ],
+  "floating_CTA": {
+    "title": "TruPunch 5000 | TRUMPF",
+    "image": "/products/images/trupunch-5000/floatingCTA.png",
+    "content": "",
+    "button": "Preis anfragen",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Breite",
+      "value": "6540 mm"
+    },
+    {
+      "name": "Höhe",
+      "value": "2072 mm"
+    },
+    {
+      "name": "Max. Verfahrwege in Y-Achse",
+      "value": "1250 mm"
+    },
+    {
+      "name": "Max. Verfahrwege in X-Achse",
+      "value": "2500 mm"
+    },
+    {
+      "name": "Max. Blechdicke",
+      "value": "3 mm"
+    },
+    {
+      "name": "Max. Gewicht des erkennbaren Objekts",
+      "value": "250 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Flexible Bearbeitung mit Werkzeugen der Größe 5 für aktive Matrize",
+      "content": [
+        "Werkzeuge der Größe 5 für die aktive Matrize ermöglichen eine flexible Arbeit, sowohl beim Umformen von Lochrändern als auch beim Erstellen von Schlitzen. Zu den hierfür eingesetzten Werkzeugen gehören der Umformstempel für Lochränder von unten, das Schlitzwerkzeug, das Führungswerkzeug für Karten sowie das Rollprägetool."
+      ],
+      "image": "/products/images/trupunch-5000/mainCharacteristics1.png"
+    },
+    {
+      "title": "Effizientes Glätten während des Prozesses",
+      "content": [
+        "Dank der integrierten Richtfunktion und des entsprechenden Werkzeugs können Unebenheiten bereits während des Stanzprozesses ausgeglichen werden, wodurch eine nachträgliche Nachbearbeitung überflüssig wird."
+      ],
+      "image": "/products/images/trupunch-5000/mainCharacteristics2.png"
+    },
+    {
+      "title": "Effiziente Produktion mit TruTops Boost",
+      "content": [
+        "TruTops Boost, die umfassende 3D-Software, ermöglicht das Design und die Programmierung von Lasern, Stanzmaschinen und Kombimaschinen. Durch zahlreiche Automatisierungen lassen sich Routineaufgaben beschleunigen und Material einsparen, indem Aufträge gemeinsam optimiert werden. Zusätzlich erlaubt das Programm eine vollständige Kontrolle über alle Produktionsaufträge und eine optimierte, auf Aufträgen basierende Arbeitsweise."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Intelligente Industrie-4.0-Lösungen von TRUMPF",
+      "content": [
+        "Die Softwarelösungen von TRUMPF optimieren den Produktionsprozess von der ersten Kundenanfrage bis zur Lieferung des fertigen Teils. Die intelligente Verbindung von Software, Maschinen und Dienstleistungen liefert umfassende und maßgeschneiderte Lösungen für die Smart Factory in der Industrie 4.0-Ära."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Max. Stanzkraft",
+      "param": [
+        "220 kN"
+      ]
+    },
+    {
+      "name": "Großer Führungsabstand",
+      "param": [
+        "580 mm in X-Achse / Verfahrweg 550 mm",
+        "560 mm in Y-Achse / Verfahrweg 550 mm",
+        "260 mm in Z-Achse / Verfahrweg 510 mm"
+      ]
+    },
+    {
+      "name": "Werkzeugwechselzeit Multitool",
+      "param": [
+        "0,3 s"
+      ]
+    },
+    {
+      "name": "Max. Blechdicke",
+      "param": [
+        "3 mm"
+      ]
+    },
+    {
+      "name": "Max. Gewicht des erkennbaren Objekts",
+      "param": [
+        "250 kg"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "ARC D600",
+      "image": "/products/images/arc-d600/carousel1.png",
+      "link": "/product/arc-d600"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    },
+    {
+      "name": "5-Achsen CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "Twin One-Axis-Station",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    }
+  ]
+}

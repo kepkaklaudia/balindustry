@@ -1,0 +1,141 @@
+{
+  "basic_data": {
+    "pathID": "nlx-2500",
+    "name": "NLX 2500",
+    "additional_name": "Processing material: Steel, Stainless Steel, Aluminum, Cast Iron, Non-ferrous Metals, Plastic",
+    "description": "An advanced turning machine designed for achieving the highest efficiency in part machining. The machine enables fast and effective execution of various turning operations, ensuring optimal production results.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/nlx-2500/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "NLX 2500",
+    "image": "/products/images/nlx-2500/floatingCTA.svg",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. Travel in X-Axis",
+      "value": "260 mm"
+    },
+    {
+      "name": "Max. Internal Diameter of Clamping Tube",
+      "value": "90 mm"
+    },
+    {
+      "name": "Max. Travel in Y-Axis",
+      "value": "100 mm"
+    },
+    {
+      "name": "Max. Workpiece Length",
+      "value": "1255 mm"
+    },
+    {
+      "name": "Max. Travel in Z-Axis",
+      "value": "1345 mm"
+    },
+    {
+      "name": "Max. Workpiece Diameter",
+      "value": "366 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Turret Head with BMT",
+      "content": [
+        "Our latest milling machine is equipped with an innovative turret head with BMT (Built-in Motor Turret), enabling high-speed tooling machines with speeds of up to 10,000 RPM. This ensures precise and efficient part machining, tailored to the latest industrial standards."
+      ],
+      "image": "/products/images/nlx-2500/main-characteristics1.svg"
+    },
+    {
+      "title": "Innovative Lathe with Quick-Change Turret Head",
+      "content": [
+        "Our modern lathe offers high precision thanks to precisely controlled thermal distribution, ensuring optimal working conditions. Additionally, the optional quick-change turret head feature allows for even more efficient production, providing flexibility and performance in part machining."
+      ],
+      "image": "/products/images/nlx-2500/main-characteristics2.svg"
+    },
+    {
+      "title": "Energy Saving Settings and Visualization of Savings Effects",
+      "content": [
+        "Our platform focuses on efficient energy savings through precise settings and visualization, allowing users to monitor and optimize energy consumption. This ensures environmentally friendly solutions and reduced operating costs while maintaining high performance and functionality."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Head",
+      "param": [
+        "Turret head with BMT"
+      ]
+    },
+    {
+      "name": "High-Speed Spindle",
+      "param": [
+        "Rotational speed: 10,000 RPM"
+      ]
+    },
+    {
+      "name": "SWISSTYPEkit",
+      "param": [
+        "For turning short and long parts on a single machine"
+      ]
+    },
+    {
+      "name": "Precisely Controlled Thermal Distribution",
+      "param": [
+        "Ensuring accurate control of thermal distribution"
+      ]
+    },
+    {
+      "name": "Quick-Change Turret Head",
+      "param": [
+        "Optional feature providing precise and quick turret head exchange"
+      ]
+    },
+    {
+      "name": "Energy Saving Settings",
+      "param": [
+        "System allowing efficient energy-saving settings"
+      ]
+    },
+    {
+      "name": "Visualization of Energy Savings Effects",
+      "param": [
+        "Visual tool allowing monitoring and visualization of energy savings effects"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "5-Axis CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

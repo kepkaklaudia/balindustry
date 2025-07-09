@@ -1,0 +1,112 @@
+{
+  "basic_data": {
+    "pathID": "single",
+    "name": "Poste de Soudage Single",
+    "additional_name": "",
+    "description": "La dernière cellule de soudage révolutionne l'industrie grâce à un contrôle innovant et à des solutions de sécurité modernes. Équipée d'un robot collaboratif, la machine garantit précision, fiabilité et sécurité lors des opérations de soudage.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/single/carousel1.svg",
+    "/products/images/single/carousel2.png",
+    "/products/images/single/carousel3.png"
+  ],
+  "floating_CTA": {
+    "title": "Poste de Soudage Single",
+    "image": "/products/images/single/floatingCTA.webp",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Contrôle via le contrôleur du robot",
+      "content": [
+        "La machine est équipée d'un contrôleur de robot permettant un contrôle précis de chaque aspect de son fonctionnement. Cela permet aux utilisateurs d'ajuster facilement les paramètres de travail à leurs besoins."
+      ],
+      "image": "/products/images/single/mainCharacteristics1.png"
+    },
+    {
+      "title": "Commande pneumatique des portes avant",
+      "content": [
+        "Des portes avant pneumatiques pratiques facilitent l'accès et l'utilisation de la machine. Elles sont contrôlées via le contrôleur du robot, garantissant un fonctionnement fluide et éliminant le besoin d'ouverture et de fermeture manuelles."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Capteurs de sécurité équilibrés",
+      "content": [
+        "La machine est équipée de capteurs de proximité de sécurité offrant une couche de protection supplémentaire contre les dangers. Grâce à une détection équilibrée, il est possible de réagir rapidement aux menaces potentielles et de minimiser les risques pour le personnel."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Deux sources de soudage",
+      "content": [
+        "La cellule de soudage permet l'utilisation de deux sources de soudage de fabricants renommés : Fronius et ESAB, offrant aux utilisateurs une plus grande flexibilité et la possibilité de s'adapter à diverses exigences et préférences."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Robot",
+      "param": [
+        "Gofa 15000, UR 5 / UR 10"
+      ]
+    },
+    {
+      "name": "Source de soudage",
+      "param": [
+        "Fronius / ESAB"
+      ]
+    },
+    {
+      "name": "Source lumineuse",
+      "param": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Zone de travail",
+      "param": [
+        "800 x 1200 mm"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Poste de Soudage Dual",
+      "image": "/products/images/dual/carousel1.svg",
+      "link": "/product/dual"
+    },
+    {
+      "name": "ALW 1200 - Soudeur Linéaire Automatique",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "Flex Cobot Esab",
+      "image": "/products/images/flex-esab/carousel1.png",
+      "link": "/product/flex-esab"
+    },
+    {
+      "name": "LH",
+      "image": "/products/images/lh/carousel1.svg",
+      "link": "/product/lh"
+    },
+    {
+      "name": "Poste de Soudage Twin One-axis",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    }
+  ]
+}

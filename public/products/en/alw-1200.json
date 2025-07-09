@@ -1,0 +1,156 @@
+{
+  "basic_data": {
+    "pathID": "alw-1200",
+    "name": "ALW 1200 - Automatic Linear Welder",
+    "additional_name": "",
+    "description": "The ALW-1200 machine is designed for automatic longitudinal welding of rolled components with diameters tailored to customer needs. Depending on the welding process requirements and the material from which the rolled components will be made, our device can be adapted for welding using the TIG and/or MIG/MAG method.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/alw-1200/carousel1.png",
+    "/products/images/alw-1200/carousel2.png",
+    "/products/images/alw-1200/carousel3.png",
+    "/products/images/alw-1200/carousel4.png",
+    "/products/images/alw-1200/carousel5.png",
+    "/products/images/alw-1200/carousel6.png"
+  ],
+  "floating_CTA": {
+    "title": "ALW 1200",
+    "image": "/products/images/alw-1200/carousel1.png",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Motor",
+      "value": "HIWIN EM1"
+    },
+    {
+      "name": "Control",
+      "value": "Siemens S7 - 1200"
+    },
+    {
+      "name": "Welding Length",
+      "value": "max. 2100 mm"
+    },
+    {
+      "name": "Operator Panel",
+      "value": "HMI"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Possibility of welding details of different lengths thanks to the use of divided clamping sections for the welded element",
+      "content": [
+        ""
+      ],
+      "image": "/products/images/alw-1200/mainCharacteristics1.png"
+    },
+    {
+      "title": "Reliable linear bearing system and servo drive",
+      "content": [
+        "The torch and cable package drive is based on a reliable linear bearing system and a Hiwin servo drive.",
+        "The welding holder can be adjusted along the Y and Z axes."
+      ],
+      "image": "/products/images/alw-1200/mainCharacteristics2.png"
+    }
+  ],
+  "specification": [
+    {
+      "name": "Welded Element Diameter",
+      "param": [
+        "min. 190, max. 1200 mm"
+      ]
+    },
+    {
+      "name": "Welding Length",
+      "param": [
+        "max. 2100 mm"
+      ]
+    },
+    {
+      "name": "Material Thickness",
+      "param": [
+        "0.5 - 8 mm"
+      ]
+    },
+    {
+      "name": "Welding Power Source",
+      "param": [
+        "Fronius/Esab"
+      ]
+    },
+    {
+      "name": "Welding Method",
+      "param": [
+        "MIG/MAG & TIG"
+      ]
+    },
+    {
+      "name": "Arc Length",
+      "param": [
+        "constant along the entire length"
+      ]
+    },
+    {
+      "name": "Cooling",
+      "param": [
+        "backing plate (mandrel), torch"
+      ]
+    },
+    {
+      "name": "Control",
+      "param": [
+        "Siemens S7 - 1200"
+      ]
+    },
+    {
+      "name": "Motor",
+      "param": [
+        "HIWIN Servo Motor EM1"
+      ]
+    },
+    {
+      "name": "Operator Panel",
+      "param": [
+        "HMI"
+      ]
+    },
+    {
+      "name": "Pressure Bar",
+      "param": [
+        "Wear-resistant copper"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Flex Cobot Esab",
+      "image": "/products/images/flex-esab/carousel1.png",
+      "link": "/product/flex-esab"
+    },
+    {
+      "name": "Surface Treatment",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "Flex Cobot Fronius",
+      "image": "/products/images/flex-fronius/carousel1.png",
+      "link": "/product/flex-fronius"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    }
+  ]
+}

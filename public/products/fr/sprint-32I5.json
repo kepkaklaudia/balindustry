@@ -1,0 +1,168 @@
+{
+  "basic_data": {
+    "pathID": "sprint-32I5",
+    "name": "SPRINT 32I5",
+    "additional_name": "Matériau de traitement : Acier, Acier inoxydable, Aluminium, Fonte, Métaux non ferreux, Plastique",
+    "description": "Un tour avancé garantissant un usinage précis des pièces de différentes formes et dimensions, en utilisant un diamètre maximal de matériau de 32 mm et cinq axes d’outils contrôlés.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/sprint-32I5/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "SPRINT 32I5",
+    "image": "/products/images/sprint-32I5/floatingCTA.svg",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Course max. sur l'axe X",
+      "value": "70 mm"
+    },
+    {
+      "name": "Longueur max. de la pièce",
+      "value": "240 mm"
+    },
+    {
+      "name": "Course max. sur l'axe Y",
+      "value": "405 mm"
+    },
+    {
+      "name": "Diamètre intérieur max. du collet",
+      "value": "8000 kg"
+    },
+    {
+      "name": "Course max. sur l'axe Z",
+      "value": "100 mm"
+    },
+    {
+      "name": "Diamètre max. de la pièce",
+      "value": "32 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Efficacité et Polyvalence",
+      "content": [
+        "Nous offrons des capacités d'usinage automatique avancées grâce à 5 axes linéaires et un axe C. Équipée d’une broche principale avec des performances impressionnantes, telles qu'une vitesse de rotation de 8500 tr/min, un couple de 40,4 Nm et une puissance de 5,5 kW, ainsi qu'une contre-broche supplémentaire avec une vitesse de rotation de 8500 tr/min, un couple de 14 Nm et une puissance de 2,2 kW, garantissant une productivité élevée et une grande précision. De plus, le kit SWISSTYPE en option permet l'usinage de pièces courtes et longues sur une seule machine, et la possibilité d'usiner des barres d'un diamètre allant jusqu'à 32 (38) mm fait de notre machine un outil polyvalent pour la production de pièces précises."
+      ],
+      "image": "/products/images/sprint-32I5/main-characteristics1.svg"
+    },
+    {
+      "title": "Conception Modulaire avec 22 Stations d’Outils",
+      "content": [
+        "Notre plateforme se distingue par une conception modulaire, offrant une flexibilité pour s'adapter à divers processus de production. Un ensemble de 22 stations d'outils, dont 4 entraînées en standard, permet une utilisation optimale de la machine. De plus, les broches d'outils entraînées atteignent une vitesse de rotation allant jusqu'à 6000 tr/min, un couple de 3 Nm et une puissance de 1 kW, garantissant une efficacité et une précision élevées lors de l'usinage."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Panneau de Commande Avancé avec FANUC 32i-B Plus",
+      "content": [
+        "Notre machine est équipée d’un panneau de commande avancé avec un écran couleur de 10,4 pouces, permettant un contrôle intuitif via le système FANUC 32i-B Plus. Grâce à 2 canaux de commande, 5 axes linéaires et un axe C, nous offrons flexibilité et précision pour divers processus de production. En outre, un système de surveillance des outils en option avec un indicateur graphique de charge permet une gestion optimale du processus. Notre machine prend en charge jusqu'à 2 outils travaillant simultanément, garantissant une productivité et une efficacité maximales en production."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Une Révolution dans la Précision Numérique : Plateforme avec Rigidité et Précision Maximales",
+      "content": [
+        "Notre plateforme représente une avancée révolutionnaire dans la précision industrielle numérique. Grâce à une rigidité constante assurée par de grandes glissières à billes disposées de manière équilibrée, ainsi qu'à des protections verticales et un écoulement libre des copeaux, nous garantissons une qualité d'usinage inégalée. De plus, les broches moteur intégrées pour la broche principale et la contre-broche avec un système de mesure directe assurent une précision de haut niveau. Notre conception de banc de machine thermosymétrique garantit une précision maximale pour chaque tâche."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Broche Principale",
+      "param": [
+        "Vitesse de rotation : 8500 tr/min",
+        "Couple : 40,4 Nm",
+        "Puissance : 5,5 kW"
+      ]
+    },
+    {
+      "name": "Contre-Broche",
+      "param": [
+        "Vitesse de rotation : 8500 tr/min",
+        "Couple : 14 Nm",
+        "Puissance : 2,2 kW"
+      ]
+    },
+    {
+      "name": "SWISSTYPEkit",
+      "param": [
+        "Pour l'usinage de pièces courtes et longues sur une seule machine"
+      ]
+    },
+    {
+      "name": "Usinage de Barres",
+      "param": [
+        "Diamètre jusqu'à 32 (38) mm"
+      ]
+    },
+    {
+      "name": "Stations d'Outils",
+      "param": [
+        "Total : 22",
+        "Stations d'outils entraînées en standard : 4"
+      ]
+    },
+    {
+      "name": "Broches d’Outils Entraînées",
+      "param": [
+        "Vitesse de rotation : 6000 tr/min",
+        "Couple : 3 Nm",
+        "Puissance : 1 kW"
+      ]
+    },
+    {
+      "name": "Système de Commande",
+      "param": [
+        "2 canaux de commande",
+        "5 axes linéaires et un axe C"
+      ]
+    },
+    {
+      "name": "Système de Surveillance des Outils",
+      "param": [
+        "Avec indicateur graphique de charge en option"
+      ]
+    },
+    {
+      "name": "Travail Simultané",
+      "param": [
+        "Jusqu'à 2 outils travaillant simultanément"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "CNC 5 Axes",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

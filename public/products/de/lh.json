@@ -1,0 +1,98 @@
+{
+  "basic_data": {
+    "pathID": "lh",
+    "name": "LH",
+    "additional_name": "Koordinatenmessmaschine",
+    "description": "Eine moderne Messmaschine, die exzellente mechanische Ingenieurskunst mit intelligenter Software kombiniert. Sie bietet Zuverlässigkeit, Benutzerfreundlichkeit und Flexibilität, unterstützt durch ein umfassendes Servicepaket.",
+    "with_data": false
+  },
+  "images": [
+    "/products/images/lh/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "Messmaschine",
+    "image": "/products/images/lh/floatingCTA.svg",
+    "content": "",
+    "button": "Preisanfrage",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. Verfahrweg in X-Achse",
+      "value": "550 mm"
+    },
+    {
+      "name": "Max. Werkstückhöhe",
+      "value": "615 mm"
+    },
+    {
+      "name": "Max. Verfahrweg in Y-Achse",
+      "value": "550 mm"
+    },
+    {
+      "name": "Max. Werkstücklänge",
+      "value": "850 mm"
+    },
+    {
+      "name": "Max. Verfahrweg in Z-Achse",
+      "value": "510 mm"
+    },
+    {
+      "name": "Max. Werkstückbreite",
+      "value": "650 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Exzellenz in Präzision und Leistung",
+      "content": [
+        "Die LH-Messmaschinen garantieren Funktionalität, Effizienz und Benutzerfreundlichkeit. Ihr Erfolg basiert auf einem umfassenden Konzept, das exzellente mechanische Ingenieurskunst, intelligente Software sowie eine Vielzahl von Zubehör- und Serviceoptionen kombiniert. Diese stabilen, zuverlässigen und dynamischen Geräte sind universelle Messwerkzeuge, die sich in verschiedenen Bereichen bewähren. Sie gehören zur neuesten Generation von Portal-Messmaschinen mit pneumatischen Lagern."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Vielseitige Anwendungen der LH-Portal-Messmaschinen",
+      "content": [
+        "Die LH-Portal-Messmaschinen sind ideale Werkzeuge für Anwendungen, die höchste Genauigkeit und schnelle Messgeschwindigkeit erfordern. Sie werden in verschiedenen Industriezweigen eingesetzt, von der Uhrmacherei bis zur Herstellung großer Motoren, wo Details entscheidend sind. Dank der konfigurierbaren Y-Achse können diese Maschinen an die Messung langer und spezieller Dimensionen angepasst werden, um den Kundenanforderungen gerecht zu werden."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Flex Cobot Esab",
+      "image": "/products/images/flex-esab/carousel1.png",
+      "link": "/product/flex-esab"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "Oberflächenbearbeitung",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "Biegearbeitsplatz",
+      "image": "/products/images/bending-station/carousel1.png",
+      "link": "/product/bending-station"
+    }
+  ]
+}

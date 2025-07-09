@@ -1,0 +1,131 @@
+{
+  "basic_data": {
+    "pathID": "trulaser-3030",
+    "name": "TruLaser 3030 fiber | TRUMPF",
+    "additional_name": "Matériau de traitement : Acier, Acier inoxydable, Aluminium, Fonte, Métaux non ferreux",
+    "description": "Permet une découpe rentable des tôles de différentes épaisseurs en utilisant le laser à solide TruDisk et la technologie BrightLine fiber pour atteindre une qualité de bord optimale et améliorer la productivité.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/trulaser-3030/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "TruLaser 3030 fiber | TRUMPF",
+    "image": "/products/images/trulaser-3030/floatingCTA.svg",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Table de travail",
+      "value": "3000 x 1500 mm"
+    },
+    {
+      "name": "Puissance du laser",
+      "value": "3000 W - 8000 W"
+    },
+    {
+      "name": "Vitesse maximale",
+      "value": "170 m/min"
+    },
+    {
+      "name": "Poids maximal de la pièce",
+      "value": "1100 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Approche innovante pour la fiabilité du processus de découpe laser",
+      "content": [
+        "La technologie de nanoconnection utilisée dans le processus de découpe laser permet de fixer les éléments avec des ajours à l’aide d’un petit point d’arrêt en bas de la fente de découpe, empêchant efficacement le basculement des pièces et minimisant les perturbations du contour. Ce procédé permet un agencement plus serré des éléments et une utilisation plus efficace des ressources, ce qui se traduit par une productivité accrue dans le traitement des tôles."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Comparaison entre nanoconnections et microconnections dans le traitement des composants",
+      "content": [
+        "Les nanoconnections et les microconnections sont deux méthodes différentes de fixation des pièces dans le processus d’usinage. Les nanoconnections offrent une fiabilité de processus, une économie de ressources et une productivité accrue grâce à une fixation minimale dans l'ajour, ce qui facilite le démontage des pièces et élimine souvent le besoin de finitions supplémentaires. En revanche, les microconnections fixent la pièce sur toute l’épaisseur de la tôle, garantissant une fiabilité du processus, mais les perturbations visibles du contour nécessitent souvent une finition manuelle supplémentaire, en particulier pour les tôles fines, ce qui peut compliquer l’extraction des pièces."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Solution efficace pour le tri des pièces en tôle - Part Station",
+      "content": [
+        "La Part Station est une solution innovante permettant un tri rapide et efficace des pièces en tôle. Grâce à l’utilisation d’un séparateur de pièces et de microconnections ou nanoconnections, les pièces sont détachées de la tôle sans risque de rayures, ce qui permet d’économiser jusqu’à 80 % du temps de travail. Ensuite, les pièces détachées sont triées par la Part Station dans différentes caisses selon un ordre prédéfini. La conception mobile avec roulettes intégrées permet une utilisation facile et flexible de la Part Station dans l’atelier de production."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Table de travail",
+      "param": [
+        "3000 x 1500 mm"
+      ]
+    },
+    {
+      "name": "Puissance du laser",
+      "param": [
+        "3000 W - 8000 W"
+      ]
+    },
+    {
+      "name": "Vitesse maximale",
+      "param": [
+        "170 m/min"
+      ]
+    },
+    {
+      "name": "Poids maximal de la pièce",
+      "param": [
+        "1100 kg"
+      ]
+    },
+    {
+      "name": "Poids de la machine de base",
+      "param": [
+        "11700 kg"
+      ]
+    },
+    {
+      "name": "Épaisseur maximale du matériau",
+      "param": [
+        "Acier de construction - 25 mm",
+        "Acier inoxydable - 30 mm",
+        "Aluminium - 25 mm",
+        "Cuivre - 12,7 mm",
+        "Laiton - 10 mm"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "TruLaser Tube 7000 fiber",
+      "image": "/products/images/trulaser-7000/carousel1.png",
+      "link": "/product/trulaser-7000"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "Poste de pliage",
+      "image": "/products/images/bending-station/carousel1.png",
+      "link": "/product/bending-station"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    },
+    {
+      "name": "ARC D600",
+      "image": "/products/images/arc-d600/carousel1.png",
+      "link": "/product/arc-d600"
+    }
+  ]
+}

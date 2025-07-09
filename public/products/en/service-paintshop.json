@@ -1,0 +1,97 @@
+{
+  "basic_data": {
+    "pathID": "service-paintshop",
+    "name": "Powder Coating and Wet Painting",
+    "additional_name": "",
+    "description": "We offer precise and professional powder coating services for various metal surfaces. Our company specializes in both powder coating and wet painting, handling large, bulky items as well as small details. Regardless of size or complexity, we guarantee high-quality execution and a perfect finish for every project. Trust our experience and precision to give your products a durable and aesthetically pleasing coating.",
+    "with_data": false
+  },
+  "images": [
+    ""
+  ],
+  "floating_CTA": {
+    "title": "Powder Coating and Wet Painting",
+    "image": "/products/images/paintshops-installation/floatingCTA.png",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Why Choose Powder Coating?",
+      "content": [
+        "Powder coating is one of the most popular methods of applying paint to metal structures due to its efficiency and effectiveness."
+      ],
+      "image": "/products/images/service-paintshop/mainCharacteristics1.svg"
+    },
+    {
+      "title": "Features of Powder Coating:",
+      "content": [
+        "Eco-friendly: The powder coating process does not require toxic solvents or thinners harmful to the environment.",
+        "Corrosion Protection: Powder coating effectively protects metal surfaces from corrosion.",
+        "Minimized Material Waste: Powder paint is precisely applied to the surface, reducing waste and lowering production costs.",
+        "Thick and Even Coating: A dense paint layer eliminates material imperfections, ensuring an aesthetically pleasing and durable final effect."
+      ],
+      "image": "/products/images/service-paintshop/mainCharacteristics2.svg"
+    },
+    {
+      "title": "Why Choose Wet Painting?",
+      "content": [
+        "Wet painting ensures an exceptionally smooth and even finish, resulting in an aesthetic and professional look for products. Additionally, this method allows for precise color matching, which is crucial for projects requiring accurate shade reproduction. Furthermore, wet painting has a faster drying time compared to powder coating, reducing production time and increasing efficiency."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Features of Wet Painting:",
+      "content": [
+        "Smooth Finish: The wet painting technique provides a very smooth surface, which is often harder to achieve with powder coating.",
+        "Higher Resistance to Weather Conditions: With the use of appropriate lacquers, wet painting offers superior resistance to weather conditions, including UV radiation, moisture, and temperature fluctuations.",
+        "Increased Durability: Wet painting can provide a longer-lasting coating compared to some other painting methods, making products more resistant to scratches and mechanical damage."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Wet and Powder Coating Shops",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    },
+    {
+      "name": "Surface Treatment",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "Dual Workstation",
+      "image": "/products/images/dual/carousel1.svg",
+      "link": "/product/dual"
+    },
+    {
+      "name": "TruLaser Tube 7000 fiber",
+      "image": "/products/images/trulaser-7000/carousel1.png",
+      "link": "/product/trulaser-7000"
+    }
+  ]
+}

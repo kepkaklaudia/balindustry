@@ -1,0 +1,120 @@
+{
+  "basic_data": {
+    "pathID": "5-axis-cnc",
+    "name": "CNC 5 axes",
+    "additional_name": "Matériau pour l'usinage : Acier, Acier inoxydable, Aluminium, Fonte, Métaux non ferreux, Plastique, Marbre, Verre",
+    "description": "Grâce à notre machine CNC, nous avons la possibilité de meuler, scier, percer, chanfreiner et polir des profils avec précision, ce qui permet de créer des formes complexes et de réaliser des gravures avec une finition de haute qualité.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/5-axis-cnc/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "CNC 5 axes",
+    "image": "/products/images/5-axis-cnc/floatingCTA.svg",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Déplacement max. sur l'axe X",
+      "value": "3400 mm"
+    },
+    {
+      "name": "Capacité de stockage",
+      "value": "> 45"
+    },
+    {
+      "name": "Déplacement max. sur l'axe Y",
+      "value": "1650 mm"
+    },
+    {
+      "name": "Puissance installée",
+      "value": "22,5 kW"
+    },
+    {
+      "name": "Déplacement max. sur l'axe Z",
+      "value": "465 mm"
+    },
+    {
+      "name": "Puissance de la broche",
+      "value": "15 kW (12 000 tr/min)"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Permet l'exécution des travaux suivants :",
+      "content": [
+        "Perçage",
+        "Fraisage",
+        "Ébavurage interne et externe",
+        "Profilage des bords droits et courbes (demi-rond, quart-de-rond, chanfrein)",
+        "Profilage des marches",
+        "Polissage des bords droits et courbes",
+        "Création de rainures en surface",
+        "Chanfreinage à un angle de 45 degrés",
+        "Fraisage en profondeur des surfaces de plaques céramiques",
+        "Fraisage de rainures antidérapantes sur les marches"
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Table de travail",
+      "param": [
+        "3800x2000 mm",
+        "hauteur 520 mm"
+      ]
+    },
+    {
+      "name": "Broche",
+      "param": [
+        "15 kW"
+      ]
+    },
+    {
+      "name": "Logiciel EasyStone DDX",
+      "param": [
+        "Convivial, puissance de calcul accrue"
+      ]
+    },
+    {
+      "name": "Support pour disque de diamètre max.",
+      "param": [
+        "350 mm",
+        "permettant des coupes linéaires"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    },
+    {
+      "name": "TruLaser 3030 fiber | TRUMPF",
+      "image": "/products/images/trulaser-3030/carousel1.svg",
+      "link": "/product/trulaser-3030"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "basic_data": {
+    "pathID": "lh",
+    "name": "LH",
+    "additional_name": "Machine de Mesure de Coordonnées",
+    "description": "Une machine de mesure moderne combinant une ingénierie mécanique exceptionnelle avec un logiciel intelligent. Elle garantit fiabilité, facilité d'utilisation et flexibilité, soutenues par un service complet.",
+    "with_data": false
+  },
+  "images": [
+    "/products/images/lh/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "Machine de mesure",
+    "image": "/products/images/lh/floatingCTA.svg",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Course max en axe X",
+      "value": "550 mm"
+    },
+    {
+      "name": "Hauteur max de la pièce",
+      "value": "615 mm"
+    },
+    {
+      "name": "Course max en axe Y",
+      "value": "550 mm"
+    },
+    {
+      "name": "Longueur max de la pièce",
+      "value": "850 mm"
+    },
+    {
+      "name": "Course max en axe Z",
+      "value": "510 mm"
+    },
+    {
+      "name": "Largeur max de la pièce",
+      "value": "650 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Excellence en précision et performance",
+      "content": [
+        "Les machines de mesure LH garantissent fonctionnalité, efficacité et simplicité d'utilisation. Leur succès repose sur un concept global combinant une ingénierie mécanique de pointe, un logiciel intelligent et une gamme variée d'accessoires et de services. Ces équipements stables, fiables et dynamiques sont des outils de mesure universels, parfaitement adaptés à divers secteurs. Ils font partie de la dernière génération de machines de mesure à portique avec paliers pneumatiques."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Applications polyvalentes des machines de mesure à portique LH",
+      "content": [
+        "Les machines de mesure à portique LH sont des outils idéaux pour les applications nécessitant une haute précision et une vitesse de mesure rapide. Elles sont largement utilisées dans divers secteurs industriels, de l'horlogerie à la fabrication de grands moteurs, où chaque détail compte. Grâce à l'axe Y configurable, ces machines peuvent être adaptées pour mesurer des dimensions longues et spécifiques selon les besoins du client."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Flex Cobot Esab",
+      "image": "/products/images/flex-esab/carousel1.png",
+      "link": "/product/flex-esab"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "Traitement de surface",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "Poste de pliage",
+      "image": "/products/images/bending-station/carousel1.png",
+      "link": "/product/bending-station"
+    }
+  ]
+}

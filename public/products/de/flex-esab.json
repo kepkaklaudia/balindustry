@@ -1,0 +1,115 @@
+{
+  "basic_data": {
+    "pathID": "flex-esab",
+    "name": "Flex Cobot Esab",
+    "additional_name": "",
+    "description": "Cobots sind für Schweißer, nicht für Programmierer konzipiert, dank der App-basierten Software, die einfach und intuitiv ist. Durch die Kombination des besten UR-Arms auf dem Markt, der robusten gepulsten Stromquelle Aristo 500ix für das industrielle Schweißen und des Drahtvorschubgeräts RobustFeed U82 ist der ESAB Cobot die perfekte Lösung für eine ausgezeichnete Materialzufuhr und Lichtbogenleistung.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/flex-esab/carousel1.png",
+    "/products/images/flex-esab/carousel2.png",
+    "/products/images/flex-esab/carousel3.png",
+    "/products/images/flex-esab/carousel4.png"
+  ],
+  "floating_CTA": {
+    "title": "Flex Cobot Esab",
+    "image": "/products/images/flex-esab/carousel1.png",
+    "content": "",
+    "button": "Angebot anfordern",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Benutzerfreundlichkeit",
+      "content": [
+        "Die einfach zu bedienende, App-basierte Software ermöglicht den sofortigen Zugriff auf die Programmierung von Teilen, Analysen zur Erhöhung der Wiederholgenauigkeit und Betriebszeit sowie die Überwachung der Leistung."
+      ],
+      "image": "/products/images/flex-esab/carousel4.png"
+    },
+    {
+      "title": "Innovative Funktionalität",
+      "content": [
+        "Die fortschrittliche Pulsfunktionalität reduziert die Wärmezufuhr in das Material und minimiert Spritzer, wodurch die Effizienz durch weniger Nacharbeit gesteigert wird, was Zeit und Kosten spart."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Schweißstromquelle",
+      "param": [
+        "ESAB Aristo 500ix"
+      ]
+    },
+    {
+      "name": "Arbeitstisch",
+      "param": [
+        "800x1000 mm",
+        "1000x1000 mm",
+        "1200x1200 mm"
+      ]
+    },
+    {
+      "name": "Schweißverfahren",
+      "param": [
+        "MIG/MAG"
+      ]
+    },
+    {
+      "name": "Roboterreichweite",
+      "param": [
+        "0,9 m"
+      ]
+    },
+    {
+      "name": "System",
+      "param": [
+        "16/28"
+      ]
+    },
+    {
+      "name": "Alternative Anwendungen",
+      "param": [
+        "Handhabung",
+        "Montage",
+        "Schleifen"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Flex Cobot Fronius",
+      "image": "/products/images/flex-fronius/carousel1.png",
+      "link": "/product/flex-fronius"
+    },
+    {
+      "name": "ALW 1200 - Automatischer Linear-Schweißer",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "5-Achs CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "basic_data": {
+    "pathID": "single",
+    "name": "Single Station",
+    "additional_name": "",
+    "description": "The latest welding cell is revolutionizing the industry with innovative control and modern safety solutions. Equipped with a collaborative robot, the machine ensures precision, reliability, and safety during welding operations.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/single/carousel1.svg",
+    "/products/images/single/carousel2.png",
+    "/products/images/single/carousel3.png"
+  ],
+  "floating_CTA": {
+    "title": "Single Station",
+    "image": "/products/images/single/floatingCTA.webp",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Control via Robot Controller",
+      "content": [
+        "The machine is equipped with a robot controller that enables precise control over every aspect of its operation. This allows users to easily adjust working parameters to meet their needs."
+      ],
+      "image": "/products/images/single/mainCharacteristics1.png"
+    },
+    {
+      "title": "Pneumatic Control of Front Doors",
+      "content": [
+        "Convenient pneumatic front doors make access and operation easier. The doors are controlled via the robot controller, ensuring smooth operation and eliminating the need for manual opening and closing."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Balanced Safety Sensors",
+      "content": [
+        "The machine is equipped with proximity safety sensors that provide an additional layer of protection against hazards. With balanced detection, it is possible to quickly respond to potential threats and minimize risks for personnel."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Two Welding Sources",
+      "content": [
+        "The welding cell allows the use of two welding sources from renowned manufacturers: Fronius and ESAB, giving users greater flexibility and the ability to adapt to various requirements and preferences."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Robot",
+      "param": [
+        "Gofa 15000, UR 5 / UR 10"
+      ]
+    },
+    {
+      "name": "Welding Source",
+      "param": [
+        "Fronius / ESAB"
+      ]
+    },
+    {
+      "name": "Light Source",
+      "param": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Working Area",
+      "param": [
+        "800 x 1200 mm"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Dual Station",
+      "image": "/products/images/dual/carousel1.svg",
+      "link": "/product/dual"
+    },
+    {
+      "name": "ALW 1200 - Automatic Linear Welder",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "Flex Cobot Esab",
+      "image": "/products/images/flex-esab/carousel1.png",
+      "link": "/product/flex-esab"
+    },
+    {
+      "name": "LH",
+      "image": "/products/images/lh/carousel1.svg",
+      "link": "/product/lh"
+    },
+    {
+      "name": "Twin One-Axis Station",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    }
+  ]
+}

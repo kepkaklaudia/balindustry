@@ -1,0 +1,141 @@
+{
+  "basic_data": {
+    "pathID": "nlx-2500",
+    "name": "NLX 2500",
+    "additional_name": "Bearbeitungsmaterial: Stahl, Edelstahl, Aluminium, Gusseisen, Buntmetalle, Kunststoff",
+    "description": "Eine hochentwickelte Drehmaschine, die für höchste Effizienz in der Bearbeitung von Werkstücken konzipiert wurde. Die Maschine ermöglicht eine schnelle und effiziente Durchführung verschiedener Drehoperationen und gewährleistet optimale Produktionsergebnisse.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/nlx-2500/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "NLX 2500",
+    "image": "/products/images/nlx-2500/floatingCTA.svg",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. Verfahrweg in X-Achse",
+      "value": "260 mm"
+    },
+    {
+      "name": "Max. Innendurchmesser der Spannzange",
+      "value": "90 mm"
+    },
+    {
+      "name": "Max. Verfahrweg in Y-Achse",
+      "value": "100 mm"
+    },
+    {
+      "name": "Max. Werkstücklänge",
+      "value": "1255 mm"
+    },
+    {
+      "name": "Max. Verfahrweg in Z-Achse",
+      "value": "1345 mm"
+    },
+    {
+      "name": "Max. Werkstückdurchmesser",
+      "value": "366 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Revolverkopf mit BMT",
+      "content": [
+        "Unsere neueste Fräsmaschine ist mit einem innovativen Revolverkopf mit BMT (Built-in Motor Turret) ausgestattet, der Hochgeschwindigkeitswerkzeugmaschinen mit einer Drehzahl von bis zu 10.000 U/min ermöglicht. Dadurch gewährleisten wir eine präzise und effiziente Bearbeitung von Werkstücken nach den neuesten Industriestandards."
+      ],
+      "image": "/products/images/nlx-2500/main-characteristics1.svg"
+    },
+    {
+      "title": "Innovative Drehmaschine mit Schnellwechsel-Revolverkopf",
+      "content": [
+        "Unsere moderne Drehmaschine bietet höchste Präzision dank einer präzise gesteuerten thermischen Anordnung, die optimale Arbeitsbedingungen gewährleistet. Darüber hinaus ermöglicht die optionale Funktion des schnellen Revolverkopfwechsels eine noch effizientere Produktion und bietet Flexibilität und Leistungsfähigkeit in der Werkstückbearbeitung."
+      ],
+      "image": "/products/images/nlx-2500/main-characteristics2.svg"
+    },
+    {
+      "title": "Energieeinsparungseinstellungen und Visualisierung der Einsparungseffekte",
+      "content": [
+        "Unsere Plattform konzentriert sich auf eine effiziente Energieeinsparung durch präzise Einstellungen und Visualisierung, sodass Benutzer den Energieverbrauch überwachen und optimieren können. Dadurch bieten wir umweltfreundliche Lösungen und eine Reduzierung der Betriebskosten bei gleichzeitiger Aufrechterhaltung hoher Leistung und Funktionalität."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Kopf",
+      "param": [
+        "Revolverkopf mit BMT"
+      ]
+    },
+    {
+      "name": "Hochgeschwindigkeitsspindel",
+      "param": [
+        "Drehzahl: 10.000 U/min"
+      ]
+    },
+    {
+      "name": "SWISSTYPEkit",
+      "param": [
+        "Zum Drehen von kurzen und langen Teilen auf einer Maschine"
+      ]
+    },
+    {
+      "name": "Präzise gesteuerte thermische Anordnung",
+      "param": [
+        "Gewährleistung einer genauen Kontrolle der thermischen Anordnung"
+      ]
+    },
+    {
+      "name": "Schnellwechsel-Revolverkopf",
+      "param": [
+        "Optionale Funktion zur präzisen und schnellen Revolverkopfwechsel"
+      ]
+    },
+    {
+      "name": "Energieeinsparungseinstellung",
+      "param": [
+        "System zur effizienten Einstellung der Energieeinsparung"
+      ]
+    },
+    {
+      "name": "Visualisierung der Energieeinsparungseffekte",
+      "param": [
+        "Visuelles Tool zur Überwachung und Visualisierung der Energieeinsparungseffekte"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "5-Achs CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

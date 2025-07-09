@@ -1,0 +1,156 @@
+{
+  "basic_data": {
+    "pathID": "alw-1200",
+    "name": "ALW 1200 - Automatischer Linear-Schweißer",
+    "additional_name": "",
+    "description": "Die ALW-1200-Maschine ist für das automatische Längsschweißen von gewalzten Bauteilen mit Durchmessern ausgelegt, die an die Kundenanforderungen angepasst sind. Abhängig von den Anforderungen des Schweißprozesses und dem Material der gewalzten Bauteile kann unser Gerät für das Schweißen mit der TIG- und/oder MIG/MAG-Methode angepasst werden.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/alw-1200/carousel1.png",
+    "/products/images/alw-1200/carousel2.png",
+    "/products/images/alw-1200/carousel3.png",
+    "/products/images/alw-1200/carousel4.png",
+    "/products/images/alw-1200/carousel5.png",
+    "/products/images/alw-1200/carousel6.png"
+  ],
+  "floating_CTA": {
+    "title": "ALW 1200",
+    "image": "/products/images/alw-1200/carousel1.png",
+    "content": "",
+    "button": "Angebot anfordern",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Motor",
+      "value": "HIWIN EM1"
+    },
+    {
+      "name": "Steuerung",
+      "value": "Siemens S7 - 1200"
+    },
+    {
+      "name": "Schweißlänge",
+      "value": "max. 2100 mm"
+    },
+    {
+      "name": "Bedienpanel",
+      "value": "HMI"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Möglichkeit, Werkstücke mit unterschiedlicher Länge zu schweißen, dank geteilter Spannsektionen für das geschweißte Bauteil",
+      "content": [
+        ""
+      ],
+      "image": "/products/images/alw-1200/mainCharacteristics1.png"
+    },
+    {
+      "title": "Zuverlässiges Linearlagersystem und Servoantrieb",
+      "content": [
+        "Der Antrieb der Schweißbrenner- und Kabelpakete basiert auf einem zuverlässigen Linearlagersystem und einem Servoantrieb von Hiwin.",
+        "Die Schweißhalterung ist in der Y- und Z-Achse verstellbar."
+      ],
+      "image": "/products/images/alw-1200/mainCharacteristics2.png"
+    }
+  ],
+  "specification": [
+    {
+      "name": "Durchmesser des geschweißten Bauteils",
+      "param": [
+        "min. 190, max. 1200 mm"
+      ]
+    },
+    {
+      "name": "Schweißlänge",
+      "param": [
+        "max. 2100 mm"
+      ]
+    },
+    {
+      "name": "Materialstärke",
+      "param": [
+        "0,5 - 8 mm"
+      ]
+    },
+    {
+      "name": "Schweißstromquelle",
+      "param": [
+        "Fronius/Esab"
+      ]
+    },
+    {
+      "name": "Schweißverfahren",
+      "param": [
+        "MIG/MAG & TIG"
+      ]
+    },
+    {
+      "name": "Lichtbogenlänge",
+      "param": [
+        "konstant über die gesamte Länge"
+      ]
+    },
+    {
+      "name": "Kühlung",
+      "param": [
+        "Unterlage (Dorn), Brenner"
+      ]
+    },
+    {
+      "name": "Steuerung",
+      "param": [
+        "Siemens S7 - 1200"
+      ]
+    },
+    {
+      "name": "Motor",
+      "param": [
+        "HIWIN Servomotor EM1"
+      ]
+    },
+    {
+      "name": "Bedienpanel",
+      "param": [
+        "HMI"
+      ]
+    },
+    {
+      "name": "Anschlagleiste",
+      "param": [
+        "Verschleißfestes Kupfer"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Flex Cobot Esab",
+      "image": "/products/images/flex-esab/carousel1.png",
+      "link": "/product/flex-esab"
+    },
+    {
+      "name": "Oberflächenbehandlung",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "Flex Cobot Fronius",
+      "image": "/products/images/flex-fronius/carousel1.png",
+      "link": "/product/flex-fronius"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    }
+  ]
+}

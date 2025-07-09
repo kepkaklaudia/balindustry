@@ -1,0 +1,112 @@
+{
+  "basic_data": {
+    "pathID": "single",
+    "name": "Single-Station",
+    "additional_name": "",
+    "description": "Die neueste Schweißzelle revolutioniert die Industrie mit innovativer Steuerung und modernen Sicherheitslösungen. Ausgestattet mit einem kollaborativen Roboter gewährleistet die Maschine Präzision, Zuverlässigkeit und Sicherheit bei Schweißarbeiten.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/single/carousel1.svg",
+    "/products/images/single/carousel2.png",
+    "/products/images/single/carousel3.png"
+  ],
+  "floating_CTA": {
+    "title": "Single-Station",
+    "image": "/products/images/single/floatingCTA.webp",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Steuerung über den Roboter-Controller",
+      "content": [
+        "Die Maschine ist mit einem Roboter-Controller ausgestattet, der eine präzise Steuerung jedes Aspekts ihres Betriebs ermöglicht. Dadurch können Benutzer die Arbeitsparameter einfach an ihre Bedürfnisse anpassen."
+      ],
+      "image": "/products/images/single/mainCharacteristics1.png"
+    },
+    {
+      "title": "Pneumatische Steuerung der Fronttüren",
+      "content": [
+        "Bequeme pneumatische Fronttüren erleichtern den Zugang und die Bedienung der Maschine. Die Steuerung erfolgt über den Roboter-Controller, was einen reibungslosen Betrieb gewährleistet und die Notwendigkeit des manuellen Öffnens und Schließens eliminiert."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Ausgewogene Safety-Sensoren",
+      "content": [
+        "Die Maschine ist mit Näherungssensoren für die Sicherheit ausgestattet, die eine zusätzliche Schutzschicht vor Gefahren bieten. Durch eine ausgewogene Erkennung kann schnell auf potenzielle Bedrohungen reagiert und das Risiko für das Personal minimiert werden."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Zwei Schweißquellen",
+      "content": [
+        "Die Schweißzelle ermöglicht die Nutzung von zwei Schweißquellen renommierter Hersteller: Fronius und ESAB. Dies bietet den Benutzern größere Flexibilität und die Möglichkeit, sich an unterschiedliche Anforderungen und Präferenzen anzupassen."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Roboter",
+      "param": [
+        "Gofa 15000, UR 5 / UR 10"
+      ]
+    },
+    {
+      "name": "Schweißquelle",
+      "param": [
+        "Fronius / ESAB"
+      ]
+    },
+    {
+      "name": "Lichtquelle",
+      "param": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Arbeitsbereich",
+      "param": [
+        "800 x 1200 mm"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Dual-Station",
+      "image": "/products/images/dual/carousel1.svg",
+      "link": "/product/dual"
+    },
+    {
+      "name": "ALW 1200 - Automatischer Linear-Schweißer",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "Flex Cobot Esab",
+      "image": "/products/images/flex-esab/carousel1.png",
+      "link": "/product/flex-esab"
+    },
+    {
+      "name": "LH",
+      "image": "/products/images/lh/carousel1.svg",
+      "link": "/product/lh"
+    },
+    {
+      "name": "Twin One-Axis-Station",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    }
+  ]
+}

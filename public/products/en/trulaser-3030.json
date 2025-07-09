@@ -1,0 +1,131 @@
+{
+  "basic_data": {
+    "pathID": "trulaser-3030",
+    "name": "TruLaser 3030 fiber | TRUMPF",
+    "additional_name": "Processing material: Steel, Stainless steel, Aluminum, Cast iron, Non-ferrous metals",
+    "description": "Enables cost-effective sheet cutting of various thicknesses using the TruDisk solid-state laser and BrightLine fiber technology to achieve the highest edge quality and increase productivity.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/trulaser-3030/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "TruLaser 3030 fiber | TRUMPF",
+    "image": "/products/images/trulaser-3030/floatingCTA.svg",
+    "content": "",
+    "button": "Request a quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Worktable",
+      "value": "3000 x 1500 mm"
+    },
+    {
+      "name": "Laser power",
+      "value": "3000 W - 8000 W"
+    },
+    {
+      "name": "Max. speed",
+      "value": "170 m/min"
+    },
+    {
+      "name": "Max. workpiece weight",
+      "value": "1100 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Innovative approach to laser cutting process reliability",
+      "content": [
+        "The nanoconnection technology used in the laser cutting process enables the connection of parts with cutouts using a small hold point at the bottom of the cutting gap, effectively preventing parts from tilting and minimizing contour disruptions. This process allows for tighter nesting of parts and more efficient resource utilization, resulting in higher productivity in sheet processing."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Comparison of nanoconnections and microconnections in component processing",
+      "content": [
+        "Nanoconnections and microconnections are two different methods of securing components in the processing workflow. Nanoconnections offer process reliability, resource savings, and higher productivity due to minimal fastening in the cutout, allowing for easier part removal and often eliminating the need for additional finishing. In contrast, microconnections secure the part across the entire sheet thickness, ensuring process reliability but often requiring additional manual finishing due to visible contour disruptions, especially with thin sheets, which can complicate part removal."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Efficient solution for sorting sheet metal parts - Part Station",
+      "content": [
+        "The Part Station is an innovative solution that enables fast and effective sorting of sheet metal parts. By using a part separator and either microconnections or nanoconnections, parts are separated from the sheet without the risk of scratches, saving up to 80% of working time. The separated parts are then sorted by the Part Station into different bins according to a predetermined order. The mobile design with integrated wheels allows for easy and flexible use of the Part Station in the production hall."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Worktable",
+      "param": [
+        "3000 x 1500 mm"
+      ]
+    },
+    {
+      "name": "Laser power",
+      "param": [
+        "3000 W - 8000 W"
+      ]
+    },
+    {
+      "name": "Max. speed",
+      "param": [
+        "170 m/min"
+      ]
+    },
+    {
+      "name": "Max. workpiece weight",
+      "param": [
+        "1100 kg"
+      ]
+    },
+    {
+      "name": "Basic machine weight",
+      "param": [
+        "11700 kg"
+      ]
+    },
+    {
+      "name": "Max. material thickness",
+      "param": [
+        "Structural steel - 25 mm",
+        "Stainless steel - 30 mm",
+        "Aluminum - 25 mm",
+        "Copper - 12.7 mm",
+        "Brass - 10 mm"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "TruLaser Tube 7000 fiber",
+      "image": "/products/images/trulaser-7000/carousel1.png",
+      "link": "/product/trulaser-7000"
+    },
+    {
+      "name": "TruPunch 5000 | TRUMPF",
+      "image": "/products/images/trupunch-5000/carousel1.png",
+      "link": "/product/trupunch-5000"
+    },
+    {
+      "name": "Bending Station",
+      "image": "/products/images/bending-station/carousel1.png",
+      "link": "/product/bending-station"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    },
+    {
+      "name": "ARC D600",
+      "image": "/products/images/arc-d600/carousel1.png",
+      "link": "/product/arc-d600"
+    }
+  ]
+}

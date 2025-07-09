@@ -1,0 +1,151 @@
+{
+  "basic_data": {
+    "pathID": "m1",
+    "name": "M1",
+    "additional_name": "Material zur Bearbeitung: Stahl, Edelstahl, Aluminium, Gusseisen, Buntmetalle, Kunststoffe",
+    "description": "Dank innovativer Konstruktion und fortschrittlicher Technologien werden die Maschinen der M1-Serie für ihre hohe Verarbeitungsqualität und die Fähigkeit zur flexiblen Anpassung an unterschiedliche Produktionsaufgaben geschätzt.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/m1/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "M1",
+    "image": "/products/images/m1/floatingCTA.svg",
+    "content": "",
+    "button": "Angebot anfordern",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. Verfahrweg in X-Achse",
+      "value": "550 mm"
+    },
+    {
+      "name": "Max. Breite des Werkstücks",
+      "value": "650 mm"
+    },
+    {
+      "name": "Max. Verfahrweg in Y-Achse",
+      "value": "550 mm"
+    },
+    {
+      "name": "Max. Höhe des Werkstücks",
+      "value": "615 mm"
+    },
+    {
+      "name": "Max. Verfahrweg in Z-Achse",
+      "value": "550 mm"
+    },
+    {
+      "name": "Max. Werkstückgewicht",
+      "value": "600 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Außergewöhnliche Steifigkeit für effiziente Bearbeitung und hohe Oberflächenqualität",
+      "content": [
+        "Dank der außergewöhnlichen Steifigkeit ermöglicht unsere M1-Maschine nicht nur eine effiziente Bearbeitung, sondern gewährleistet auch eine hohe Oberflächenqualität. Dieses einzigartige Merkmal sichert die Stabilität des Bearbeitungsprozesses und führt zu exzellenten Produktionsergebnissen sowie präzisen Bauteilen ohne Kompromisse."
+      ],
+      "image": "/products/images/m1/mainCharacteristics1.svg"
+    },
+    {
+      "title": "Inline-Spindelkonstruktion mit weltweiter Erfahrung",
+      "content": [
+        "Unsere bewährte Inline-Spindelkonstruktion mit über 3.000 weltweit installierten Einheiten steht für Zuverlässigkeit und langjährige Leistung. Dank der hohen thermischen Kapazität der Komponenten garantiert unsere Maschine thermische Stabilität – ein entscheidender Faktor für die Präzision und Qualität im Bearbeitungsprozess."
+      ],
+      "image": "/products/images/m1/mainCharacteristics2.webp"
+    },
+    {
+      "title": "Optimierter Arbeitsraum",
+      "content": [
+        "Unsere Maschine bietet einen optimierten Arbeitsraum in kompakter Bauweise, wodurch eine effiziente Bearbeitung auch auf begrenztem Stellplatz möglich ist. Der Tisch mit den Maßen 850 x 650 mm und einer maximalen Belastung von 600 kg zeichnet sich durch hohe Steifigkeit aus, was Stabilität und Präzision während des Bearbeitungsprozesses gewährleistet."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Massives, monolithisches Maschinenbett",
+      "param": [
+        "Gewährleistet hohe thermische Stabilität",
+        "Gewicht: 2.400 kg"
+      ]
+    },
+    {
+      "name": "Feststehender Tisch mit T-Nuten",
+      "param": [
+        "1 × 18H7",
+        "5 × 18H12"
+      ]
+    },
+    {
+      "name": "Breiter Führungsabstand",
+      "param": [
+        "580 mm in X-Achse / Verfahrweg 550 mm",
+        "560 mm in Y-Achse / Verfahrweg 550 mm",
+        "260 mm in Z-Achse / Verfahrweg 510 mm"
+      ]
+    },
+    {
+      "name": "Stangenbearbeitung",
+      "param": [
+        "Durchmesser bis: 32 (38) mm"
+      ]
+    },
+    {
+      "name": "Inline-Spindel",
+      "param": [
+        "Drehzahl: 10.000 U/min oder 12.000 U/min"
+      ]
+    },
+    {
+      "name": "Interne Kühlmittelzufuhr (PRO-Version)",
+      "param": [
+        "20 bar"
+      ]
+    },
+    {
+      "name": "24-fach Werkzeugmagazin",
+      "param": [
+        "Mit Doppelgreifer"
+      ]
+    },
+    {
+      "name": "Einfache Nivellierung",
+      "param": [
+        "Auf 3 Füßen + 2 zusätzliche Füße zur Erhöhung der dynamischen Steifigkeit der Maschine"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "5-Achs CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

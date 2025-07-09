@@ -1,0 +1,118 @@
+{
+  "basic_data": {
+    "pathID": "dual",
+    "name": "Dual Station",
+    "additional_name": "",
+    "description": "The GoFa Dual cell is an advanced welding station designed for maximum efficiency and safety in the welding process. Featuring two welding stations, it allows work on two positions, increasing production flexibility.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/dual/carousel1.svg",
+    "/products/images/dual/carousel2.png",
+    "/products/images/dual/carousel3.png",
+    "/products/images/dual/carousel4.png",
+    "/products/images/dual/carousel5.png",
+    "/products/images/dual/carousel6.png",
+    "/products/images/dual/carousel7.png",
+    "/products/images/dual/carousel8.png",
+    "/products/images/dual/carousel9.png"
+  ],
+  "floating_CTA": {
+    "title": "Dual Station",
+    "image": "/products/images/dual/floatingCTA.svg",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Fronius or ESAB Welding Source",
+      "content": [
+        "The user can choose between welding sources from renowned brands: Fronius or ESAB, ensuring flexibility and adaptation to various welding requirements."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Servo-Driven Travel Track",
+      "content": [
+        "The cell is equipped with a travel track on which the robot is mounted. The system is powered by a HIWIN servo drive, ensuring smooth and precise movement of the robot across the station."
+      ],
+      "image": "/products/images/dual/mainCharacteristics1.png"
+    },
+    {
+      "title": "Capability to Work on Two Stations",
+      "content": [
+        "The cell allows work on two stations; however, welding is performed at only one station at a time. This configuration enhances production flexibility by enabling the simultaneous preparation of two different sets or reducing downtime."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Pneumatically Controlled Front Doors",
+      "content": [
+        "Convenient pneumatic front doors provide easy access and operation, ensuring smooth workflow."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Robot",
+      "param": [
+        "Gofa 15000, UR 5 / UR 10"
+      ]
+    },
+    {
+      "name": "Welding Source",
+      "param": [
+        "Fronius / ESAB"
+      ]
+    },
+    {
+      "name": "Light Source",
+      "param": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Work Area",
+      "param": [
+        "800 x 1200 mm *2"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Single Station",
+      "image": "/products/images/single/carousel1.svg",
+      "link": "/product/single"
+    },
+    {
+      "name": "ALW 1200 - Automatic Linear Welder",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "Wet and Powder Coating Booths",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "5-Axis CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Twin One-Axis Station",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "basic_data": {
+    "pathID": "dmu-75-monoblock",
+    "name": "DMU 75 monoBLOCK",
+    "additional_name": "Material for machining: Steel, Stainless steel, Aluminum, Cast iron, Non-ferrous metals, Plastic",
+    "description": "The DMU 75 monoBLOCK is a high-performance machining center primarily used in the metal industry. It enables both milling and turning operations. Thanks to its compact design and advanced automation functions, the DMU 75 monoBLOCK is a popular choice in the engineering sector.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/dmu-75-monoblock/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "DMU 75 monoBLOCK",
+    "image": "/products/images/dmu-75-monoblock/floatingCTA.svg",
+    "content": "",
+    "button": "Request a quote",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. travel in X-axis",
+      "value": "750 mm"
+    },
+    {
+      "name": "Max. workpiece length",
+      "value": "500 mm"
+    },
+    {
+      "name": "Max. travel in Y-axis",
+      "value": "650 mm"
+    },
+    {
+      "name": "Max. workpiece weight",
+      "value": "600 kg"
+    },
+    {
+      "name": "Max. travel in Z-axis",
+      "value": "560 mm"
+    },
+    {
+      "name": "Max. workpiece diameter",
+      "value": "840 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Ergonomic design for optimal performance",
+      "content": [
+        "With a wide door clearance and compact design, it occupies only 8 m² of space, allowing easy access to the working area. Additionally, the unrestricted crane loading capacity of up to 600 kg and quick access through 3-point support make this machine an ideal solution for demanding production tasks."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Precision solutions for perfect details",
+      "content": [
+        "It stands out with excellent precision thanks to comprehensive cooling, high-performance coolant, and standard multi-sensor compensation. Ensuring a positioning accuracy of 4 µm as standard, it enables the production of the highest quality workpieces. Additionally, direct-drive ball screws in the X and Y axes ensure reliability and efficiency in machining processes."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Reliability and stability in one",
+      "content": [
+        "Thanks to the rigid monoBLOCK construction, the DMU 75 provides maximum stability achieved through a single casting. The one-piece column, equipped with large, stable sliding and roller guides with a diameter of 45 mm on all axes, ensures reliability during machining. Additionally, large ball screws in all axes with ø 40 / 50 / 40 mm, supported by FEM optimization of all components, guarantee maximum stability. The rotary table clamps complete the construction, ensuring solid and precise workpiece holding during operation."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Wide door clearance",
+      "param": [
+        "1310 mm"
+      ]
+    },
+    {
+      "name": "Unique access to the working area",
+      "param": [
+        "Maximally compact machine occupying only 8 m²"
+      ]
+    },
+    {
+      "name": "Unrestricted crane loading",
+      "param": [
+        "Crane loading up to 600 kg"
+      ]
+    },
+    {
+      "name": "Quick and easy access",
+      "param": [
+        "3-point support"
+      ]
+    },
+    {
+      "name": "Comprehensive cooling",
+      "param": [
+        "High-performance coolant and standard multi-sensor compensation"
+      ]
+    },
+    {
+      "name": "Positioning accuracy",
+      "param": [
+        "4 µm as standard"
+      ]
+    },
+    {
+      "name": "Direct drive in X and Y axes",
+      "param": [
+        "Direct-drive ball screws in X and Y axes"
+      ]
+    },
+    {
+      "name": "One-piece column",
+      "param": [
+        "Large, stable sliding guides and 45 mm roller guides on all axes"
+      ]
+    },
+    {
+      "name": "Maximum stability",
+      "param": [
+        "Large ball screws in all axes ø 40 / 50 / 40 mm"
+      ]
+    },
+    {
+      "name": "FEM optimization",
+      "param": [
+        "Of all components"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "Surface treatment",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "CLX 350",
+      "image": "/products/images/clx-350/carousel1.svg",
+      "link": "/product/clx-350"
+    }
+  ]
+}

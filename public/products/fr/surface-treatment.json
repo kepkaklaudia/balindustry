@@ -1,0 +1,109 @@
+{
+  "basic_data": {
+    "pathID": "surface-treatment",
+    "name": "Traitement de Surface",
+    "additional_name": "",
+    "description": "Un appareil utilisé pour la finition des surfaces en éliminant les irrégularités et en créant une finition lisse et mate à l'aide d'une brosse rotative ou d'un disque.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/surface-treatment/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "Machine de Satinage",
+    "image": "/products/images/surface-treatment/carousel1.svg",
+    "content": "",
+    "button": "Demander un Devis",
+    "form": "/forms/satin",
+    "qp": "",
+    "ar": true,
+    "arLink": "/product/surface-treatment/SATYNIARKA"
+  },
+  "parameters": [
+    {
+      "name": "Dimensions",
+      "value": "480 mm"
+    },
+    {
+      "name": "Moteurs",
+      "value": "5,5 kW"
+    },
+    {
+      "name": "Hauteur Max. de la Pièce",
+      "value": "300 mm"
+    },
+    {
+      "name": "Longueur Max. de la Pièce",
+      "value": "1200 mm"
+    }
+  ],
+  "specification": [
+    {
+      "name": "Dimensions",
+      "param": [
+        "480 mm"
+      ]
+    },
+    {
+      "name": "Moteurs",
+      "param": [
+        "5,5 kW"
+      ]
+    },
+    {
+      "name": "Hauteur Max. de la Pièce",
+      "param": [
+        "300 mm"
+      ]
+    },
+    {
+      "name": "Longueur Max. de la Pièce",
+      "param": [
+        "1200 mm"
+      ]
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Satinage, Ébavurage et Arrondi des Bords",
+      "content": [
+        "Grâce aux technologies innovantes et à une fabrication précise, nos machines garantissent efficacité et professionnalisme dans chaque application. Profitez de nos solutions pour obtenir des surfaces parfaitement préparées pour un traitement ultérieur ou une finition, en respectant les normes industrielles les plus élevées."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Machine de Satinage avec Trois Modules pour Différents Types de Traitement",
+      "content": [
+        "Une bande abrasive de 480 mm de large, des meules boisseaux et un arbre pour le satinage des surfaces. Cet appareil permet une préparation rapide et efficace des surfaces avant peinture ou revêtement, assurant un résultat final professionnel et esthétique."
+      ],
+      "image": ""
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    },
+    {
+      "name": "Poste de Travail Twin One-axis",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "Traitement de Surface",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "CNC 5 Axes",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    }
+  ]
+}

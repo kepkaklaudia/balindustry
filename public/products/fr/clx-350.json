@@ -1,0 +1,182 @@
+{
+  "basic_data": {
+    "pathID": "clx-350",
+    "name": "CLX 350",
+    "additional_name": "Matériau de traitement : Acier, Acier inoxydable, Aluminium, Fonte, Métaux non ferreux, Plastique",
+    "description": "Le CLX 350 est un tour-fraiseuse avancé qui redéfinit les normes de l'usinage universel. Il offre une adaptabilité inégalée aux besoins individuels des utilisateurs, garantissant polyvalence, précision et efficacité, quel que soit le matériau ou la complexité du projet.",
+    "with_data": true
+  },
+  "floating_CTA": {
+    "title": "CNC CLX 350",
+    "image": "/products/images/clx-350/carousel1.svg",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "images": [
+    "/products/images/clx-350/carousel1.svg"
+  ],
+  "parameters": [
+    {
+      "name": "Déplacement max. en axe X",
+      "value": "185 mm"
+    },
+    {
+      "name": "Longueur max. de la pièce usinée",
+      "value": "530 mm"
+    },
+    {
+      "name": "Déplacement max. en axe Y",
+      "value": "80 mm"
+    },
+    {
+      "name": "Diamètre intérieur max. du mandrin",
+      "value": "65 mm"
+    },
+    {
+      "name": "Déplacement max. en axe Z",
+      "value": "540 mm"
+    },
+    {
+      "name": "Diamètre max. de la pièce",
+      "value": "320 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Usinage avancé des pièces grâce à la broche de reprise et à l'axe Y",
+      "content": [
+        "Entraînement dynamique de la broche et moteur intégré haute puissance pour une efficacité maximale d'usinage. De plus, possibilité d'usinage arrière grâce à la broche synchrone ISM 36. L'axe Y permet un déplacement de ± 40 mm pour un usinage de fraisage précis et un travail complet sur les surfaces latérales."
+      ],
+      "image": "/products/images/clx-350/main-characteristics1.webp"
+    },
+    {
+      "title": "Productivité accrue grâce à un chargeur automatique de barres",
+      "content": [
+        "Passage de barre standard de 51 mm (option jusqu'à 65 mm). Pince disponible sur demande pour des pièces de 65 mm x 200 mm pesant jusqu'à 3 kg. Interface robotique optionnelle conforme au standard DMG MORI, compatible avec la plupart des chargeurs de barres."
+      ],
+      "image": "/products/images/clx-350/main-characteristics2.webp"
+    },
+    {
+      "title": "Efficacité accrue en usinage grâce au chargeur de barres",
+      "content": [
+        "Passage de barre standard de 51 mm (option jusqu'à 65 mm). Pince disponible sur demande pour des pièces de 65 mm x 200 mm pesant jusqu'à 3 kg. Interface robotique optionnelle conforme au standard DMG MORI, permettant la compatibilité avec la plupart des chargeurs de barres."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Construction robuste avec une zone de travail spacieuse, idéale pour l'usinage de pièces spécifiques",
+      "content": [
+        "Usinage de pièces d'un diamètre maximal de 320 mm, avec un déplacement en axe Z allant jusqu'à 540 mm. Conception compacte garantissant un encombrement minimal de 5,0 m²."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Systèmes de contrôle 3D avec un écran tactile exceptionnel de 19 pouces SLIMline SIEMENS ou FANUC",
+      "content": [
+        "Panneau de contrôle SIEMENS de 19 pouces avec écran couleur multi-touch dans DMG MORI SLIMline, offrant une programmation intuitive et une utilisation facile.",
+        "Panneau de contrôle FANUC de 19 pouces avec écran tactile couleur dans DMG MORI SLIMline, permettant la simulation 3D et la vérification facile du contour.",
+        "DMG MORI SMARTkey : Personnalisation avec mémoire supplémentaire de 8 Go, offrant des fonctionnalités adaptées aux besoins de l'utilisateur."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Entraînement de broche",
+      "param": [
+        "Puissance : 16,5 kW (40% DC)",
+        "Couple : 168 Nm (40% DC)",
+        "Vitesse max. : 5000 tr/min"
+      ]
+    },
+    {
+      "name": "Broche synchrone ISM 36",
+      "param": [
+        "Puissance : 16,2 kW (40% DC)",
+        "Couple : 62 Nm (40% DC)",
+        "Vitesse max. : 5000 tr/min",
+        "Possibilité d'usinage arrière"
+      ]
+    },
+    {
+      "name": "Axe Y",
+      "param": [
+        "Course : ±40 mm"
+      ]
+    },
+    {
+      "name": "Chargeur de barres",
+      "param": [
+        "Standard : ø51 mm",
+        "Optionnel : ø65 mm"
+      ]
+    },
+    {
+      "name": "Pince optionnelle pour pièces",
+      "param": [
+        "Pour pièces de dimensions : ø65 x 200 mm, poids : 3 kg"
+      ]
+    },
+    {
+      "name": "Interface robotique optionnelle",
+      "param": [
+        "Conforme au standard DMG MORI, compatible avec la plupart des chargeurs de barres"
+      ]
+    },
+    {
+      "name": "Construction",
+      "param": [
+        "Compacte avec une grande zone de travail pour l’usinage de pièces spécifiques"
+      ]
+    },
+    {
+      "name": "Usinage des pièces",
+      "param": [
+        "Diamètre jusqu'à 320 mm",
+        "Course en axe Z : 540 mm"
+      ]
+    },
+    {
+      "name": "Surface d’implantation",
+      "param": [
+        "5,0 m²"
+      ]
+    },
+    {
+      "name": "Commande 3D",
+      "param": [
+        "DMG MORI SLIMline 19 pouces, écran tactile couleur multi-touch SIEMENS pour une programmation intuitive et une utilisation facile"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "DMU 75 monoBLOCK",
+      "image": "/products/images/dmu-75-monoblock/carousel1.svg",
+      "link": "/product/dmu-75-monoblock"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    },
+    {
+      "name": "NLX 2500",
+      "image": "/products/images/nlx-2500/carousel1.svg",
+      "link": "/product/nlx-2500"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

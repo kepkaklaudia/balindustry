@@ -1,0 +1,171 @@
+{
+  "basic_data": {
+    "pathID": "twin-one-axis",
+    "name": "Arbeitsstation Twin One-axis",
+    "additional_name": "Roboter Gofa 15000, UR5/UR 12",
+    "description": "Diese moderne Schweißstation bietet doppelte Leistung und Flexibilität im Schweißprozess. Ausgestattet mit zwei Arbeitsplätzen ermöglicht sie das Arbeiten an zwei Stationen gleichzeitig, was zu einer erhöhten Produktionseffizienz führt.",
+    "with_data": true
+  },
+  "floating_CTA": {
+    "title": "Twin One-axis",
+    "image": "/products/images/twin-one-axis/floatingCTA.png",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "images": [
+    "/products/images/twin-one-axis/carousel1.png",
+    "/products/images/twin-one-axis/carousel2.png",
+    "/products/images/twin-one-axis/carousel3.png",
+    "/products/images/twin-one-axis/carousel4.png"
+  ],
+  "parameters": [
+    {
+      "name": "Arbeitsbereich",
+      "value": "800x1200mm"
+    },
+    {
+      "name": "Lichtquelle",
+      "value": "LED"
+    },
+    {
+      "name": "Schweißquelle",
+      "value": "Fronius / ESAB"
+    },
+    {
+      "name": "Positionierer",
+      "value": "Einachsig 300 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Erweiterte Steuerung",
+      "content": [
+        "Das gesamte Steuerungssystem basiert auf der neuesten SPS S7-1500, die das operative Gehirn der Station darstellt. Diese Steuerung ist nicht nur eine logische Steuerung, sondern auch eine technologische, die komplexe Berechnungen zur optimalen Steuerung des Schweißprozesses durchführen kann. In Verbindung mit der ET200 SP-Insel bietet die Steuerung vollständige Kontrolle über alle Aspekte der Station, ermöglicht eine optimale Ressourcennutzung und gewährleistet eine hohe Qualität und Effizienz des Schweißprozesses."
+      ],
+      "image": "/products/images/twin-one-axis/main-characteristics1.png"
+    },
+    {
+      "title": "Einachsige Positionierer",
+      "content": [
+        "Die Positionierer ermöglichen die präzise Drehung des geschweißten Elements um einen bestimmten Winkel während des Schweißprozesses. Durch den Einsatz von Siemens-Servoantrieben der S210-Serie kann die SPS S7-1500 die Bewegung und Position der Positionierer exakt steuern. Dadurch lässt sich das Element effektiv an die optimale Position anpassen, was eine hohe Präzision und Qualität des Schweißens sowie Flexibilität bei der Anpassung an verschiedene Elemente und Produktionsanforderungen gewährleistet."
+      ],
+      "image": "/products/images/twin-one-axis/main-characteristics2.png"
+    },
+    {
+      "title": "Elektrisch gesteuerte Frontabdeckung",
+      "content": [
+        "Die elektrisch gesteuerte Frontabdeckung ermöglicht nicht nur einen einfachen Zugang zum Inneren der Station, sondern bietet auch zusätzlichen Schutz für das Personal. Dank der elektrischen Steuerung kann die Abdeckung schnell und präzise geöffnet und geschlossen werden, was den Bedienkomfort erhöht."
+      ],
+      "image": "/products/images/twin-one-axis/main-characteristics3.png"
+    },
+    {
+      "title": "Prozessvisualisierung",
+      "content": [
+        "Das 5-Zoll-HMI-Panel Siemens Unified bietet dem Bediener eine intuitive Visualisierung des Schweißprozesses. Dies ermöglicht eine schnelle Identifizierung möglicher Probleme sowie die kontinuierliche Überwachung der Arbeitsparameter."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Brennerreinigungsstation und Kalibrierung des TCP-Punkts des Roboters",
+      "content": [
+        "Die Zelle ist mit einer speziell entwickelten Brennerreinigungsstation und einer Kalibrierung des TCP-Punkts des Roboters ausgestattet, um optimale Arbeitsbedingungen und präzises Schweißen zu gewährleisten."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Sicherheitssystem",
+      "content": [
+        "Das Sicherheitskonzept basiert auf einer Siemens Fail-Safe Steuerung und bietet umfassenden Schutz für das Personal, das an der Station arbeitet."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Fahrbahn mit Roboterbewegung",
+      "param": [
+        "2,5m"
+      ]
+    },
+    {
+      "name": "Schweißquellen",
+      "param": [
+        "Mig/Mag ; Laser"
+      ]
+    },
+    {
+      "name": "Fahrbahn mit Roboterbewegung",
+      "param": [
+        [
+          "2,5m"
+        ]
+      ]
+    },
+    {
+      "name": "Steuerung",
+      "param": [
+        "Siemens-Steuerung"
+      ]
+    },
+    {
+      "name": "Schweißdrehvorrichtungen",
+      "param": [
+        "Tragfähigkeit bis 300kg"
+      ]
+    },
+    {
+      "name": "Zwei Arbeitsbereiche mit den Abmessungen",
+      "param": [
+        "1250x1000 mm"
+      ]
+    },
+    {
+      "name": "Zusätzliche Ausstattung",
+      "param": [
+        "Möglichkeit zur Standortverlagerung"
+      ]
+    },
+    {
+      "name": "Steuerung der Positionierer",
+      "param": [
+        "Integriert mit der Robotersteuerung"
+      ]
+    },
+    {
+      "name": "Sicherheitssystem",
+      "param": [
+        "Erfüllt Sicherheitsnormen"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Arbeitsstation Dual",
+      "image": "/products/images/dual/carousel1.svg",
+      "link": "/product/dual"
+    },
+    {
+      "name": "ALW 1200 - Automatischer Linear-Schweißer",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    },
+    {
+      "name": "Kammeröfen",
+      "image": "/products/images/furnace/carousel1.svg",
+      "link": "/product/furnace"
+    },
+    {
+      "name": "Arbeitsstation Single",
+      "image": "/products/images/single/carousel1.svg",
+      "link": "/product/single"
+    }
+  ]
+}

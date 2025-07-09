@@ -1,0 +1,565 @@
+{
+  "metaData": {
+    "homepage": {
+      "title": "Innovative CNC-Lösungen, Schneiden, Fräsen und Industrielle Automatisierung | BAL Industry",
+      "description": "BAL Industry bietet CNC-Dienstleistungen, Schneiden, Fräsen, Schweißen, Automatisierung und Robotik an. Entdecken Sie innovative Lösungen zur Steigerung der Produktionseffizienz."
+    },
+    "about": {
+      "title": "Ihr Partner für Industrielle Automatisierung und Produktion | BAL Industry",
+      "description": "Lernen Sie BAL Industry kennen – Experten in den Bereichen CNC, Schneiden, Schweißen und Automatisierung. Unser Unternehmen garantiert Effizienz und Produktionsqualität."
+    },
+    "automation": {
+      "title": "Automatisierung von Maschinen und Anlagen | Steigern Sie die Produktionseffizienz | BAL Industry",
+      "description": "Informieren Sie sich über unsere Dienstleistungen zur Modernisierung von Maschinen und Anlagen im Hinblick auf die Automatisierung. Steigern Sie die Effizienz und Präzision Ihrer Produktion. Kontaktieren Sie uns!"
+    },
+    "calculator": {
+      "title": "Berechnen Sie die Laserschneidkosten | BAL Industry",
+      "description": "Nutzen Sie unseren Kalkulator zur Berechnung der Laserschneidkosten. Ermitteln Sie die Kosten für das Schneiden von Material anhand der ausgewählten Parameter. Wir bewerten präzise die Produktionskosten für Ihr Projekt."
+    },
+    "contact": {
+      "title": "Kontaktieren Sie BAL Industry – Ihren Partner in der Industrie",
+      "description": "Haben Sie Fragen oder benötigen Sie Unterstützung? Nutzen Sie unser Kontaktformular. Wir sind Experten im Bereich der Automatisierung und Industrie."
+    },
+    "forms": {
+      "title": "Bestellen Sie Biege-, Schweiß-, Schweißdienstleistungen und mehr | BAL Industry",
+      "description": "Nutzen Sie unser Formular und bestellen Sie Dienstleistungen wie Biegen, Schweißen, Schweißen, Lackieren, CNC-Bearbeitung und vieles mehr. Füllen Sie das Formular aus und erhalten Sie schnell ein Angebot!"
+    },
+    "product": {
+      "title": "Moderne Industriemaschinen | BAL Industry",
+      "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte.",
+      "single": {
+        "title": "Single Station | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "dual": {
+        "title": "Dual Station | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "twin-one-axis": {
+        "title": "Twin One-axis Station | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "waterjet": {
+        "title": "Waterjet | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "trupunch-5000": {
+        "title": "TruPunch 5000 | TRUMPH | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "trulaser-7000": {
+        "title": "TruLaser Tube 7000 fiber | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "trulaser-3030": {
+        "title": "TruLaser 3030 fiber | TRUMPH | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "bending-station": {
+        "title": "Biegestation | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "arc-d600": {
+        "title": "ARC D600 | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "arc-b250": {
+        "title": "ARC B250 | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "arc-trackmotion-2t": {
+        "title": "ARC Trackmotion 2t | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "clx-350": {
+        "title": "CLX 350 | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "dmu-75-monoblock": {
+        "title": "DMU 75 monoBLOCK | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "dmu-210-p": {
+        "title": "DMU 210 P | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "sprint-32I5": {
+        "title": "SPRINT 32I5 | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "m1": {
+        "title": "M1 | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "lh": {
+        "title": "LH | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "5-axis-cnc": {
+        "title": "5-Achs CNC | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "nlx-2500": {
+        "title": "NLX 2500 | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "surface-treatment": {
+        "title": "Oberflächenbehandlung | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "furnace": {
+        "title": "Kammeröfen | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "vertical-warehouse": {
+        "title": "Vertikales Blechlager | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "paintshops-installation": {
+        "title": "Lackierereimontage | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "alw-1200": {
+        "title": "ALW 1200 | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industrieausrüstung, darunter Laserschneider und Schweißgeräte. Mit unserem technologischen Maschinenpark realisieren Sie selbst die anspruchsvollsten Projekte."
+      },
+      "flex-esab": {
+        "title": "Flex Cobot Esab | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industriewerkzeuge, darunter Laserschneider und Schweißgeräte. Dank unseres technologischen Maschinenparks können Sie selbst die anspruchsvollsten Projekte realisieren."
+      },
+      "flex-fronius": {
+        "title": "Flex Cobot Fronius | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industriewerkzeuge, darunter Laserschneider und Schweißgeräte. Dank unseres technologischen Maschinenparks können Sie selbst die anspruchsvollsten Projekte realisieren."
+      },
+      "service-paintshop": {
+        "title": "Pulverbeschichtung und Nasslackierung | BAL Industry",
+        "description": "Wir bieten fortschrittliche Industriewerkzeuge, darunter Laserschneider und Schweißgeräte. Dank unseres technologischen Maschinenparks können Sie selbst die anspruchsvollsten Projekte realisieren."
+      }
+    },
+    "ar": {
+      "title": "3D-Vorschau | BAL Industry",
+      "description": "Betrachten Sie unser Produkt in drei Dimensionen."
+    }
+  },
+  "about": {
+    "Our company": "Unser Unternehmen ist seit 1998 auf dem Markt tätig. Wir haben uns schnell als Produktionsbetrieb entwickelt, der viele Produkte mit unterschiedlichem Verwendungszweck herstellt. Mit der steigenden Marktnachfrage nach unseren Produkten haben wir in die Weiterentwicklung unseres Maschinenparks investiert, um die Effizienz und Qualität unserer Produkte zu steigern.",
+    "About us": "Über uns"
+  },
+  "automation": {
+    "The modernization": "Die Modernisierung von Maschinen und Anlagen im Hinblick auf die Automatisierung ist ein Prozess, bei dem moderne Technologien und Lösungen in bestehende Maschinen und Anlagen integriert werden, um deren Automatisierungsgrad und Effizienz zu steigern. Dies beinhaltet die Modifikation, Verbesserung oder den Austausch von Teilen, Komponenten oder Systemen in bestehenden Anlagen, um ihnen ein vollständiges oder teilweises autonomes Funktionieren zu ermöglichen.",
+    "Machine and equipment automation": "Automatisierung von Maschinen und Anlagen"
+  },
+  "calculator": {
+    "Do you want": "Möchten Sie die Kosten unserer Schneiddienstleistungen erfahren? Bitte füllen Sie das untenstehende Formular aus und laden Sie die entsprechende Datei hoch, damit wir die Kosten genau abschätzen und das Angebot an Ihre Bedürfnisse anpassen können.",
+    "Acceptable file": "Akzeptierte Dateierweiterung: .dxf (max. 8MB)",
+    "Cutting quotation": "Schnittangebot"
+  },
+  "contact": {
+    "Thank you": "Vielen Dank für Ihr Interesse an unserem Unternehmen! Bitte füllen Sie das untenstehende Formular aus, um mit uns in Kontakt zu treten. Wir werden unser Bestes tun, um so schnell wie möglich zu antworten.",
+    "Contact form": "Kontaktformular"
+  },
+  "forms": {
+    "Follow us": "Folgen Sie uns:",
+    "Dear Customer": "Sehr geehrter Kunde,",
+    "Please fill": "Bitte füllen Sie die Anfragedaten aus, damit wir das Angebot an Ihre Bedürfnisse anpassen können. Hinterlassen Sie Ihre Kontaktdaten, und wir rufen Sie zurück, um Ihre Anfrage zu besprechen.",
+    "Offer Form": "Angebotsformular"
+  },
+  "product": {
+    "We cannot": "Wir können die Daten nicht abrufen",
+    "Check your internet": "Überprüfen Sie Ihre Internetverbindung",
+    "Data unavailable": "Daten nicht verfügbar",
+    "Open in": "In erweiterter Realität (AR) öffnen",
+    "Error": "Fehler - Modell konnte nicht geladen werden"
+  },
+  "components": {
+    "about": {
+      "Why": "Warum Balindustry?",
+      "We specialize": "Wir spezialisieren uns auf die Anpassung maßgeschneiderter Automatisierungslösungen an die Bedürfnisse verschiedener Branchen. Unser Unternehmen feiert kontinuierlich Erfolge bei der Umsetzung von Projekten und dem Aufbau globaler Partnerschaften. Gemeinsam streben wir danach, die Effizienz und Automatisierung in Ihrem Unternehmen zu steigern.",
+      "Excellence in production": "Exzellenz in der\u00A0produktion",
+      "Thanks to": "Dank eines modernen Maschinenparks kann BAL\u00A0Industry verschiedene Komponenten effizient herstellen und dabei die höchsten Qualitätsstandards erfüllen. Wir nutzen fortschrittliche Technologien und das Fachwissen unserer Spezialisten, um die Erwartungen unserer Kunden zu erfüllen.",
+      "What do we do": "Was machen wir?",
+      "Thanks to our own experience": "Dank unserer eigenen Erfahrungen haben wir ein tiefgehendes Verständnis für die Prozesse, Herausforderungen und Bedürfnisse von Produktionsstätten mit einem ähnlichen Produktionsprofil gewonnen und möchten dieses Wissen mit anderen teilen. Wir können Ihnen helfen, die Effizienz zu steigern und die Produktionsqualität zu verbessern.",
+      "Our machines": "Unsere maschinen",
+      "Our offer": "Unser Angebot umfasst robotergestützte Arbeitsstationen, Transport- und Lagersysteme, Schweißautomaten und viele weitere innovative Maschinen. Dadurch sind wir in der Lage, die vielfältigen Bedürfnisse unserer Kunden umfassend zu erfüllen und ihnen einen Service auf höchstem Niveau zu bieten.",
+      "Modern applications": "Moderne anwendungen",
+      "Creativity": "Kreativität",
+      "Quality": "Qualität",
+      "Teamwork": "Teamarbeit",
+      "Ingenuity": "Einfallsreichtum",
+      "Thanks to our continuous": "Dank unserer kontinuierlichen Suche nach neuen Technologien und Arbeitsmethoden sind wir in der Lage, einzigartige und fortschrittliche Lösungen zu entwickeln, die unseren Kunden Vorteile bringen.",
+      "Our company places": "Unser Unternehmen legt großen Wert auf Innovation und Kreativität. Wir streben danach, kontinuierlich bahnbrechende Lösungen zu entwickeln, die unseren Partnern Mehrwert bieten.",
+      "Quality is the foundation": "Qualität ist das Fundament unseres Unternehmens. Alle unsere Produkte und Dienstleistungen werden sorgfältig entwickelt und gründlich geprüft, um unseren Kunden den höchsten Grad an Zufriedenheit zu gewährleisten.",
+      "Working together": "Gemeinsame Arbeit ermöglicht es uns, außergewöhnliche Ergebnisse zu erzielen und Projektziele effizient zu erreichen.",
+      "We strive": "Wir streben danach, eine inspirierende Umgebung zu schaffen, die die Entwicklung origineller Konzepte und innovativer Lösungen fördert.",
+      "Years on the market": "Jahre auf dem markt",
+      "Completed projects": "Abgeschlossene projekte",
+      "Positive reviews": "Positive bewertungen",
+      "Cups of coffee": "Tassen kaffee"
+    },
+    "automation": {
+      "Adding sensors and actuators": "Hinzufügen von Sensoren und Aktuatoren",
+      "Automation of control systems": "Automatisierung der Steuerung",
+      "Integration with IT systems": "Integration mit IT-Systemen",
+      "Energy optimization": "Energieoptimierung",
+      "Robotics and process automation": "Robotisierung und Automatisierung von Prozessen",
+      "Installation of additional sensors": "Installation zusätzlicher Sensoren wie optischer Sensoren, Kraftsensoren und Positionssensoren, die es Maschinen ermöglichen, Daten über die Umgebung, den Betriebszustand oder das Produkt zu sammeln.",
+      "Implementation of modern control": "Einsatz moderner Steuerungs- und Automatisierungssysteme wie speicherprogrammierbarer Steuerungen (SPS) oder SCADA-Systeme (Supervisory Control and Data Acquisition), die das Programmieren, Überwachen und Steuern von Maschinen und Anlagen ermöglichen.",
+      "Connecting machines": "Die Vernetzung von Maschinen und Anlagen mit IT-Systemen wie Produktionsleitsystemen (MES) oder Enterprise Resource Planning (ERP)-Systemen, die den Datenaustausch und die Integration von Produktionsprozessen ermöglichen.",
+      "Implementation of solutions": "Einsatz von Lösungen zur Reduzierung des Energieverbrauchs, wie effiziente Motoren, Drehzahlregelung, Nutzung erneuerbarer Energiequellen und Rückgewinnung kinetischer Energie.",
+      "Implementation of industrial robots": "Einführung von Industrierobotern oder Automatisierungssystemen zur Durchführung spezifischer Operationen oder Aufgaben im Produktionsprozess. Dies kann Montage, Schweißen, Verpacken, Sortieren und viele weitere Tätigkeiten umfassen."
+    },
+    "calculator": {
+      "Unfortunately": "Leider ist die Dateivorschau nicht verfügbar.",
+      "Error": "Fehler",
+      "Thank you": "Vielen Dank",
+      "Something went wrong": "Etwas ist schiefgelaufen",
+      "Failed to": "Die Anfrage konnte nicht gesendet werden.",
+      "Please fill": "Bitte füllen Sie die Kontaktdaten aus.",
+      "Your inquiry": "Ihre Anfrage wurde erfolgreich gesendet.",
+      "No model": "Kein Modell wurde konfiguriert. Bitte geben Sie die Konfigurationsdaten an.",
+      "No value": "Kein Wert",
+      "Values for a single unit": "Werte für ein einzelnes Stück",
+      "Data in millimeters": "Daten in Millimetern:",
+      "Laser cutting length": "Laser-Schnittlänge:",
+      "Surface area:": "Oberfläche:",
+      "Mass:": "Masse:",
+      "Data in meters:": "Daten in Metern:",
+      "Add to the inquiry": "Zur Anfrage hinzufügen",
+      "File name:": "Dateiname: ",
+      "Material:": "Material: ",
+      "Thickness:": "Dicke: ",
+      "Quantity:": "Anzahl der Stücke: ",
+      "List of": "Liste der ausgewählten Konfigurationen",
+      "Provide us": "Geben Sie uns Ihre Daten, damit wir Sie kontaktieren können",
+      "Full name": "Name und Nachname *",
+      "Your email": "Deine E-Mail *",
+      "Request a quote": "Angebot anfragen",
+      "Loading": "Laden",
+      "Material": "Material",
+      "Select a material from the list": "Wählen Sie ein Material aus der Liste",
+      "Quantity": "Anzahl der Stücke",
+      "Enter the target quantity of pieces": "Geben Sie die gewünschte Stückzahl an",
+      "Thickness": "Dicke",
+      "Enter the material thickness for cutting": "Geben Sie die Materialdicke für den Schnitt an",
+      "What does": "Wie sieht die optimale Datei aus?",
+      "An optimal file": "Eine optimale Datei für das Laserschneiden besteht aus einem einzelnen Teil. Alle Konturen sind geschlossen, und die Schnittkonturfarbe ist weiß.",
+      "What should be": "Worauf sollte man achten?",
+      "The following points": "Die folgenden Punkte sollten berücksichtigt werden:",
+      "the file should contain": "die Datei sollte nur die Schnittkontur enthalten",
+      "there should be": "in einer Datei darf nur ein Teil enthalten sein",
+      "lines should not overlap": "linien sollten sich nicht überlappen",
+      "the file should not": "die Datei darf keine zusätzlichen Daten oder Informationen enthalten",
+      "when exporting": "beim Export aus einem 3D-Programm sollten keine anderen Ansichten ausgewählt werden",
+      "the file should not contain": "die Datei sollte keinen Zeichnungskopf enthalten",
+      "lines should be": "linien sollten weiß sein (rote Linien werden nicht geschnitten)",
+      "contours should be closed": "konturen sollten geschlossen sein",
+      "What mistakes": "Welche Fehler sollten vermieden werden?",
+      "A file containing": "Eine Datei mit den folgenden Fehlern sollte nicht übermittelt werden:",
+      "colored lines": "farbige linien",
+      "open contours": "offene konturen",
+      "borders around the drawing edges": "rahmen um die zeichnungskanten",
+      "material information and text annotations": "materialinformationen und schriftzeichen",
+      "multiple parts in the same file": "mehrere teile in derselben datei",
+      "or": "oder",
+      "drag": "ziehen Sie sie hierher. Max. 8MB",
+      "Invalid file type": "Ungültiger Dateityp",
+      "Add files for quotation": "Dateien für das Angebot hinzufügen",
+      "Select files": "Dateien auswählen"
+    },
+    "common": { "Loading": "Laden..." },
+    "contact": {
+      "Contact us": "Kontaktieren Sie uns",
+      "Send us an email": "Senden Sie uns eine E-Mail oder starten Sie ein Gespräch, indem Sie das untenstehende Formular ausfüllen.",
+      "Contact us directly": "Kontaktieren Sie uns direkt!",
+      "Get in touch with Robert": "Wenden Sie sich an Robert Mrozik, wenn Sie Fragen zur",
+      "the robotics": "Robotik- oder Schweißabteilung haben.",
+      "Get in touch with Jakub": "Wenden Sie sich an Jakub Sobisz, wenn Sie Fragen zur",
+      "the installation": "Installation von Lackieranlagen, vertikalen Blechlagern, Oberflächenbearbeitung oder Kammeröfen haben.",
+      "Phone": "Telefon",
+      "Email": "E-Mail"
+    },
+    "forms": {
+      "Add file": "Datei hinzufügen",
+      "File uploaded": "Datei hochgeladen",
+      "No file selected": "Keine Datei ausgewählt",
+      "Select the type": "Wählen Sie die Art der Bearbeitung (Mehrfachauswahl\u00A0möglich):",
+      "Full name is required": "Name und Nachname sind erforderlich",
+      "Full name *": "Name und Nachname *",
+      "Enter your full name": "Geben Sie Ihren Namen und Nachnamen ein",
+      "Message subject is required": "Betreff der Nachricht ist erforderlich",
+
+      "Message subject *": "Betreff der Nachricht *",
+      "Enter the message subject": "Geben Sie den Betreff der Nachricht ein",
+      "Email is required": "E-Mail ist erforderlich",
+      "Enter your email address": "Geben Sie Ihre E-Mail-Adresse ein",
+      "Email is invalid": "E-Mail ist ungültig",
+      "Message is required": "Nachricht ist erforderlich",
+      "Your message *": "Ihre Nachricht *",
+      "Send": "Senden",
+
+      "Please select": "Bitte wählen Sie mindestens eine Option",
+      "The field accepts": "Das Feld akzeptiert nur Zahlen",
+
+      "Phone number *": "Telefonnummer *",
+      "Enter your phone number": "Geben Sie Ihre Telefonnummer ein",
+      "The field must": "Das Feld muss mindestens 6 Ziffern enthalten",
+      "The field can": "Das Feld darf maximal 15 Ziffern enthalten",
+      "Phone number is required": "Telefonnummer ist erforderlich",
+
+      "Thank you": "Vielen Dank für Ihre Anfrage.",
+      "Oops": "Ups, etwas ist schiefgelaufen! Bitte versuchen Sie es später erneut.",
+
+      "bending": "Biegen",
+      "welding": "Schweißen",
+      "spot_welding": "Punktschweißen",
+      "painting": "Lackieren",
+      "cnc_processing": "CNC-Bearbeitung",
+      "rolling": "Walzen",
+      "mdf_processing_painting": "MDF-Bearbeitung und Lackierung",
+      "large_welding": "Großschweißen",
+      "satinizing": "Satiniert",
+      "blunting": "Kanten abrunden",
+      "grinding": "Schleifen",
+      "tig": "TIG",
+      "mig": "MIG",
+      "laser": "Laser",
+      "other": "Andere",
+      "wet": "Nass",
+      "powder": "Pulver",
+      "select_processing_method": "Wählen Sie die Bearbeitungsmethode",
+      "select_welding_type": "Wählen Sie die Schweißart",
+      "select_welding_type_required": "Schweißart ist erforderlich",
+      "select_painting_technology": "Wählen Sie die Lackiertechnologie",
+      "select_painting_technology_required": "Lackiertechnologie ist erforderlich",
+      "max_dimensions_required": "Maximale Abmessungen erforderlich",
+      "max_dimensions_label": "Maximale Werkstückabmessungen *",
+      "max_dimensions_placeholder": "Geben Sie die maximalen Werkstückabmessungen ein",
+      "weight_required": "Gewicht erforderlich",
+      "weight_label": "Werkstückgewicht *",
+      "weight_placeholder": "Geben Sie das Werkstückgewicht ein",
+      "temperature_required": "Betriebstemperatur erforderlich",
+      "temperature_label": "Erforderliche Dauertemperatur *",
+      "temperature_placeholder": "Geben Sie die erforderliche Temperatur ein",
+      "window_dimensions_required": "Erwartete Fensterabmessungen erforderlich",
+      "window_dimensions_label": "Erwartete Ofenfensterabmessungen *",
+      "window_dimensions_placeholder": "Geben Sie die erwarteten Fensterabmessungen ein"
+    },
+    "homePage": {
+      "Browse": "Durchsuchen Sie unseren Katalog",
+      "Learn more about": "Erfahren Sie mehr über unsere Maschinen mit dem Katalog.",
+      "Learn more about workshop equipment": "Erfahren Sie mehr über die Werkstattausrüstung",
+      "We use": "Wir nutzen die folgenden Werkzeuge:",
+      "Learn more": "Erfahren Sie mehr",
+      "Download catalog": "Katalog herunterladen",
+      "OUR PARTNERS": "UNSERE PARTNER",
+
+      "Product portfolio": "",
+      "in the field": "Produkt-Portfolio im Bereich Robotik und\u00A0Automatisierung",
+
+      "Robotics and automation": "Robotik und\u00A0Automatisierung",
+      "Machine park": "Maschinenpark",
+      "Products": "Produkte",
+      "Services": "Dienstleistungen",
+      "Form": "Formular",
+      "Are you curious": "Sind Sie neugierig, warum unsere Kunden uns so sehr vertrauen? Sehen Sie sich die Lösungen an, die wir\u00A0nutzen.",
+      "Check out": "Überprüfen Sie die Geräte, mit denen wir arbeiten, und erfahren Sie, warum wir die Besten sind! Qualität ist für uns keine leere\u00A0Floskel.",
+      "Discover": "Entdecken Sie unser Produktangebot für Unternehmen jeder Größe! Steigern Sie die Produktivität in\u00A0Ihrem\u00A0Unternehmen.",
+      "Want to": "Möchten Sie eine Zusammenarbeit beginnen oder mehr über unser Angebot erfahren? Nutzen Sie unseren Rechner oder füllen Sie das Kontaktformular\u00A0aus.",
+      "Solutions": "Lösungen",
+      "Check our services": "Überprüfen Sie unsere Dienstleistungen.",
+      "Fill out the offer form on our website": "Füllen Sie das Angebotsformular auf unserer Website aus.",
+
+      "Discover modern solutions": "Entdecken Sie moderne Lösungen",
+      "for industry": "für die Industrie",
+      "We provide": "Wir bieten maßgeschneiderte, branchenspezifische Automatisierungslösungen. Wir realisieren erfolgreich Projekte und bauen globale Partnerschaften auf. Gemeinsam steigern wir die Effizienz und Automatisierung in Ihrem Unternehmen.",
+
+      "Introducing": "Einführung von Industrierobotern oder Automatisierungssystemen zur Durchführung spezifischer Operationen oder Aufgaben im Produktionsprozess. Dies kann Montage, Schweißen, Verpacken, Sortieren und viele weitere\u00A0Tätigkeiten umfassen.",
+      "A well-equipped": "Ein gut ausgestatteter Maschinenpark ermöglicht eine effiziente Produktion, erhöht die betriebliche Flexibilität und erlaubt die Umsetzung verschiedener Projekte mit geeigneten Werkzeugen und\u00A0Technologien.",
+      "We offer machines": "Wir bieten Maschinen zur Bearbeitung flacher Oberflächen an. Wir entwerfen und liefern Blechlagersysteme, wie z. B. Stapellager für Blechbündel, sowie Lagerlösungen für Elemente mit Transportpaletten. Außerdem bieten wir Hochtemperaturöfen, die in verschiedenen technologischen\u00A0Prozessen eingesetzt werden.",
+      "Based on knowledge": "Auf Basis des Wissens und\u00A0der Erfahrung unserer Spezialisten passen wir unsere Dienstleistungen an die individuellen Bedürfnisse und\u00A0Anforderungen unserer Kunden an, um ihnen professionellen Service und\u00A0Zufriedenheit mit den erzielten\u00A0Ergebnissen zu gewährleisten."
+    },
+    "layout": {
+      "About us": "Über uns",
+      "Robotic workstations": "Robotergestützte Arbeitsstationen",
+      "Single workstation": "Einzelarbeitsplatz",
+      "Robotic workstation": "Robotisierte Arbeitsstation",
+      "Twin One-axis workstation": "Twin One-Achs-Arbeitsplatz",
+      "Welding automation": "Schweißautomatisierung",
+      "Dual workstation": "Doppelarbeitsplatz",
+      "Machine and equipment automation": "Automatisierung von Maschinen und Anlagen",
+      "Products Machines": "Produkte Maschinen",
+      "Surface treatment": "Oberflächenbearbeitung",
+      "Vertical sheet metal storage": "Vertikales Blechlager",
+      "Chamber furnaces": "Kammeröfen",
+      "Wet and powder coating booths": "Nass- und Pulverbeschichtungskabinen",
+      "Our machine park": "Unser Maschinenpark",
+      "Metal processing department": "Abteilung für Metallbearbeitung",
+      "CNC processing department": "CNC-Bearbeitungsabteilung",
+      "Services": "Dienstleistungen",
+      "Offer form": "Angebotsformular",
+      "Cutting quotation": "Schnittangebot",
+      "Powder and wet painting": "Pulver- und Nasslackierung",
+      "Contact": "Kontakt",
+
+      "Single Workstation": "Einzelarbeitsplatz",
+      "Dual Workstation": "Doppelarbeitsplatz",
+      "Twin One-axis Workstation": "Twin One-Achsen-Arbeitsplatz",
+      "Waterjet": "Waterjet",
+      "TruPunch 5000 | TRUMPF": "TruPunch 5000 | TRUMPF",
+      "TruLaser Tube 7000 fiber": "TruLaser Tube 7000 Faser",
+      "TruLaser 3030 fiber | TRUMPF": "TruLaser 3030 Faser | TRUMPF",
+      "Bending workstation": "Biegearbeitsplatz",
+      "ARC D600": "ARC D600",
+      "ARC B250": "ARC B250",
+      "ARC Trackmotion 2t": "ARC Trackmotion 2t",
+      "CLX 350": "CLX 350",
+      "DMU 75 monoBLOCK": "DMU 75 monoBLOCK",
+      "DMU 210 P": "DMU 210 P",
+      "SPRINT 32I5": "SPRINT 32I5",
+      "M1": "M1",
+      "LH": "LH",
+      "5-axis CNC": "5-Achsen CNC",
+      "NLX 2500": "NLX 2500",
+      "ALW-1200": "ALW-1200",
+      "Flex Cobot Esab": "Flex Cobot Esab",
+      "Flex Cobot Fronius": "Flex Cobot Fronius",
+
+      "Chamber furnace": "Kammerofen",
+      "Satin finishing machine": "Satiniermaschine",
+
+      "MIG, MAG, TIG offert": "MIG-, MAG-, TIG-Angebot",
+      "Laser Services Offer": "Angebot für Laserdienstleistungen"
+    },
+    "product": {
+      "Other customers also checked": "Andere Kunden haben auch überprüft",
+      "Main features": "Hauptmerkmale",
+      "Parameters": "Parameter",
+      "Similar products": "Ähnliche Produkte",
+
+      "Paint shop 1": "Lackiererei 1",
+      "Max detail weight": "Max. Bauteilgewicht",
+      "Paint shop 2": "Lackiererei 2",
+      "See in augmented reality AR": "In erweiterter Realität AR ansehen",
+      "Feature": "Merkmal",
+      "Description": "Beschreibung",
+
+      "Sheet metal storage": "Blechlager",
+      "Max sheet size": "Max. Blechabmessung",
+      "Own weight": "Eigengewicht",
+      "Number of drawers": "Anzahl der Schubladen",
+      "Storage for elements with pallets": "Lager für Elemente mit Paletten",
+
+      "See in 3D": "In 3D\u00A0ansehen"
+    }
+  },
+  "offert": {
+    "Comprehensive Welding Services": "Umfassende Schweißdienstleistungen - MIG/MAG und TIG",
+    "BAL Industry is a modern company": "BAL Industry ist ein modernes Unternehmen, das sich unter anderem auf Schweißdienstleistungen mit den Verfahren MIG/MAG und TIG spezialisiert hat - sowohl manuell als auch automatisiert mit Robotern. Unsere Erfahrung, unser qualifiziertes Fachpersonal sowie unser umfangreicher Maschinenpark ermöglichen es uns, selbst anspruchsvollste Projekte in jeder Größenordnung umzusetzen. BAL Industry bietet Dienstleistungen auf Basis von kundenseitig bereitgestellten Bauteilen oder als Komplettlösung basierend auf technischer Dokumentation an.",
+    "Comprehensive MIG/MAG and TIG Welding Services": "Umfassende MIG/MAG- und TIG-Schweißarbeiten - manuell und robotergestützt",
+    "Manual Welding:": "Manuelles Schweißen:",
+    "Experienced welders": "Erfahrene und qualifizierte Schweißer",
+    "Unit, repair, and small-batch production": "Einzelanfertigungen, Reparaturen und Kleinserien",
+    "Ability to work with various materials": "Bearbeitung verschiedener Materialien: Baustahl, Edelstahl, Aluminium",
+    "Robotic Welding:": "Robotergestütztes Schweiße",
+    "Robotic welding cells": "Automatisierte Schweißzellen für Wiederholgenauigkeit und hohe Effizienz",
+    "Ideal for serial and mass production": "Ideal für Serien- und Großserienproduktion",
+    "Methods: MIG/MAG and TIG": "Verfahren: MIG/MAG und TIG",
+    "For Complete Product Execution, We Offer:": "Bei der Umsetzung eines vollständigen Produkts bieten wir:",
+    "Cutting and burning parts": "Brennen und Schneiden von Bauteilen",
+    "Precise cutting": "Präzises Schneiden von Stahl-, Edelstahl- und Aluminiumblechen",
+    "CNC machining": "CNC-Bearbeitung",
+    "Milling, turning, drilling with high dimensional accuracy": "Fräsen, Drehen und Bohren mit hoher Maßgenauigkeit",
+    "Bending components": "Biegen von Bauteilen",
+    "Modern press brakes": "Moderne Abkantpressen für präzises Biegen auch komplexer Formen",
+    "Welding": "Schweißen",
+    "Manual or robotic": "Manuell oder robotergestützt, angepasst an die Projektanforderungens",
+    "Painting": "Lackierung",
+    "In-house painting": "In unseren eigenen Lackieranlagen: Pulverbeschichtung und Nasslackierung",
+    "Production of Welding Workstations": "Fertigung von Schweißarbeitsplätzen - manuell und automatisiert",
+    "As a manufacturer": "Als Hersteller bietet BAL Industry auch die Planung, Fertigung und Integration individuell angepasster Schweißarbeitsplätze an, die die Effizienz und Ergonomie in den Betrieben unserer Kunden verbessern.",
+
+    "Manual Welding Workstations:": "Manuelle Schweißarbeitsplätze:",
+    "Custom-designed to client requirements": "Maßgeschneiderte Konstruktion nach Kundenwunsch",
+    "Option for integration": "Integration von Absaug- und Belüftungssystemen möglich",
+    "Equipped with": "Ausgestattet mit passenden Stromquellen und Zubehör - bereit für Einzel- oder Wartungsfertigung",
+
+    "Robotic Welding Workstations:": "Automatisierte Schweißarbeitsplätze:",
+    "Complete cells": "Komplette Zellen und Schweißlinien mit Industrierobotern oder Cobots",
+    "Options with": "Optionen mit Positionierern, Schienen usw.",
+    "Programming, commissioning": "Programmierung, Inbetriebnahme und Schulung der Bediener inklusive",
+    "*Each workstation": "*Jeder Arbeitsplatz wird individuell auf Grundlage einer detaillierten Analyse der Kundenanforderungen entworfen - unter Berücksichtigung von Sicherheitsnormen sowie ergonomischen und produktionstechnischen Anforderungen.",
+
+    "BAL Industry - Technology That Unites Your Production": "BAL Industry - Technologie, die Ihre Produktion verbindet",
+    "Whether you need": "Ganz gleich, ob Sie einen Einzelauftrag im Bereich Schweißen benötigen, Ihre Produktionslinie modernisieren oder Ihren Betrieb mit modernen MIG/MAG- oder TIG-Arbeitsplätzen ausstatten möchten - BAL Industry liefert maßgeschneiderte Lösungen.",
+    "Why Choose BAL Industry?": "Warum BAL Industry?",
+
+    "Comprehensive services": "Komplettlösungen ",
+    "from design": "von der Planung bis zur Endlackierung",
+    "Modern technologies": "Moderne Technologien",
+    "robotic welding systems, CNC, paint shops": "robotergestützte Schweißsysteme, CNC, Lackieranlagen",
+    "Flexible execution": "Flexible Umsetzung",
+    "customer-supplied": "auf Basis von Kundenteilen oder als vollständige Eigenproduktion",
+
+    "High quality": "Hohe Qualität",
+
+    "experience, quality control": "Erfahrung, Qualitätskontrolle",
+
+    "Individual approach": "Individuelle Lösungen",
+    "solutions tailored": "angepasst an Ihre Produktion",
+
+    "Our projects": "Unsere Projekte",
+
+    "hashtags": "#Schweißen, #MIGMAG, #TIG, #CNC, #Industrie40, #Schweißdienstleistungen, #Automatisierung, #Produktion, #Metall, #BalIndustry, #Fertigung, #Metallverarbeitung, #ManuellesSchweißen, #Roboterschweißen, #Schweißtechnik, #Schweißarbeitsplätze, #Industrieproduktion, #CNCBearbeitung, #Laserschneiden, #Blechbiegen, #Pulverbeschichtung, #Nasslackierung, #Produktionsautomatisierung, #Auftragsfertigung, #Produktionstechnik, #Metallerzeugnisse, #Schweißtechnik, #Fabrik, #Qualität, #Metallindustrie, #ModerneProduktion, #Technologie, #Innovation, #Roboter, #Cobots, #Präzision",
+
+    "Laser Services Offer": "Angebot an Laserdienstleistunge",
+
+    "In the era of Industry": "Im Zeitalter von Industrie 4.0 sind Zuverlässigkeit, Präzision und Effizienz in Produktionsprozessen wichtiger denn je. BAL Industry reagiert auf diese Anforderungen mit umfassenden Lösungen und Anlagen für das Laserschweißen, -schneiden und -reinigen von Bauteilen.",
+
+    "We are a modern company": "Wir sind ein modernes Unternehmen, das sich unter anderem auf manuelle und robotergestützte Laserdienstleistungen spezialisiert hat. Dank unserer hochentwickelten technologischen Ausstattung bieten wir eine vollständige Auftragsabwicklung – von der Bearbeitung durch den Kunden bereitgestellter Teile bis hin zur Fertigung kompletter Bauteile auf Basis technischer Zeichnungen.",
+    "Scope of Laser Services": "Umfang unserer Laserdienstleistungen",
+    "Laser Welding:": "Laserschweißen:",
+
+    "Precise and durable": "Präzises und dauerhaftes Fügen von Metallteilen - von dünnwandig bis dickwandig.",
+    "High-quality, aesthetic welds": "Ästhetisch hochwertige Schweißnähte ohne Nachbearbeitung.",
+    "Available as manual welding": "Durchführung sowohl manuell (für Einzelstücke und Sonderteile) als auch robotergestützt (für größere Serien).",
+    "Processing possible": "Bearbeitung sowohl von kundenseitig gelieferten Bauteilen als auch von BAL Industry gefertigten Teilen möglich.",
+
+    "Laser Cutting:": "Laserschneiden:",
+    "Fast, clean": "Schnelles, sauberes und reproduzierbares Schneiden von Stahl- und Edelstahlblechen",
+    "Execution based": "Ausführung anhand einer technischen Zeichnung oder einer vom Kunden bereitgestellten Vorlage",
+    "High precision": "Hohe Präzision zur Minimierung von Materialverlusten",
+
+    "Laser Cleaning:": "Laserreinigung:",
+    "Removal of rust": "Entfernung von Rost, Lackschichten und Verunreinigungen von Metalloberflächen, ohne die Materialstruktur zu beschädigen",
+    "An excellent alternative": "Eine hervorragende Alternative zu aggressiven chemischen und mechanischen Methoden",
+
+    "BAL Industry is not just": "BAL Industry ist nicht nur Dienstleister, sondern auch Anbieter kompletter Lösungen im Bereich Automatisierung und Robotik. Wir entwickeln und implementieren robotergestützte Fertigungszellen, die individuell auf die Bedürfnisse unserer Kunden zugeschnitten sind, darunter:",
+
+    "robotic welding stations": "roboter-Schweißstationen",
+
+    "machining cells": "bearbeitungszellen",
+    "automated cutting and bending lines": "automatische schneid -und biegelinien",
+
+    "Our solutions": "Unsere Lösungen basieren auf bewährten Technologien und industriellen Steuerungssystemen.",
+
+    "Flexibility and Comprehensive Execution": "Flexibilität und ganzheitliche Umsetzung",
+
+    "Thanks to a modern": "Dank eines modernen Maschinenparks und eines erfahrenen Teams realisiert BAL Industry:",
+
+    "Processing of": "Aufträge auf Basis kundenseitig bereitgestellter Teile",
+
+    "Complete in-house": "Komplette Fertigung: vom Laserschneiden geeigneter Materialien (Schwarzstahl, Edelstahl), über CNC-Bearbeitung, Biegen bis hin zum Schweißen",
+
+    "Option to finish": "Oberflächenveredelung durch Pulverbeschichtung oder Nasslackierung in unseren eigenen Lackieranlagen",
+
+    "We work based on:": "Wir arbeiten auf Basis von:",
+
+    "Ready-made components": "Fertigen Bauteilen",
+
+    "Technical drawings": "Technischen Zeichnungen",
+
+    "Preliminary concepts": "Vorläufigen Konzepten, die von unserem Konstruktionsbüro weiterentwickelt werden",
+
+    "hashtags-laser": "#LaserSchweißen, #LaserSchneiden, #LaserReinigung, #LaserDienstleistungen, #Metallbearbeitung, #LaserTechnologie, #LaserInDerIndustrie, #ProzessAutomatisierung, #ModerneProduktion, #BALIndustry, #Maschinenpark, #Maßanfertigung, #RoboterSchweißen, #LaserSchneidanlage, #BlechBiegen, #Blechbearbeitung, #MetallTeile, #ProjektUmsetzung, #KomplettFertigung, #LaserPräzision, #LaserPower, #HoheQualität, #Industrie4_0, #ModerneFabrik, #Laser, #Qualität, #Präzision, #Produktion, #Technologie, #Innovation, #Industrie, #Robotik"
+  }
+}

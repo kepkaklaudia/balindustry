@@ -1,0 +1,74 @@
+{
+  "basic_data": {
+    "pathID": "paintshops-installation",
+    "name": "Nass- und Pulverbeschichtungsanlagen",
+    "additional_name": "",
+    "description": "Wir entwerfen Lackieranlagen nach den Anforderungen jedes Kunden. Wir passen die Abmessungen der Lackieranlage an die Bedürfnisse des Kunden in Bezug auf jeden Arbeitsparameter der geplanten Lackieranlage an.",
+    "with_data": false
+  },
+  "images": [
+    "/products/images/paintshops-installation/carousel1.png",
+    "/products/images/paintshops-installation/carousel2.png",
+    "/products/images/paintshops-installation/carousel3.png",
+    "/products/images/paintshops-installation/floatingCTA.png"
+  ],
+  "floating_CTA": {
+    "title": "Lackieranlage",
+    "image": "/products/images/paintshops-installation/floatingCTA.png",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/forms/paintshops",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Individuelle Lösungen unter Einsatz modernster Technologien",
+      "content": [
+        "Unser Unternehmen ist auf die Planung und umfassende Umsetzung von Pulverbeschichtungs- und Nasslackieranlagen spezialisiert. Wir bieten schlüsselfertige Projekte an, die an den verfügbaren Platz und die Größe der zu beschichtenden Teile angepasst sind. Wir arbeiten mit renommierten globalen Herstellern von Lackierkabinen und Komponenten für Lackieranlagen zusammen. Unser Planungsteam besteht aus qualifizierten Konstrukteuren und Designern. Zudem verfügen wir über einen hervorragend ausgestatteten Maschinenpark für die Produktion sowie eine umfangreiche technische Infrastruktur für Fertigung und Montage. Wir bieten Projekte mit den modernsten Technologien an, darunter Scanner zur Analyse der zu lackierenden Elemente, die die Bewegungen der Pulversprühpistolen an die Form der Teile anpassen."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "",
+      "param": [
+        ""
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    },
+    {
+      "name": "Nass- und Pulverbeschichtungsanlagen",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    },
+    {
+      "name": "Oberflächenbearbeitung",
+      "image": "/products/images/surface-treatment/carousel1.svg",
+      "link": "/product/surface-treatment"
+    },
+    {
+      "name": "5-Achsen CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    }
+  ]
+}

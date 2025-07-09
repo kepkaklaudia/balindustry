@@ -1,0 +1,171 @@
+{
+  "basic_data": {
+    "pathID": "twin-one-axis",
+    "name": "Twin One-axis Workstation",
+    "additional_name": "Robot Gofa 15000, UR5/UR 12",
+    "description": "This modern welding workstation offers double efficiency and flexibility in the welding process. Equipped with two workstations, it allows simultaneous work at both stations, increasing production efficiency.",
+    "with_data": true
+  },
+  "floating_CTA": {
+    "title": "Twin One-axis",
+    "image": "/products/images/twin-one-axis/floatingCTA.png",
+    "content": "",
+    "button": "Request a Quote",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "images": [
+    "/products/images/twin-one-axis/carousel1.png",
+    "/products/images/twin-one-axis/carousel2.png",
+    "/products/images/twin-one-axis/carousel3.png",
+    "/products/images/twin-one-axis/carousel4.png"
+  ],
+  "parameters": [
+    {
+      "name": "Work Area",
+      "value": "800x1200mm"
+    },
+    {
+      "name": "Light Source",
+      "value": "LED"
+    },
+    {
+      "name": "Welding Source",
+      "value": "Fronius / ESAB"
+    },
+    {
+      "name": "Positioner",
+      "value": "Single-axis 300 kg"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Advanced Control",
+      "content": [
+        "The entire control system is based on the latest PLC S7-1500, which serves as the operational brain of the workstation. This controller, being not only a logical controller but also a technological one, has the ability to perform complex calculations for optimal welding process control. Combined with the ET200 SP module, the controller ensures full control over all aspects of the workstation, allowing optimal resource utilization and ensuring high-quality and efficient welding processes."
+      ],
+      "image": "/products/images/twin-one-axis/main-characteristics1.png"
+    },
+    {
+      "title": "Single-Axis Positioners",
+      "content": [
+        "The positioners allow precise rotation of the welded element to a given angle during the welding process. Thanks to Siemens S210 series servo drives, the PLC S7-1500 can precisely control the movement and position of the positioners, allowing effective adjustment of the element to the optimal position during welding. This integration ensures not only high precision and welding quality but also flexibility in adapting the process to different types of elements and production requirements."
+      ],
+      "image": "/products/images/twin-one-axis/main-characteristics2.png"
+    },
+    {
+      "title": "Electrically Controlled Front Cover",
+      "content": [
+        "The electrically controlled front cover provides easy access to the workstation interior while also offering additional protection for personnel. Thanks to its electric control, the cover can be quickly and precisely opened and closed, enhancing operational convenience."
+      ],
+      "image": "/products/images/twin-one-axis/main-characteristics3.png"
+    },
+    {
+      "title": "Process Visualization",
+      "content": [
+        "The 5-inch Siemens Unified HMI panel provides the operator with an intuitive visualization of the welding process. This allows for quick identification of potential issues and real-time monitoring of working parameters."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Torch Cleaning Station and Robot TCP Point Calibration",
+      "content": [
+        "The cell is equipped with a specially designed torch cleaning station and robot TCP point calibration, ensuring optimal working conditions and precise welding."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Safety System",
+      "content": [
+        "The safety system, based on Siemens Fail-Safe controller, provides comprehensive protection for personnel working at the workstation."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Travel Track with Robot Movement",
+      "param": [
+        "2.5m"
+      ]
+    },
+    {
+      "name": "Welding Sources",
+      "param": [
+        "Mig/Mag ; Laser"
+      ]
+    },
+    {
+      "name": "Travel Track with Robot Movement",
+      "param": [
+        [
+          "2.5m"
+        ]
+      ]
+    },
+    {
+      "name": "Control System",
+      "param": [
+        "Siemens Controller"
+      ]
+    },
+    {
+      "name": "Welding Turntables",
+      "param": [
+        "Load capacity up to 300kg"
+      ]
+    },
+    {
+      "name": "Two Work Areas with Dimensions",
+      "param": [
+        "1250x1000 mm"
+      ]
+    },
+    {
+      "name": "Additional Equipment",
+      "param": [
+        "Possibility of relocating the workstation"
+      ]
+    },
+    {
+      "name": "Positioner Control",
+      "param": [
+        "Integrated with the robot controller"
+      ]
+    },
+    {
+      "name": "Safety System",
+      "param": [
+        "Compliant with safety standards"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Dual Workstation",
+      "image": "/products/images/dual/carousel1.svg",
+      "link": "/product/dual"
+    },
+    {
+      "name": "ALW 1200 - Automatic Linear Welder",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    },
+    {
+      "name": "Chamber Furnaces",
+      "image": "/products/images/furnace/carousel1.svg",
+      "link": "/product/furnace"
+    },
+    {
+      "name": "Single Workstation",
+      "image": "/products/images/single/carousel1.svg",
+      "link": "/product/single"
+    }
+  ]
+}

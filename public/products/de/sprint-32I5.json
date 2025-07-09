@@ -1,0 +1,168 @@
+{
+  "basic_data": {
+    "pathID": "sprint-32I5",
+    "name": "SPRINT 32I5",
+    "additional_name": "Bearbeitungsmaterial: Stahl, Edelstahl, Aluminium, Gusseisen, Buntmetalle, Kunststoff",
+    "description": "Fortschrittliche Drehmaschine, die eine präzise Bearbeitung von Werkstücken mit unterschiedlichen Formen und Abmessungen ermöglicht, unter Verwendung eines maximalen Materialdurchmessers von 32 mm und fünf gesteuerten Werkzeugachsen.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/sprint-32I5/carousel1.svg"
+  ],
+  "floating_CTA": {
+    "title": "SPRINT 32I5",
+    "image": "/products/images/sprint-32I5/floatingCTA.svg",
+    "content": "",
+    "button": "Preis anfragen",
+    "form": "/contact",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "Max. Verfahrweg in X-Achse",
+      "value": "70 mm"
+    },
+    {
+      "name": "Max. Werkstücklänge",
+      "value": "240 mm"
+    },
+    {
+      "name": "Max. Verfahrweg in Y-Achse",
+      "value": "405 mm"
+    },
+    {
+      "name": "Max. Innendurchmesser der Spannzange",
+      "value": "8000 kg"
+    },
+    {
+      "name": "Max. Verfahrweg in Z-Achse",
+      "value": "100 mm"
+    },
+    {
+      "name": "Max. Werkstückdurchmesser",
+      "value": "32 mm"
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Effizienz und Multifunktionalität",
+      "content": [
+        "Wir bieten fortschrittliche automatische Bearbeitungsmöglichkeiten dank 5 Linearachsen und einer C-Achse. Ausgestattet mit einer Hauptspindel mit beeindruckenden Parametern wie einer Drehzahl von 8500 U/min, einem Drehmoment von 40,4 Nm und einer Leistung von 5,5 kW sowie einer zusätzlichen Gegenspindel mit einer Drehzahl von 8500 U/min, einem Drehmoment von 14 Nm und einer Leistung von 2,2 kW, gewährleistet unsere Maschine hohe Produktivität und Präzision. Zusätzlich ermöglicht das optionale SWISSTYPEkit die Bearbeitung sowohl kurzer als auch langer Teile auf einer einzigen Maschine, und die Möglichkeit zur Bearbeitung von Stangen mit einem Durchmesser von bis zu 32 (38) mm macht unsere Maschine zu einem vielseitigen Werkzeug für die Produktion präziser Werkstücke."
+      ],
+      "image": "/products/images/sprint-32I5/main-characteristics1.svg"
+    },
+    {
+      "title": "Modulare Plattformbauweise mit 22 Werkzeugstationen",
+      "content": [
+        "Unsere Plattform zeichnet sich durch eine modulare Bauweise aus, die Flexibilität bei der Anpassung an verschiedene Produktionsprozesse bietet. Ein Satz von 22 Werkzeugstationen, davon 4 angetrieben als Standard, ermöglicht eine optimale Nutzung der Maschine. Zusätzlich erreichen die angetriebenen Werkzeugspindeln eine Drehzahl von bis zu 6000 U/min, ein Drehmoment von 3 Nm und eine Leistung von 1 kW, wodurch hohe Effizienz und Präzision in der Bearbeitung sichergestellt werden."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Fortschrittliches Steuerungspanel mit FANUC 32i-B Plus",
+      "content": [
+        "Unsere Maschine ist mit einem fortschrittlichen Steuerungspanel mit einem 10,4-Zoll-Farbdisplay ausgestattet, das eine intuitive Bedienung über das FANUC 32i-B Plus-System ermöglicht. Dank 2 Steuerkanälen, 5 Linearachsen und einer C-Achse bieten wir Flexibilität und Präzision in verschiedenen Produktionsprozessen. Zusätzlich ermöglicht das optionale Werkzeugüberwachungssystem mit grafischer Werkzeugbelastungsanzeige eine optimale Prozessverwaltung. Unsere Maschine unterstützt bis zu 2 gleichzeitig arbeitende Werkzeuge und gewährleistet maximale Produktivität und Effizienz in der Fertigung."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Durchbruch in digitaler Präzision: Plattform mit höchster Steifigkeit und Genauigkeit",
+      "content": [
+        "Unsere Plattform stellt einen revolutionären Schritt in der digitalen industriellen Präzision dar. Dank konstanter Steifigkeit, gewährleistet durch große, ausgewogen positionierte Kugelführungen, sowie vertikalen Abdeckungen und freiem Spänefluss, garantieren wir eine unvergleichliche Bearbeitungsqualität. Zusätzlich sorgen integrierte Motorspindeln für die Haupt- und Gegenspindel mit direktem Messsystem für höchste Präzision. Unsere thermosymmetrische Maschinenbettkonstruktion ist eine Garantie für höchste Genauigkeit bei jeder Aufgabe."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Hauptspindel",
+      "param": [
+        "Drehzahl: 8500 U/min",
+        "Drehmoment: 40,4 Nm",
+        "Leistung: 5,5 kW"
+      ]
+    },
+    {
+      "name": "Gegenspindel",
+      "param": [
+        "Drehzahl: 8500 U/min",
+        "Drehmoment: 14 Nm",
+        "Leistung: 2,2 kW"
+      ]
+    },
+    {
+      "name": "SWISSTYPEkit",
+      "param": [
+        "Zum Drehen kurzer und langer Teile auf einer Maschine"
+      ]
+    },
+    {
+      "name": "Stangenbearbeitung",
+      "param": [
+        "Durchmesser bis 32 (38) mm"
+      ]
+    },
+    {
+      "name": "Werkzeugstationen",
+      "param": [
+        "Gesamtzahl: 22",
+        "Angetriebene Werkzeugstationen als Standard: 4"
+      ]
+    },
+    {
+      "name": "Angetriebene Werkzeugspindeln",
+      "param": [
+        "Drehzahl: 6000 U/min",
+        "Drehmoment: 3 Nm",
+        "Leistung: 1 kW"
+      ]
+    },
+    {
+      "name": "Steuerung",
+      "param": [
+        "2 Steuerkanäle",
+        "5 Linearachsen und C-Achse"
+      ]
+    },
+    {
+      "name": "Werkzeugüberwachungssystem",
+      "param": [
+        "Mit grafischer Werkzeugbelastungsanzeige als Option"
+      ]
+    },
+    {
+      "name": "Gleichzeitige Bearbeitung",
+      "param": [
+        "Bis zu 2 Werkzeuge gleichzeitig"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "M1",
+      "image": "/products/images/m1/carousel1.svg",
+      "link": "/product/m1"
+    },
+    {
+      "name": "ARC Trackmotion 2t",
+      "image": "/products/images/arc-trackmotion-2t/carousel1.svg",
+      "link": "/product/arc-trackmotion-2t"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "5-Achsen CNC",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Primus Waterjet INTERMAC",
+      "image": "/products/images/waterjet/carousel1.svg",
+      "link": "/product/waterjet"
+    }
+  ]
+}

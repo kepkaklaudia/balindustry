@@ -1,0 +1,118 @@
+{
+  "basic_data": {
+    "pathID": "dual",
+    "name": "Station Dual",
+    "additional_name": "",
+    "description": "La cellule GoFa Dual est une station de soudage avancée conçue pour garantir une efficacité et une sécurité maximales dans le processus de soudage. Avec ses deux stations de soudage, elle permet de travailler sur deux positions, augmentant ainsi la flexibilité de production.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/dual/carousel1.svg",
+    "/products/images/dual/carousel2.png",
+    "/products/images/dual/carousel3.png",
+    "/products/images/dual/carousel4.png",
+    "/products/images/dual/carousel5.png",
+    "/products/images/dual/carousel6.png",
+    "/products/images/dual/carousel7.png",
+    "/products/images/dual/carousel8.png",
+    "/products/images/dual/carousel9.png"
+  ],
+  "floating_CTA": {
+    "title": "Station Dual",
+    "image": "/products/images/dual/floatingCTA.svg",
+    "content": "",
+    "button": "Demander un devis",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Source de soudage Fronius ou ESAB",
+      "content": [
+        "L'utilisateur peut choisir entre des sources de soudage des marques renommées Fronius ou ESAB, offrant ainsi flexibilité et adaptation aux différents besoins de soudage."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Rail de déplacement avec servo-entraînement",
+      "content": [
+        "La cellule est équipée d'un rail de déplacement sur lequel le robot est monté. Le système est entraîné par un servo-moteur HIWIN, garantissant un mouvement fluide et précis du robot sur la station."
+      ],
+      "image": "/products/images/dual/mainCharacteristics1.png"
+    },
+    {
+      "title": "Possibilité de travailler sur deux stations",
+      "content": [
+        "La cellule permet de travailler sur deux stations, mais le soudage est effectué sur une seule station à la fois. Cette configuration offre une grande flexibilité de production en permettant la préparation simultanée de deux ensembles différents ou en réduisant les temps d'arrêt."
+      ],
+      "image": ""
+    },
+    {
+      "title": "Portes avant à commande pneumatique",
+      "content": [
+        "Les portes avant pneumatiques facilitent l'accès et l'utilisation, assurant ainsi un flux de travail fluide."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Robot",
+      "param": [
+        "Gofa 15000, UR 5 / UR 10"
+      ]
+    },
+    {
+      "name": "Source de soudage",
+      "param": [
+        "Fronius / ESAB"
+      ]
+    },
+    {
+      "name": "Source lumineuse",
+      "param": [
+        "LED"
+      ]
+    },
+    {
+      "name": "Zone de travail",
+      "param": [
+        "800 x 1200 mm *2"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Station Single",
+      "image": "/products/images/single/carousel1.svg",
+      "link": "/product/single"
+    },
+    {
+      "name": "ALW 1200 - Soudeur Linéaire Automatique",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "Cabines de peinture humide et poudre",
+      "image": "/products/images/paintshops-installation/carousel1.png",
+      "link": "/product/paintshops-installation"
+    },
+    {
+      "name": "CNC 5 axes",
+      "image": "/products/images/5-axis-cnc/carousel1.svg",
+      "link": "/product/5-axis-cnc"
+    },
+    {
+      "name": "Station Twin One-axis",
+      "image": "/products/images/twin-one-axis/carousel1.png",
+      "link": "/product/twin-one-axis"
+    }
+  ]
+}

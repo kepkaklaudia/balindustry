@@ -1,0 +1,110 @@
+{
+  "basic_data": {
+    "pathID": "flex-fronius",
+    "name": "Flex Cobot Fronius",
+    "additional_name": "",
+    "description": "Universelles Schweißset für die robotergestützte Anwendung mit kollaborierenden Robotern, die für Werkstücke unterschiedlicher Größe einsatzbereit sind.",
+    "with_data": true
+  },
+  "images": [
+    "/products/images/flex-fronius/carousel1.png",
+    "/products/images/flex-fronius/carousel2.png",
+    "/products/images/flex-fronius/carousel3.png",
+    "/products/images/flex-fronius/carousel4.png",
+    "/products/images/flex-fronius/carousel5.png"
+  ],
+  "floating_CTA": {
+    "title": "Flex Cobot Fronius",
+    "image": "/products/images/flex-fronius/carousel1.png",
+    "content": "",
+    "button": "Angebot anfragen",
+    "form": "/forms/robotic-stations",
+    "qp": "",
+    "ar": ""
+  },
+  "parameters": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "main_characteristics": [
+    {
+      "title": "Benutzerfreundlichkeit",
+      "content": [
+        "Die einfach zu bedienende App-basierte Software ermöglicht sofortigen Zugriff auf die Teileprogrammierung, Analysen zur Erhöhung der Wiederholgenauigkeit und Betriebszeit sowie die Leistungsüberwachung."
+      ],
+      "image": "/products/images/flex-fronius/carousel5.png"
+    },
+    {
+      "title": "Innovative Funktionalität",
+      "content": [
+        "Die fortschrittliche Pulsfunktion reduziert die Wärmeeinbringung in das Material und minimiert Spritzer, wodurch die Effizienz durch geringeren Nacharbeitsaufwand verbessert wird – spart Zeit und Kosten."
+      ],
+      "image": ""
+    }
+  ],
+  "specification": [
+    {
+      "name": "Arbeitstisch",
+      "param": [
+        "800x1000 mm",
+        "1000x1000 mm",
+        "1200x1200 mm"
+      ]
+    },
+    {
+      "name": "Schweißmethode",
+      "param": [
+        "MIG/MAG"
+      ]
+    },
+    {
+      "name": "Reichweite des kollaborierenden Roboters",
+      "param": [
+        "0,9 m"
+      ]
+    },
+    {
+      "name": "Möglichkeit zum Wechsel des Werkzeugs für folgende Aufgaben",
+      "param": [
+        "Transport",
+        "Montage",
+        "Schleifen"
+      ]
+    },
+    {
+      "name": "Adapter für die Roboterbefestigung",
+      "param": [
+        "ABB und UR"
+      ]
+    }
+  ],
+  "additional_products": [
+    {
+      "name": "Flex Cobot Esab",
+      "image": "/products/images/flex-esab/carousel1.png",
+      "link": "/product/flex-esab"
+    },
+    {
+      "name": "ALW 1200 - Automatischer Linear-Schweißer",
+      "image": "/products/images/alw-1200/carousel1.png",
+      "link": "/product/alw-1200"
+    },
+    {
+      "name": "DMU 210 P",
+      "image": "/products/images/dmu-210-p/carousel1.svg",
+      "link": "/product/dmu-210-p"
+    },
+    {
+      "name": "ARC B250",
+      "image": "/products/images/arc-b250/carousel1.svg",
+      "link": "/product/arc-b250"
+    },
+    {
+      "name": "SPRINT 32I5",
+      "image": "/products/images/sprint-32I5/carousel1.svg",
+      "link": "/product/sprint-32I5"
+    }
+  ]
+}
