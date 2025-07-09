@@ -1,6 +1,5 @@
 'use client'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
-import DataContextProvider from '../context/dataContext'
 
 interface Props {
   children: React.ReactNode
@@ -9,7 +8,5 @@ interface Props {
 const queryClient = new QueryClient()
 
 export const TanstackWrapper = ({ children }: Props) => (
-  <QueryClientProvider client={queryClient}>
-    <DataContextProvider>{children} </DataContextProvider>
-  </QueryClientProvider>
+  <QueryClientProvider client={queryClient}>{children}</QueryClientProvider>
 )
