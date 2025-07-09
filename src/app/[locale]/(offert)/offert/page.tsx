@@ -34,6 +34,7 @@ const Offert = () => {
     },
   ]
 
+  
   return (
     <main>
       <div className="relative mt-[70px]">
