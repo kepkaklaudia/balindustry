@@ -1,0 +1,19 @@
+@import '@/app/styles/fontSizes';
+@import '@/app/styles/colors';
+@import '@/app/styles/mixins';
+
+.heading {
+  color: $section-name-color;
+  font-size: $section-name-small-size;
+  font-weight: 400;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  max-width: 800px;
+}
+
+@include laptop {
+  .heading {
+    font-size: $section-name-size;
+  }
+}

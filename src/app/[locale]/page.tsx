@@ -8,6 +8,7 @@ import Portfolio from '@/components/homePage/Portfolio/Portfolio'
 import CatalogTools from '@/components/homePage/CatalogTools/CatalogTools'
 import Partners from '@/components/homePage/Partners/Partners'
 import Products from '@/components/homePage/Products/Products'
+import OffertSlider from '@/components/homePage/OffertSlider/OffertSlider'
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <WelcomeSlider />
       <main className={styles.main}>
         <div className={styles.contentWrapper}>
+          <OffertSlider />
           <Solutions />
           <Portfolio />
           <CatalogTools />

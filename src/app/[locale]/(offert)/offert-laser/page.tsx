@@ -21,23 +21,23 @@ const Offert = () => {
 
   const slidesContent = [
     {
-      link: '/offert/laser-1.jpeg',
+      link: '/offert/laser/laser-1.jpeg',
     },
     {
-      link: '/offert/laser-2.jpeg',
+      link: '/offert/laser/laser-2.jpeg',
     },
     {
-      link: '/offert/laser-3.jpeg',
+      link: '/offert/laser/laser-3.jpeg',
     },
     {
-      link: '/offert/laser-4.jpeg',
+      link: '/offert/laser/laser-4.jpeg',
     },
   ]
 
   return (
     <main>
       <div className="relative mt-[70px]">
-        <div className="absolute  left-1/2 top-1/2 w-11/12 max-w-[600px] -translate-x-1/2 -translate-y-1/2 lg:left-10 lg:translate-x-0">
+        <div className="absolute left-1/2 top-1/2 w-11/12 max-w-[600px] -translate-x-1/2 -translate-y-1/2 lg:left-10 lg:translate-x-0">
           <p className="text-center text-lg font-bold text-white xs:text-left xs:text-2xl sm:left-8 sm:text-3xl md:text-4xl">
             {t('Laser Services Offer')}
           </p>
@@ -109,7 +109,7 @@ const Offert = () => {
       <WhyBalindustrySection />
       <SectionTitle className="text-black">{t('Our projects')}</SectionTitle>
       <RealisationsSlider slidesContent={slidesContent} />
-      <p className="mx-auto my-16 w-11/12 text-sm text-gray-500">
+      <p className="mx-auto my-10 md:my-16 w-11/12 text-sm text-gray-500">
         {t('hashtags-laser')}
       </p>
     </main>

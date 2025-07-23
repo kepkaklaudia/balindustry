@@ -1,11 +1,11 @@
 import { getTranslations } from 'next-intl/server'
 import Image from 'next/image'
+import { useTranslations } from 'next-intl'
 import RealisationsSlider from '@/components/offert/RealisationsSlider'
 import { ImageTextBlock } from '@/components/offert/ImageTextBlock'
 import { IconSection } from '@/components/offert/IconSection'
 import { SectionTitle } from '@/components/offert/SectionTitle'
 import { BulletList } from '@/components/offert/BulletList'
-import { useTranslations } from 'next-intl'
 import { WhyBalindustrySection } from '@/components/offert/WhyBalindustrySection'
 
 export async function generateMetadata() {
@@ -21,16 +21,16 @@ const Offert = () => {
 
   const slidesContent = [
     {
-      link: '/offert/welding-1.jpeg',
+      link: '/offert/welding/welding-1.jpeg',
     },
     {
-      link: '/offert/welding-2.jpeg',
+      link: '/offert/welding/welding-2.jpeg',
     },
     {
-      link: '/offert/welding-3.jpeg',
+      link: '/offert/welding/welding-3.jpeg',
     },
     {
-      link: '/offert/welding-4.jpeg',
+      link: '/offert/welding/welding-4.jpeg',
     },
   ]
 
@@ -53,7 +53,7 @@ const Offert = () => {
           height="674"
         />
       </div>
-      <div className="mx-auto my-10 flex w-11/12 flex-col gap-10 md:flex-row">
+      <div className="mx-auto my-10 flex w-11/12 flex-col gap-10 md:max-h-[500px] md:flex-row lg:md:max-h-[450px]">
         <ImageTextBlock src="/offert/mig.png" />
         <div className="flex w-full flex-col">
           <SectionTitle className="w-full">
@@ -83,29 +83,29 @@ const Offert = () => {
       </SectionTitle>
       <div className="mx-auto my-10 flex w-full flex-wrap justify-center gap-4">
         <IconSection
-          src="/offert/detal.png"
+          src="/offert/icons/detal.png"
           title={t('Cutting and burning parts')}
           description={t('Precise cutting')}
         />
         <IconSection
-          src="/offert/cnc.png"
+          src="/offert/icons/cnc.png"
           title={t('CNC machining')}
           description={t(
             'Milling, turning, drilling with high dimensional accuracy'
           )}
         />
         <IconSection
-          src="/offert/bending.png"
+          src="/offert/icons/bending.png"
           title={t('Bending components')}
           description={t('Modern press brakes')}
         />
         <IconSection
-          src="/offert/welding.png"
+          src="/offert/icons/welding.png"
           title={t('Welding')}
           description={t('Manual or robotic')}
         />
         <IconSection
-          src="/offert/paints.png"
+          src="/offert/icons/paints.png"
           title={t('Painting')}
           description={t('In-house painting')}
         />
@@ -157,7 +157,7 @@ const Offert = () => {
       <WhyBalindustrySection />
       <SectionTitle className="text-black">{t('Our projects')}</SectionTitle>
       <RealisationsSlider slidesContent={slidesContent} />
-      <p className="mx-auto my-16 w-11/12 text-sm text-gray-500 ">
+      <p className="mx-auto my-10 w-11/12 text-sm text-gray-500 md:my-16">
         {t('hashtags')}
       </p>
     </main>
