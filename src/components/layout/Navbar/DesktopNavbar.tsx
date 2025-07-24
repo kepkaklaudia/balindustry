@@ -267,18 +267,33 @@ const DesktopNavbar = () => {
                   <span>{t('Cutting quotation')}</span>
                 </MenubarItem>
               </Link>
-              <Link href="/product/service-paintshop">
-                <MenubarItem>
-                  <Image
-                    src={'/images/navbarProducts/service-paintshop.svg'}
-                    alt={'single'}
-                    width={80}
-                    height={80}
-                  />
-                  <span>{t('Powder and wet painting')}</span>
-                </MenubarItem>
-              </Link>
-              <Link href="/offert">
+
+              <div className="row-span-2 px-2 py-1.5">
+                <SubCategoryLabel content={t('Offert')} />
+                <Link href="/offert-bending">
+                  <MenubarItem>{t('Sheet metal bending services')}</MenubarItem>
+                </Link>
+                <Link href="/offert-cnc">
+                  <MenubarItem>{t('CNC Services')}</MenubarItem>
+                </Link>
+                <Link href="/offert-cutting">
+                  <MenubarItem>{t('Sheet Metal Cutting')}</MenubarItem>
+                </Link>
+
+                <Link href="/offert-painting">
+                  <MenubarItem>{t('Powder Coating')}</MenubarItem>
+                </Link>
+                <Link href="/offert-shops">
+                  <MenubarItem>{t('Industrial Paint')}</MenubarItem>
+                </Link>
+
+                <Link href="/offert-workstations">
+                  <MenubarItem>
+                    {t('Robotic Cells and Industrial Workstations')}
+                  </MenubarItem>
+                </Link>
+              </div>
+              <Link href="/offert-welding">
                 <MenubarItem>
                   <Image
                     src={'/images/navbarProducts/offert.svg'}
@@ -299,7 +314,7 @@ const DesktopNavbar = () => {
                     height={80}
                     className="h-[80px] w-[80px] object-cover"
                   />
-                  <span>{t('Laser Services Offer')}</span>
+                  <span>{t('Laser Services')}</span>
                 </MenubarItem>
               </Link>
             </div>

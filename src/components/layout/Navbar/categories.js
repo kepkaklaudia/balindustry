@@ -152,16 +152,6 @@ export const categories = [
         name: '',
         items: [
           {
-            name: 'Powder and wet painting',
-            image: '',
-            link: '/product/service-paintshop',
-          },
-        ],
-      },
-      {
-        name: '',
-        items: [
-          {
             name: 'Offer form',
             image: '',
             link: '/forms/form',
@@ -174,7 +164,7 @@ export const categories = [
           {
             name: 'MIG, MAG, TIG offert',
             image: '',
-            link: '/offert',
+            link: '/offert-welding',
           },
         ],
       },
@@ -182,9 +172,72 @@ export const categories = [
         name: '',
         items: [
           {
-            name: 'Laser Services Offer',
+            name: 'Laser Services',
             image: '',
             link: '/offert-laser',
+          },
+        ],
+      },
+      {
+        name: '',
+        items: [
+          {
+            name: 'CNC Services',
+            image: '',
+            link: '/offert-cnc',
+          },
+        ],
+      },
+      {
+        name: '',
+        items: [
+          {
+            name: 'Sheet metal bending services',
+            image: '',
+            link: '/offert-bending',
+          },
+        ],
+      },
+
+      {
+        name: '',
+        items: [
+          {
+            name: 'Industrial Paint',
+            image: '',
+            link: '/offert-shops',
+          },
+        ],
+      },
+      {
+        name: '',
+        items: [
+          {
+            name: 'Sheet Metal Cutting',
+            image: '',
+            link: '/offert-cutting',
+          },
+        ],
+      },
+
+      {
+        name: '',
+        items: [
+          {
+            name: 'Powder Coating',
+            image: '',
+            link: '/offert-painting',
+          },
+        ],
+      },
+
+      {
+        name: '',
+        items: [
+          {
+            name: 'Robotic Cells and Industrial Workstations',
+            image: '',
+            link: '/offert-workstations',
           },
         ],
       },

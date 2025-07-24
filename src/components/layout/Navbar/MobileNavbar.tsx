@@ -65,8 +65,14 @@ const MobileNavbar: React.FC<{
     | 'Flex Cobot Fronius'
     | 'Chamber furnace'
     | 'Satin finishing machine'
-    | 'Laser Services Offer'
     | 'MIG, MAG, TIG offert'
+    | 'Laser Services'
+    | 'CNC Services'
+    | 'Sheet metal bending services'
+    | 'Industrial Paint'
+    | 'Sheet Metal Cutting'
+    | 'Powder Coating'
+    | 'Robotic Cells and Industrial Workstations'
 
   return (
     <div className="fixed top-0 z-[2] flex min-h-[70px] w-full items-center justify-between bg-navbar px-[38px] py-0 text-white transition-all navbar:hidden">
