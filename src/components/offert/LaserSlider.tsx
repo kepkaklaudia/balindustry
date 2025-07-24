@@ -14,7 +14,7 @@ export default function LaserSlider() {
   const t = useTranslations('offert')
   const slidesContent = [
     {
-      link: '/offert/laser-welding.png',
+      link: '/offert/laser/laser-welding.png',
       title: t('Laser Welding:'),
       items: [
         t('Precise and durable'),
@@ -24,12 +24,12 @@ export default function LaserSlider() {
       ],
     },
     {
-      link: '/offert/laser-cut.png',
+      link: '/offert/laser/laser-cut.png',
       title: t('Laser Cutting:'),
       items: [t('Fast, clean'), t('Execution based'), t('High precision')],
     },
     {
-      link: '/offert/laser-clean.png',
+      link: '/offert/laser/laser-clean.png',
       title: t('Laser Cleaning:'),
       items: [t('Removal of rust'), t('An excellent alternative')],
     },
@@ -59,7 +59,7 @@ export default function LaserSlider() {
         {slidesContent.map((slide, index) => (
           <SwiperSlide key={index}>
             <div className="relative flex h-full cursor-pointer flex-col items-center justify-center">
-              <div className="absolute left-1/2 top-1/2 z-[2] w-11/12 max-w-[500px] -translate-x-1/2 -translate-y-1/2 lg:left-10 lg:translate-x-0">
+              <div className="absolute -mt-2 left-1/2 top-1/2 z-[2] w-11/12 max-w-[500px] -translate-x-1/2 -translate-y-1/2 lg:left-10 lg:translate-x-0">
                 <p className="text-lg font-bold text-orange-400 xs:text-2xl sm:left-8 sm:text-3xl md:text-4xl">
                   {t('Scope of Laser Services')}
                 </p>

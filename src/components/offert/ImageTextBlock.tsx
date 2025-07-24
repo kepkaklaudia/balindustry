@@ -10,7 +10,7 @@ export const ImageTextBlock = ({
   <div className="w-full">
     <Image
       src={src}
-      className="h-full max-h-[350px] w-screen object-cover md:max-h-[450px]"
+      className="h-full max-h-[350px] w-screen object-cover md:max-h-none"
       alt=""
       width={src.includes('r5') ? '4096' : '1080'}
       height={src.includes('r5') ? '2160' : '1350'}

@@ -9,7 +9,7 @@ export const SectionTitle = ({
 }) => (
   <p
     className={cn(
-      'mx-auto mb-2 w-11/12 text-lg font-bold text-orange-400 lg:text-xl',
+      'mx-auto mb-2 w-11/12 text-xl font-bold text-orange-400 lg:text-2xl',
       className
     )}
   >
