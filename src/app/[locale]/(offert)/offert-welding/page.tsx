@@ -47,7 +47,7 @@ const Offert = () => {
         </div>
         <Image
           src="/offert/offert.png"
-          className="h-[600px] w-screen object-cover object-top sm:max-h-[700px] md:max-h-[600px]"
+          className="h-[400px] w-screen object-cover object-top"
           alt=""
           width="1920"
           height="674"

@@ -31,7 +31,7 @@ const Offert = () => {
         </div>
         <Image
           src="/offert/workstations/workstations.png"
-          className="h-[400px] w-screen object-cover object-top sm:max-h-[400px] md:max-h-[400px]"
+          className="h-[400px] w-screen object-cover object-top"
           alt=""
           width="1440"
           height="394"
@@ -65,7 +65,7 @@ const Offert = () => {
         {t('Our welding cells')}
       </p>
       <div className="mx-auto my-10 flex w-11/12 flex-col gap-10 md:flex-row">
-        <ImageTextBlock src="/offert/mig.png" />
+        <ImageTextBlock src="/offert/workstations/workstations-1.png" />
         <div className="flex w-full flex-col">
           <SectionTitle className="w-full text-black">
             {t('We offer:')}
@@ -114,7 +114,7 @@ const Offert = () => {
             items={[t('A dedicated solution')]}
           />
         </div>
-        <ImageTextBlock src="/offert/mig.png" />
+        <ImageTextBlock src="/offert/workstations/workstations-2.png" />
       </div>
 
       <div className="relative mx-auto w-11/12">
@@ -170,7 +170,7 @@ const Offert = () => {
       </p>
 
       <div className="mx-auto my-10 flex w-11/12 flex-col gap-10 md:flex-row">
-        <ImageTextBlock src="/offert/mig.png" />
+        <ImageTextBlock src="/offert/workstations/workstations-3.png" />
         <div className="flex w-full flex-col">
           <BulletList
             title={t('Complete in-house production ensures:')}

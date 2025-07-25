@@ -12,6 +12,8 @@ import weldingLogo from '../../../../public/offert/icons/welding.png'
 import detalLogo from '../../../../public/offert/icons/detal.png'
 import paintsLogo from '../../../../public/offert/icons/paints.png'
 import manipulationLogo from '../../../../public/offert/icons/manipulation.png'
+import shopsLogo from '../../../../public/offert/icons/shops.png'
+import laserLogo from '../../../../public/offert/icons/laser.png'
 import useWindowDimensions from '@/utils/useWindowDimensions'
 import './swiperStyles.scss'
 import { useTranslations } from 'next-intl'
@@ -28,14 +30,14 @@ export default function OffertSlider() {
       logo: weldingLogo,
       href: '/offert-welding',
     },
-    { name: 'Laser Services', logo: '', href: '/offert-laser' },
+    { name: 'Laser Services', logo: laserLogo, href: '/offert-laser' },
     { name: 'CNC Services', logo: cncLogo, href: '/offert-cnc' },
     {
       name: 'Sheet metal bending services',
       logo: bendingLogo,
       href: '/offert-bending',
     },
-    { name: 'Industrial Paint', logo: paintsLogo, href: '/offert-shops' },
+    { name: 'Industrial Paint', logo: shopsLogo, href: '/offert-shops' },
     { name: 'Sheet Metal Cutting', logo: detalLogo, href: '/offert-cutting' },
     { name: 'Powder Coating', logo: paintsLogo, href: '/offert-painting' },
     {
